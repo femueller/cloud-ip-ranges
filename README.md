@@ -11,3 +11,10 @@ which shows their assigned IP ranges.
     * IPv6 - https://www.cloudflare.com/ips-v6
 * DigitalOcean (DO) - https://digitalocean.com/geo/google.csv
 * Google Cloud (GCloud) - https://www.gstatic.com/ipranges/cloud.json
+* Oracle Cloud - https://docs.oracle.com/iaas/tools/public_ip_ranges.json
+
+### Missing data (to add)
+
+* Azure - https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
+* Tencent Cloud
+* Alibaba Cloud (Aliyun)
