@@ -1,6 +1,6 @@
 {
-  "syncToken": "1629295276",
-  "createDate": "2021-08-18-14-01-16",
+  "syncToken": "1629304273",
+  "createDate": "2021-08-18-16-31-13",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -26454,6 +26454,12 @@
       "ip_prefix": "13.245.166.132/30",
       "region": "af-south-1",
       "service": "AMAZON_APPFLOW",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ip_prefix": "13.245.166.176/29",
+      "region": "af-south-1",
+      "service": "CODEBUILD",
       "network_border_group": "af-south-1"
     },
     {
