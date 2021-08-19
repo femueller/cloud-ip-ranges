@@ -1,6 +1,6 @@
 {
-  "syncToken": "1629358275",
-  "createDate": "2021-08-19-07-31-15",
+  "syncToken": "1629378074",
+  "createDate": "2021-08-19-13-01-14",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -27039,6 +27039,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ip_prefix": "35.75.131.80/29",
+      "region": "ap-northeast-1",
+      "service": "CODEBUILD",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
       "ip_prefix": "52.199.127.192/26",
       "region": "ap-northeast-1",
       "service": "CLOUDFRONT",
@@ -27357,6 +27363,12 @@
       "network_border_group": "ap-northeast-2"
     },
     {
+      "ip_prefix": "3.38.90.8/29",
+      "region": "ap-northeast-2",
+      "service": "CODEBUILD",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
       "ip_prefix": "52.78.247.128/26",
       "region": "ap-northeast-2",
       "service": "CLOUDFRONT",
@@ -27534,6 +27546,12 @@
       "ip_prefix": "15.152.24.0/27",
       "region": "ap-northeast-3",
       "service": "CLOUD9",
+      "network_border_group": "ap-northeast-3"
+    },
+    {
+      "ip_prefix": "15.152.24.128/29",
+      "region": "ap-northeast-3",
+      "service": "CODEBUILD",
       "network_border_group": "ap-northeast-3"
     },
     {
@@ -27726,6 +27744,12 @@
       "ip_prefix": "3.109.72.0/25",
       "region": "ap-south-1",
       "service": "API_GATEWAY",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "3.109.72.152/29",
+      "region": "ap-south-1",
+      "service": "CODEBUILD",
       "network_border_group": "ap-south-1"
     },
     {
@@ -28341,6 +28365,12 @@
       "network_border_group": "ap-southeast-2"
     },
     {
+      "ip_prefix": "3.26.127.24/29",
+      "region": "ap-southeast-2",
+      "service": "CODEBUILD",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
       "ip_prefix": "3.26.58.224/27",
       "region": "ap-southeast-2",
       "service": "ROUTE53_RESOLVER",
@@ -28578,6 +28608,12 @@
       "ip_prefix": "3.98.171.196/30",
       "region": "ca-central-1",
       "service": "AMAZON_APPFLOW",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "3.98.171.224/29",
+      "region": "ca-central-1",
+      "service": "CODEBUILD",
       "network_border_group": "ca-central-1"
     },
     {
@@ -28953,6 +28989,12 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ip_prefix": "3.68.251.232/29",
+      "region": "eu-central-1",
+      "service": "CODEBUILD",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "35.157.127.248/29",
       "region": "eu-central-1",
       "service": "CODEBUILD",
@@ -29100,6 +29142,12 @@
       "ip_prefix": "13.51.120.0/24",
       "region": "eu-north-1",
       "service": "API_GATEWAY",
+      "network_border_group": "eu-north-1"
+    },
+    {
+      "ip_prefix": "13.51.253.80/29",
+      "region": "eu-north-1",
+      "service": "CODEBUILD",
       "network_border_group": "eu-north-1"
     },
     {
@@ -29853,6 +29901,12 @@
       "network_border_group": "eu-west-2"
     },
     {
+      "ip_prefix": "18.169.230.200/29",
+      "region": "eu-west-2",
+      "service": "CODEBUILD",
+      "network_border_group": "eu-west-2"
+    },
+    {
       "ip_prefix": "3.10.127.32/27",
       "region": "eu-west-2",
       "service": "CLOUD9",
@@ -30054,6 +30108,12 @@
       "ip_prefix": "13.36.78.0/24",
       "region": "eu-west-3",
       "service": "ROUTE53_RESOLVER",
+      "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "13.36.84.112/29",
+      "region": "eu-west-3",
+      "service": "CODEBUILD",
       "network_border_group": "eu-west-3"
     },
     {
@@ -30450,6 +30510,12 @@
       "ip_prefix": "15.228.107.16/28",
       "region": "sa-east-1",
       "service": "S3",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "15.228.126.200/29",
+      "region": "sa-east-1",
+      "service": "CODEBUILD",
       "network_border_group": "sa-east-1"
     },
     {
@@ -32256,6 +32322,12 @@
       "ip_prefix": "3.101.177.20/30",
       "region": "us-west-1",
       "service": "AMAZON_APPFLOW",
+      "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "3.101.177.48/29",
+      "region": "us-west-1",
+      "service": "CODEBUILD",
       "network_border_group": "us-west-1"
     },
     {
