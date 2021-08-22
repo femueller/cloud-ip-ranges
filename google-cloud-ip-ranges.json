@@ -1,6 +1,6 @@
 {
-  "syncToken": "1629565408347",
-  "creationTime": "2021-08-21T10:03:28.34746",
+  "syncToken": "1629651737110",
+  "creationTime": "2021-08-22T10:02:17.11009",
   "prefixes": [{
     "ipv4Prefix": "34.80.0.0/15",
     "service": "Google Cloud",
