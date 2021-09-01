@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2021-08-26T05:05:59.276746",
+    "last_updated_timestamp": "2021-09-01T00:22:34.821422",
     "regions": [
         {
             "region": "us-phoenix-1",
@@ -866,6 +866,12 @@
                 },
                 {
                     "cidr": "132.226.192.0/20",
+                    "tags": [
+                        "OCI"
+                    ]
+                },
+                {
+                    "cidr": "150.230.144.0/20",
                     "tags": [
                         "OCI"
                     ]
