@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2021-10-07T03:26:26.521748",
+    "last_updated_timestamp": "2021-10-11T04:12:18.378192",
     "regions": [
         {
             "region": "us-phoenix-1",
@@ -1211,6 +1211,48 @@
             ]
         },
         {
+            "region": "il-jerusalem-1",
+            "cidrs": [
+                {
+                    "cidr": "129.159.128.0/19",
+                    "tags": [
+                        "OCI"
+                    ]
+                },
+                {
+                    "cidr": "129.149.120.0/22",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "129.149.126.0/25",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "134.70.172.0/22",
+                    "tags": [
+                        "OSN",
+                        "OBJECT_STORAGE"
+                    ]
+                },
+                {
+                    "cidr": "140.91.76.0/23",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "140.204.108.128/25",
+                    "tags": [
+                        "OSN"
+                    ]
+                }
+            ]
+        },
+        {
             "region": "us-sanjose-1",
             "cidrs": [
                 {
@@ -2122,7 +2164,7 @@
                     ]
                 },
                 {
-                    "cidr": "192.29.248.0/23",
+                    "cidr": "192.29.248.0/21",
                     "tags": [
                         "OSN"
                     ]
