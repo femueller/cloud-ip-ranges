@@ -1,6 +1,6 @@
 {
-  "syncToken": "1634920994",
-  "createDate": "2021-10-22-16-43-14",
+  "syncToken": "1634939594",
+  "createDate": "2021-10-22-21-53-14",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -29733,6 +29733,18 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ip_prefix": "3.70.195.64/26",
+      "region": "eu-central-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "3.70.211.0/25",
+      "region": "eu-central-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "35.157.127.248/29",
       "region": "eu-central-1",
       "service": "CODEBUILD",
@@ -32742,6 +32754,18 @@
       "ip_prefix": "3.143.206.104/29",
       "region": "us-east-2",
       "service": "CODEBUILD",
+      "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "3.144.141.192/26",
+      "region": "us-east-2",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "3.145.31.0/26",
+      "region": "us-east-2",
+      "service": "API_GATEWAY",
       "network_border_group": "us-east-2"
     },
     {
