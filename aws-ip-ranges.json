@@ -1,6 +1,6 @@
 {
-  "syncToken": "1634823194",
-  "createDate": "2021-10-21-13-33-14",
+  "syncToken": "1634857396",
+  "createDate": "2021-10-21-23-03-16",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -29700,6 +29700,12 @@
       "ip_prefix": "3.68.251.232/29",
       "region": "eu-central-1",
       "service": "CODEBUILD",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "3.70.195.128/25",
+      "region": "eu-central-1",
+      "service": "API_GATEWAY",
       "network_border_group": "eu-central-1"
     },
     {
