@@ -1,6 +1,6 @@
 {
-  "syncToken": "1634939594",
-  "createDate": "2021-10-22-21-53-14",
+  "syncToken": "1635276194",
+  "createDate": "2021-10-26-19-23-14",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -31306,6 +31306,12 @@
     },
     {
       "ip_prefix": "15.228.144.0/24",
+      "region": "sa-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "15.228.151.0/24",
       "region": "sa-east-1",
       "service": "API_GATEWAY",
       "network_border_group": "sa-east-1"
