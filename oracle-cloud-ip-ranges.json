@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2021-11-10T07:12:50.294186",
+    "last_updated_timestamp": "2021-11-21T20:24:35.697604",
     "regions": [
         {
             "region": "us-phoenix-1",
@@ -206,6 +206,48 @@
                 },
                 {
                     "cidr": "192.29.104.0/22",
+                    "tags": [
+                        "OSN"
+                    ]
+                }
+            ]
+        },
+        {
+            "region": "me-abudhabi-1",
+            "cidrs": [
+                {
+                    "cidr": "129.151.128.0/19",
+                    "tags": [
+                        "OCI"
+                    ]
+                },
+                {
+                    "cidr": "129.149.48.0/22",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "129.149.52.0/25",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "134.70.144.0/22",
+                    "tags": [
+                        "OSN",
+                        "OBJECT_STORAGE"
+                    ]
+                },
+                {
+                    "cidr": "140.91.64.0/23",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "140.204.80.128/25",
                     "tags": [
                         "OSN"
                     ]
