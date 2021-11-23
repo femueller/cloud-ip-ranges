@@ -1,6 +1,6 @@
 {
-  "syncToken": "1637619195",
-  "createDate": "2021-11-22-22-13-15",
+  "syncToken": "1637676796",
+  "createDate": "2021-11-23-14-13-16",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -43458,12 +43458,6 @@
     },
     {
       "ipv6_prefix": "2600:9000:1000::/36",
-      "region": "GLOBAL",
-      "service": "CLOUDFRONT",
-      "network_border_group": "GLOBAL"
-    },
-    {
-      "ipv6_prefix": "2600:9000:f530::/46",
       "region": "GLOBAL",
       "service": "CLOUDFRONT",
       "network_border_group": "GLOBAL"
