@@ -1,6 +1,6 @@
 {
-  "syncToken": "1644579199",
-  "createDate": "2022-02-11-11-33-19",
+  "syncToken": "1644582800",
+  "createDate": "2022-02-11-12-33-20",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -13,6 +13,12 @@
       "region": "ap-southeast-4",
       "service": "AMAZON",
       "network_border_group": "ap-southeast-4"
+    },
+    {
+      "ip_prefix": "13.34.65.64/27",
+      "region": "il-central-1",
+      "service": "AMAZON",
+      "network_border_group": "il-central-1"
     },
     {
       "ip_prefix": "35.180.0.0/16",
@@ -2623,6 +2629,12 @@
       "region": "eu-south-2",
       "service": "AMAZON",
       "network_border_group": "eu-south-2"
+    },
+    {
+      "ip_prefix": "13.34.65.0/27",
+      "region": "il-central-1",
+      "service": "AMAZON",
+      "network_border_group": "il-central-1"
     },
     {
       "ip_prefix": "18.34.32.0/20",
@@ -6459,6 +6471,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "13.34.65.160/27",
+      "region": "il-central-1",
+      "service": "AMAZON",
+      "network_border_group": "il-central-1"
+    },
+    {
       "ip_prefix": "15.158.0.0/16",
       "region": "GLOBAL",
       "service": "AMAZON",
@@ -8617,6 +8635,12 @@
       "region": "us-west-1",
       "service": "AMAZON",
       "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "13.34.65.128/27",
+      "region": "il-central-1",
+      "service": "AMAZON",
+      "network_border_group": "il-central-1"
     },
     {
       "ip_prefix": "15.230.39.32/31",
@@ -12085,6 +12109,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "13.34.65.96/27",
+      "region": "il-central-1",
+      "service": "AMAZON",
+      "network_border_group": "il-central-1"
     },
     {
       "ip_prefix": "15.152.0.0/16",
@@ -21121,6 +21151,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "13.34.65.32/27",
+      "region": "il-central-1",
+      "service": "AMAZON",
+      "network_border_group": "il-central-1"
     },
     {
       "ip_prefix": "13.40.0.0/14",
