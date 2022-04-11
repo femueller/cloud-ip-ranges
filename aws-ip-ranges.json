@@ -1,6 +1,6 @@
 {
-  "syncToken": "1649450005",
-  "createDate": "2022-04-08-20-33-25",
+  "syncToken": "1649705600",
+  "createDate": "2022-04-11-19-33-20",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -403,6 +403,12 @@
       "region": "ap-northeast-1",
       "service": "AMAZON",
       "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "54.222.88.0/24",
+      "region": "cn-north-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-north-1"
     },
     {
       "ip_prefix": "64.252.81.0/24",
@@ -6975,6 +6981,12 @@
       "network_border_group": "us-west-1"
     },
     {
+      "ip_prefix": "52.94.144.0/23",
+      "region": "us-west-1",
+      "service": "AMAZON",
+      "network_border_group": "us-west-1"
+    },
+    {
       "ip_prefix": "52.95.157.0/24",
       "region": "ap-northeast-3",
       "service": "AMAZON",
@@ -7471,6 +7483,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "52.82.170.0/24",
+      "region": "cn-northwest-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-northwest-1"
     },
     {
       "ip_prefix": "52.93.126.244/32",
@@ -25539,6 +25557,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "54.222.88.0/24",
+      "region": "cn-north-1",
+      "service": "EC2",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "64.252.81.0/24",
       "region": "sa-east-1",
       "service": "EC2",
@@ -27009,6 +27033,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "52.94.144.0/23",
+      "region": "us-west-1",
+      "service": "EC2",
+      "network_border_group": "us-west-1"
+    },
+    {
       "ip_prefix": "52.0.0.0/15",
       "region": "us-east-1",
       "service": "EC2",
@@ -27109,6 +27139,12 @@
       "region": "eu-central-1",
       "service": "EC2",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "52.82.170.0/24",
+      "region": "cn-northwest-1",
+      "service": "EC2",
+      "network_border_group": "cn-northwest-1"
     },
     {
       "ip_prefix": "64.252.113.0/24",
