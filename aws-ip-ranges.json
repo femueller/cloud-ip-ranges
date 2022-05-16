@@ -1,6 +1,6 @@
 {
-  "syncToken": "1652686996",
-  "createDate": "2022-05-16-07-43-16",
+  "syncToken": "1652712201",
+  "createDate": "2022-05-16-14-43-21",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -32529,6 +32529,12 @@
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ip_prefix": "52.83.58.0/24",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ip_prefix": "68.79.2.244/30",
       "region": "cn-northwest-1",
       "service": "EBS",
@@ -32556,6 +32562,12 @@
       "ip_prefix": "69.234.197.72/29",
       "region": "cn-northwest-1",
       "service": "CODEBUILD",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "69.235.162.0/24",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "cn-northwest-1"
     },
     {
