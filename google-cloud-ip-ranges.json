@@ -1,6 +1,6 @@
 {
-  "syncToken": "1657731910286",
-  "creationTime": "2022-07-13T10:05:10.286377",
+  "syncToken": "1657818333059",
+  "creationTime": "2022-07-14T10:05:33.059436",
   "prefixes": [{
     "ipv4Prefix": "34.80.0.0/15",
     "service": "Google Cloud",
@@ -1038,7 +1038,15 @@
     "service": "Google Cloud",
     "scope": "europe-west4"
   }, {
+    "ipv4Prefix": "34.157.92.0/22",
+    "service": "Google Cloud",
+    "scope": "europe-west4"
+  }, {
     "ipv4Prefix": "34.157.208.0/23",
+    "service": "Google Cloud",
+    "scope": "europe-west4"
+  }, {
+    "ipv4Prefix": "34.157.220.0/22",
     "service": "Google Cloud",
     "scope": "europe-west4"
   }, {
