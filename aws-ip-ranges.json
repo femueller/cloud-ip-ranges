@@ -1,6 +1,6 @@
 {
-  "syncToken": "1658751185",
-  "createDate": "2022-07-25-12-13-05",
+  "syncToken": "1658754785",
+  "createDate": "2022-07-25-13-13-05",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -33178,6 +33178,12 @@
     },
     {
       "ip_prefix": "52.82.128.0/23",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "18.68.0.0/16",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
