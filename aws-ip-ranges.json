@@ -1,6 +1,6 @@
 {
-  "syncToken": "1658938985",
-  "createDate": "2022-07-27-16-23-05",
+  "syncToken": "1658965387",
+  "createDate": "2022-07-27-23-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -33628,6 +33628,12 @@
     },
     {
       "ip_prefix": "18.253.186.0/24",
+      "region": "us-gov-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.254.68.0/23",
       "region": "us-gov-east-1",
       "service": "API_GATEWAY",
       "network_border_group": "us-gov-east-1"
