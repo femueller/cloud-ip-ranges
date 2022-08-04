@@ -1,6 +1,6 @@
 {
-  "syncToken": "1659564787",
-  "createDate": "2022-08-03-22-13-07",
+  "syncToken": "1659630185",
+  "createDate": "2022-08-04-16-23-05",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -33753,6 +33753,12 @@
       "network_border_group": "us-gov-east-1"
     },
     {
+      "ip_prefix": "18.254.61.128/26",
+      "region": "us-gov-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
       "ip_prefix": "18.254.68.0/23",
       "region": "us-gov-east-1",
       "service": "API_GATEWAY",
@@ -33828,6 +33834,12 @@
       "ip_prefix": "3.30.40.84/30",
       "region": "us-gov-west-1",
       "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.30.98.128/26",
+      "region": "us-gov-west-1",
+      "service": "AMAZON",
       "network_border_group": "us-gov-west-1"
     },
     {
