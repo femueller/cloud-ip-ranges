@@ -1,6 +1,6 @@
 {
-  "syncToken": "1659975187",
-  "createDate": "2022-08-08-16-13-07",
+  "syncToken": "1659993786",
+  "createDate": "2022-08-08-21-23-06",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -38491,6 +38491,24 @@
       "region": "eu-west-3",
       "service": "CODEBUILD",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "3.28.70.112/28",
+      "region": "me-central-1",
+      "service": "S3",
+      "network_border_group": "me-central-1"
+    },
+    {
+      "ip_prefix": "3.28.70.48/28",
+      "region": "me-central-1",
+      "service": "S3",
+      "network_border_group": "me-central-1"
+    },
+    {
+      "ip_prefix": "3.28.70.96/28",
+      "region": "me-central-1",
+      "service": "S3",
+      "network_border_group": "me-central-1"
     },
     {
       "ip_prefix": "3.28.72.0/23",
