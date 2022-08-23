@@ -1,6 +1,6 @@
 {
-  "syncToken": "1661245988",
-  "createDate": "2022-08-23-09-13-08",
+  "syncToken": "1661266987",
+  "createDate": "2022-08-23-15-03-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -33975,9 +33975,45 @@
       "network_border_group": "cn-north-1"
     },
     {
+      "ip_prefix": "140.179.36.16/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.36.32/27",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.36.64/27",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.57.0/24",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.58.0/26",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "140.179.58.88/29",
       "region": "cn-north-1",
       "service": "EBS",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.59.0/24",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
       "network_border_group": "cn-north-1"
     },
     {
@@ -33996,6 +34032,12 @@
       "ip_prefix": "140.179.79.244/30",
       "region": "cn-north-1",
       "service": "EBS",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.79.64/26",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
       "network_border_group": "cn-north-1"
     },
     {
@@ -34023,6 +34065,60 @@
       "network_border_group": "cn-north-1"
     },
     {
+      "ip_prefix": "52.80.51.200/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.80.51.208/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.80.51.216/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.80.51.224/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.80.51.240/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.80.51.248/29",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.81.113.32/27",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.81.113.64/27",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.81.113.96/27",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "52.81.124.0/23",
       "region": "cn-north-1",
       "service": "AMAZON",
@@ -34038,6 +34134,12 @@
       "ip_prefix": "52.81.137.0/24",
       "region": "cn-north-1",
       "service": "API_GATEWAY",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "52.81.151.0/27",
+      "region": "cn-north-1",
+      "service": "ROUTE53_RESOLVER",
       "network_border_group": "cn-north-1"
     },
     {
@@ -34074,6 +34176,18 @@
       "ip_prefix": "161.189.148.0/23",
       "region": "cn-northwest-1",
       "service": "API_GATEWAY",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "161.189.23.0/27",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "161.189.23.32/27",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
       "network_border_group": "cn-northwest-1"
     },
     {
@@ -34125,15 +34239,87 @@
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ip_prefix": "52.83.26.192/27",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.26.224/27",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ip_prefix": "52.83.26.64/26",
       "region": "cn-northwest-1",
       "service": "AMAZON",
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ip_prefix": "52.83.33.104/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.33.112/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.33.72/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.33.80/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.33.88/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.33.96/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ip_prefix": "52.83.34.128/25",
       "region": "cn-northwest-1",
       "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.34.72/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.34.80/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.34.88/29",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.34.96/27",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
       "network_border_group": "cn-northwest-1"
     },
     {
@@ -34173,9 +34359,33 @@
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ip_prefix": "68.79.2.64/27",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ip_prefix": "69.230.219.0/24",
       "region": "cn-northwest-1",
       "service": "API_GATEWAY",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "69.230.226.0/24",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "69.230.227.0/24",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "69.230.228.0/24",
+      "region": "cn-northwest-1",
+      "service": "ROUTE53_RESOLVER",
       "network_border_group": "cn-northwest-1"
     },
     {
