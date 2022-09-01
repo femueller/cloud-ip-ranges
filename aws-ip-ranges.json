@@ -1,6 +1,6 @@
 {
-  "syncToken": "1662013390",
-  "createDate": "2022-09-01-06-23-10",
+  "syncToken": "1662036188",
+  "createDate": "2022-09-01-12-43-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -38940,6 +38940,12 @@
       "ip_prefix": "3.251.95.96/27",
       "region": "eu-west-1",
       "service": "ROUTE53_RESOLVER",
+      "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "3.252.50.64/26",
+      "region": "eu-west-1",
+      "service": "AMAZON",
       "network_border_group": "eu-west-1"
     },
     {
