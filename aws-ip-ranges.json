@@ -1,6 +1,6 @@
 {
-  "syncToken": "1663090387",
-  "createDate": "2022-09-13-17-33-07",
+  "syncToken": "1663096387",
+  "createDate": "2022-09-13-19-13-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -35956,6 +35956,12 @@
     },
     {
       "ip_prefix": "13.246.108.0/22",
+      "region": "af-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ip_prefix": "13.246.120.0/22",
       "region": "af-south-1",
       "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "af-south-1"
