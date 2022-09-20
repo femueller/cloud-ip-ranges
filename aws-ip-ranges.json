@@ -1,6 +1,6 @@
 {
-  "syncToken": "1663699387",
-  "createDate": "2022-09-20-18-43-07",
+  "syncToken": "1663706589",
+  "createDate": "2022-09-20-20-43-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -26475,10 +26475,76 @@
       "network_border_group": "sa-east-1"
     },
     {
+      "ip_prefix": "99.77.238.0/24",
+      "region": "ap-south-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "99.77.240.0/24",
+      "region": "ap-southeast-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "99.77.251.0/24",
+      "region": "us-west-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "99.77.248.0/24",
+      "region": "eu-west-3",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "99.77.233.0/24",
+      "region": "ca-central-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "99.77.235.0/24",
+      "region": "af-south-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ip_prefix": "99.77.234.0/24",
+      "region": "sa-east-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "sa-east-1"
+    },
+    {
       "ip_prefix": "99.77.253.0/24",
       "region": "us-west-2",
       "service": "CHIME_VOICECONNECTOR",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "99.77.236.0/24",
+      "region": "me-south-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "me-south-1"
+    },
+    {
+      "ip_prefix": "99.77.241.0/24",
+      "region": "ap-east-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ap-east-1"
+    },
+    {
+      "ip_prefix": "99.77.252.0/24",
+      "region": "us-east-2",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "99.77.243.0/24",
+      "region": "ap-northeast-3",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ap-northeast-3"
     },
     {
       "ip_prefix": "99.77.254.0/24",
@@ -26493,10 +26559,40 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ip_prefix": "99.77.249.0/24",
+      "region": "eu-west-2",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "99.77.242.0/24",
+      "region": "ap-northeast-2",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
       "ip_prefix": "99.77.239.0/24",
       "region": "ap-southeast-2",
       "service": "CHIME_VOICECONNECTOR",
       "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "99.77.245.0/24",
+      "region": "eu-south-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "eu-south-1"
+    },
+    {
+      "ip_prefix": "99.77.246.0/24",
+      "region": "eu-north-1",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "eu-north-1"
+    },
+    {
+      "ip_prefix": "99.77.237.0/24",
+      "region": "ap-southeast-3",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "ap-southeast-3"
     },
     {
       "ip_prefix": "99.77.250.0/24",
