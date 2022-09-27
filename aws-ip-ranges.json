@@ -1,6 +1,6 @@
 {
-  "syncToken": "1664221985",
-  "createDate": "2022-09-26-19-53-05",
+  "syncToken": "1664289785",
+  "createDate": "2022-09-27-14-43-05",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -38652,6 +38652,12 @@
       "ip_prefix": "108.137.114.0/28",
       "region": "ap-southeast-3",
       "service": "CODEBUILD",
+      "network_border_group": "ap-southeast-3"
+    },
+    {
+      "ip_prefix": "108.137.114.64/26",
+      "region": "ap-southeast-3",
+      "service": "DYNAMODB",
       "network_border_group": "ap-southeast-3"
     },
     {
