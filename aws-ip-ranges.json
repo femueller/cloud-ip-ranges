@@ -1,6 +1,6 @@
 {
-  "syncToken": "1665453185",
-  "createDate": "2022-10-11-01-53-05",
+  "syncToken": "1665503585",
+  "createDate": "2022-10-11-15-53-05",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -39367,6 +39367,12 @@
       "region": "eu-central-1",
       "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "16.62.56.224/28",
+      "region": "eu-central-2",
+      "service": "S3",
+      "network_border_group": "eu-central-2"
     },
     {
       "ip_prefix": "16.62.70.0/23",
