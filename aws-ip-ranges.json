@@ -1,6 +1,6 @@
 {
-  "syncToken": "1667509985",
-  "createDate": "2022-11-03-21-13-05",
+  "syncToken": "1667858588",
+  "createDate": "2022-11-07-22-03-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -42598,6 +42598,30 @@
     },
     {
       "ip_prefix": "44.210.64.0/22",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.212.176.0/23",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.212.178.0/23",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.212.180.0/23",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.212.182.0/23",
       "region": "us-east-1",
       "service": "API_GATEWAY",
       "network_border_group": "us-east-1"
