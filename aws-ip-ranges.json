@@ -1,6 +1,6 @@
 {
-  "syncToken": "1675197789",
-  "createDate": "2023-01-31-20-43-09",
+  "syncToken": "1675201388",
+  "createDate": "2023-01-31-21-43-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -6703,6 +6703,12 @@
       "region": "ap-southeast-1",
       "service": "AMAZON",
       "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "150.222.28.20/31",
+      "region": "sa-east-1",
+      "service": "AMAZON",
+      "network_border_group": "sa-east-1"
     },
     {
       "ip_prefix": "150.222.69.0/24",
