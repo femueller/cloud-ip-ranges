@@ -1,6 +1,6 @@
 {
-  "syncToken": "1675746786",
-  "createDate": "2023-02-07-05-13-06",
+  "syncToken": "1675789388",
+  "createDate": "2023-02-07-17-03-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -20841,6 +20841,12 @@
       "network_border_group": "us-east-2"
     },
     {
+      "ip_prefix": "96.0.132.0/24",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1-scl-1"
+    },
+    {
       "ip_prefix": "150.222.122.108/31",
       "region": "eu-central-1",
       "service": "AMAZON",
@@ -31311,6 +31317,12 @@
       "network_border_group": "us-east-2"
     },
     {
+      "ip_prefix": "96.0.132.0/24",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1-scl-1"
+    },
+    {
       "ip_prefix": "15.164.0.0/15",
       "region": "ap-northeast-2",
       "service": "EC2",
@@ -37053,6 +37065,12 @@
       "network_border_group": "ap-southeast-4"
     },
     {
+      "ip_prefix": "16.50.181.128/25",
+      "region": "ap-southeast-4",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
       "ip_prefix": "16.50.67.0/26",
       "region": "ap-southeast-4",
       "service": "ROUTE53_RESOLVER",
@@ -37084,12 +37102,6 @@
     },
     {
       "ip_prefix": "16.50.70.0/23",
-      "region": "ap-southeast-4",
-      "service": "AMAZON",
-      "network_border_group": "ap-southeast-4"
-    },
-    {
-      "ip_prefix": "70.232.83.0/30",
       "region": "ap-southeast-4",
       "service": "AMAZON",
       "network_border_group": "ap-southeast-4"
@@ -38259,6 +38271,12 @@
       "network_border_group": "eu-south-2"
     },
     {
+      "ip_prefix": "18.100.196.128/25",
+      "region": "eu-south-2",
+      "service": "AMAZON",
+      "network_border_group": "eu-south-2"
+    },
+    {
       "ip_prefix": "18.100.64.128/26",
       "region": "eu-south-2",
       "service": "ROUTE53_RESOLVER",
@@ -38284,12 +38302,6 @@
     },
     {
       "ip_prefix": "18.100.74.0/23",
-      "region": "eu-south-2",
-      "service": "AMAZON",
-      "network_border_group": "eu-south-2"
-    },
-    {
-      "ip_prefix": "99.77.51.4/30",
       "region": "eu-south-2",
       "service": "AMAZON",
       "network_border_group": "eu-south-2"
