@@ -1,6 +1,6 @@
 {
-  "syncToken": "1678278789",
-  "createDate": "2023-03-08-12-33-09",
+  "syncToken": "1678302786",
+  "createDate": "2023-03-08-19-13-06",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -24991,6 +24991,12 @@
       "region": "eu-south-1",
       "service": "CHIME_VOICECONNECTOR",
       "network_border_group": "eu-south-1"
+    },
+    {
+      "ip_prefix": "99.77.232.0/24",
+      "region": "us-west-2",
+      "service": "CHIME_VOICECONNECTOR",
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "99.77.246.0/24",
