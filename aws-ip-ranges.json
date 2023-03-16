@@ -1,6 +1,6 @@
 {
-  "syncToken": "1678989188",
-  "createDate": "2023-03-16-17-53-08",
+  "syncToken": "1678992792",
+  "createDate": "2023-03-16-18-53-12",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -11871,6 +11871,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "142.4.161.104/29",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1-mnl-1"
+    },
+    {
       "ip_prefix": "150.222.224.0/24",
       "region": "us-east-1",
       "service": "AMAZON",
@@ -14029,6 +14035,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1-phl-1"
+    },
+    {
+      "ip_prefix": "142.4.161.112/29",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1-sggov-sin-1a"
     },
     {
       "ip_prefix": "150.222.3.218/31",
@@ -23823,6 +23835,12 @@
       "network_border_group": "us-east-1-chi-1"
     },
     {
+      "ip_prefix": "142.4.161.120/29",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1-sggov-sin-1b"
+    },
+    {
       "ip_prefix": "150.222.11.76/31",
       "region": "eu-west-1",
       "service": "AMAZON",
@@ -29589,6 +29607,12 @@
       "network_border_group": "ca-central-1"
     },
     {
+      "ip_prefix": "142.4.161.104/29",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1-mnl-1"
+    },
+    {
       "ip_prefix": "18.189.0.0/16",
       "region": "us-east-2",
       "service": "EC2",
@@ -30097,6 +30121,12 @@
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1-phl-1"
+    },
+    {
+      "ip_prefix": "142.4.161.112/29",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1-sggov-sin-1a"
     },
     {
       "ip_prefix": "18.136.0.0/16",
@@ -32449,6 +32479,12 @@
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1-chi-1"
+    },
+    {
+      "ip_prefix": "142.4.161.120/29",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1-sggov-sin-1b"
     },
     {
       "ip_prefix": "3.4.24.0/21",
