@@ -1,6 +1,6 @@
 {
-  "syncToken": "1679247189",
-  "createDate": "2023-03-19-17-33-09",
+  "syncToken": "1679271789",
+  "createDate": "2023-03-20-00-23-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -47703,6 +47703,12 @@
       "region": "eu-central-1",
       "service": "AMAZON",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ipv6_prefix": "2620:107:4000:f1f8::/62",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
     },
     {
       "ipv6_prefix": "2a05:d02c::/36",
