@@ -1,6 +1,6 @@
 {
-  "syncToken": "1682018589",
-  "createDate": "2023-04-20-19-23-09",
+  "syncToken": "1682097189",
+  "createDate": "2023-04-21-17-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -33663,6 +33663,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "3.2.49.0/24",
+      "region": "sa-east-1",
+      "service": "GLOBALACCELERATOR",
+      "network_border_group": "sa-east-1"
+    },
+    {
       "ip_prefix": "15.197.18.0/23",
       "region": "GLOBAL",
       "service": "GLOBALACCELERATOR",
@@ -33901,6 +33907,18 @@
       "region": "GLOBAL",
       "service": "GLOBALACCELERATOR",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "3.2.48.0/24",
+      "region": "eu-west-2",
+      "service": "GLOBALACCELERATOR",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "3.2.50.0/24",
+      "region": "us-east-1",
+      "service": "GLOBALACCELERATOR",
+      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "99.83.128.0/17",
