@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-04-24 10:00:03.267317
+# Last modified: 2023-04-25 10:00:03.978562
 # prefix, country, subdivision, city, zipcode, allocation_size
 2400:8901::/32,SG,SG-04,Singapore,,
 2400:8902::/32,JP,JP-13,Tokyo,,
@@ -2049,6 +2049,21 @@
 172.232.46.0/24,FR,FR-PAR,Paris,,
 172.232.47.0/24,FR,FR-PAR,Paris,,
 172.232.0.0/24,US,US-IL,Chicago,,
+172.232.1.0/24,US,US-IL,Chicago,,
+172.232.2.0/24,US,US-IL,Chicago,,
+172.232.3.0/24,US,US-IL,Chicago,,
+172.232.4.0/24,US,US-IL,Chicago,,
+172.232.5.0/24,US,US-IL,Chicago,,
+172.232.6.0/24,US,US-IL,Chicago,,
+172.232.7.0/24,US,US-IL,Chicago,,
+172.232.8.0/24,US,US-IL,Chicago,,
+172.232.9.0/24,US,US-IL,Chicago,,
+172.232.10.0/24,US,US-IL,Chicago,,
+172.232.11.0/24,US,US-IL,Chicago,,
+172.232.12.0/24,US,US-IL,Chicago,,
+172.232.13.0/24,US,US-IL,Chicago,,
+172.232.14.0/24,US,US-IL,Chicago,,
+172.232.15.0/24,US,US-IL,Chicago,,
 172.232.96.0/24,IN,IN-MAA,Chennai,,
 172.232.97.0/24,IN,IN-MAA,Chennai,,
 109.74.192.0/24,GB,GB-ENG,London,,
@@ -2720,6 +2735,7 @@
 143.42.254.0/24,GB,GB-ENG,London,,
 143.42.255.0/24,GB,GB-ENG,London,,
 172.232.48.0/24,FR,FR-PAR,Paris,,
+172.232.16.0/24,US,US-IL,Chicago,,
 172.232.98.0/24,IN,IN-MAA,Chennai,,
 178.79.175.0/24,GB,GB-ENG,London,,
 185.3.92.0/24,GB,GB-ENG,London,,
