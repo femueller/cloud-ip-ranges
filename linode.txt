@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-04-27 10:00:02.900175
+# Last modified: 2023-04-28 10:00:03.935917
 # prefix, country, subdivision, city, zipcode, allocation_size
 2400:8901::/32,SG,SG-04,Singapore,,
 2400:8902::/32,JP,JP-13,Tokyo,,
@@ -2067,6 +2067,11 @@
 172.232.96.0/24,IN,IN-MAA,Chennai,,
 172.232.97.0/24,IN,IN-MAA,Chennai,,
 172.232.80.0/24,IN,IN-MH,Mumbai,,
+172.232.81.0/24,IN,IN-MH,Mumbai,,
+172.232.82.0/24,IN,IN-MH,Mumbai,,
+172.232.83.0/24,IN,IN-MH,Mumbai,,
+172.232.84.0/24,IN,IN-MH,Mumbai,,
+172.232.85.0/24,IN,IN-MH,Mumbai,,
 109.74.192.0/24,GB,GB-ENG,London,,
 109.74.193.0/24,GB,GB-ENG,London,,
 109.74.194.0/24,GB,GB-ENG,London,,
@@ -2738,6 +2743,8 @@
 172.232.48.0/24,FR,FR-PAR,Paris,,
 172.232.16.0/24,US,US-IL,Chicago,,
 172.232.98.0/24,IN,IN-MAA,Chennai,,
+172.232.86.0/24,IN,IN-MH,Mumbai,,
+172.232.87.0/24,IN,IN-MH,Mumbai,,
 178.79.175.0/24,GB,GB-ENG,London,,
 185.3.92.0/24,GB,GB-ENG,London,,
 185.3.93.0/24,GB,GB-ENG,London,,
