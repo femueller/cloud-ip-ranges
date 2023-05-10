@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-05-09 10:00:04.479324
+# Last modified: 2023-05-10 10:00:03.857980
 # prefix, country, subdivision, city, zipcode, allocation_size
 2400:8901::/32,SG,SG-04,Singapore,,
 2400:8902::/32,JP,JP-13,Tokyo,,
@@ -1977,7 +1977,6 @@
 143.42.207.0/24,DE,DE-HE,Frankfurt,,
 143.42.208.0/24,DE,DE-HE,Frankfurt,,
 143.42.209.0/24,DE,DE-HE,Frankfurt,,
-143.42.210.0/24,DE,DE-HE,Frankfurt,,
 143.42.211.0/24,DE,DE-HE,Frankfurt,,
 143.42.212.0/24,DE,DE-HE,Frankfurt,,
 143.42.213.0/24,DE,DE-HE,Frankfurt,,
@@ -2007,7 +2006,6 @@
 143.42.242.0/24,GB,GB-ENG,London,,
 143.42.243.0/24,GB,GB-ENG,London,,
 143.42.244.0/24,GB,GB-ENG,London,,
-143.42.245.0/24,GB,GB-ENG,London,,
 143.42.246.0/24,GB,GB-ENG,London,,
 143.42.247.0/24,GB,GB-ENG,London,,
 143.42.248.0/24,GB,GB-ENG,London,,
