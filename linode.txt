@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-05-15 10:00:03.579746
+# Last modified: 2023-05-18 10:00:04.954258
 # prefix, country, subdivision, city, zipcode, allocation_size
 2400:8901::/32,SG,SG-04,Singapore,,
 2400:8902::/32,JP,JP-13,Tokyo,,
@@ -18,6 +18,7 @@
 2600:3c06::/32,US,US-IL,Chicago,,
 2600:3c07::/32,FR,FR-PAR,Paris,,
 2600:3c08::/32,IN,IN-MAA,Chennai,,
+2600:3c0a::/32,US,US-WA,Tukwila,,
 72.14.177.0/24,US,US-TX,Richardson,,
 72.14.176.0/24,US,US-TX,Richardson,,
 72.14.178.0/24,US,US-TX,Richardson,,
@@ -2075,6 +2076,7 @@
 172.232.15.0/24,US,US-IL,Chicago,,
 172.232.96.0/24,IN,IN-MAA,Chennai,,
 172.232.97.0/24,IN,IN-MAA,Chennai,,
+172.232.160.0/24,US,US-WA,Tukwila,,
 172.232.80.0/24,IN,IN-MH,Mumbai,,
 172.232.81.0/24,IN,IN-MH,Mumbai,,
 172.232.82.0/24,IN,IN-MH,Mumbai,,
