@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-06-14 10:00:29.492733
+# Last modified: 2023-06-14 12:57:37.526612
 # prefix, country, subdivision, city, zipcode, allocation_size
 2600:3c00::/32,US,US-TX,Richardson,,
 2600:3c01::/32,US,US-CA,Fremont,,
@@ -18,6 +18,7 @@
 2600:3c06::/32,US,US-IL,Chicago,,
 2600:3c07::/32,FR,FR-PAR,Paris,,
 2600:3c0a::/32,US,US-WA,Tukwila,,
+2600:3c0d::/32,BR,BR-GRU,Sao Paulo,,
 2600:3c09::/32,SE,SE-STO,Stockholm,,
 2600:3c08::/32,IN,IN-MAA,Chennai,,
 2600:3c0b::/32,IT,IT-MI,Milan,,
@@ -2101,6 +2102,8 @@
 172.232.197.0/24,IT,IT-MI,Milan,,
 172.232.224.0/24,ID,ID-CGK,Jakarta,,
 172.232.225.0/24,ID,ID-CGK,Jakarta,,
+172.233.0.0/24,BR,BR-GRU,Sao Paulo,,
+172.233.1.0/24,BR,BR-GRU,Sao Paulo,,
 143.42.140.0/24,US,US-GA,Atlanta,,
 143.42.210.0/24,DE,DE-HE,Frankfurt,,
 143.42.225.0/24,US,US-NJ,Cedar Knolls,,
@@ -2772,6 +2775,8 @@
 172.232.198.0/24,IT,IT-MI,Milan,,
 172.232.199.0/24,IT,IT-MI,Milan,,
 172.232.240.0/24,ID,ID-CGK,Jakarta,,
+172.233.2.0/24,BR,BR-GRU,Sao Paulo,,
+172.233.3.0/24,BR,BR-GRU,Sao Paulo,,
 178.79.175.0/24,GB,GB-ENG,London,,
 185.3.92.0/24,GB,GB-ENG,London,,
 185.3.93.0/24,GB,GB-ENG,London,,
