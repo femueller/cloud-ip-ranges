@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-06-14 12:57:37.526612
+# Last modified: 2023-06-15 10:00:07.739566
 # prefix, country, subdivision, city, zipcode, allocation_size
 2600:3c00::/32,US,US-TX,Richardson,,
 2600:3c01::/32,US,US-CA,Fremont,,
