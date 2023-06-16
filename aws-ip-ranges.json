@@ -1,6 +1,6 @@
 {
-  "syncToken": "1686909790",
-  "createDate": "2023-06-16-10-03-10",
+  "syncToken": "1686913390",
+  "createDate": "2023-06-16-11-03-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -36393,6 +36393,18 @@
       "network_border_group": "ap-east-1"
     },
     {
+      "ip_prefix": "43.198.166.0/23",
+      "region": "ap-east-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-east-1"
+    },
+    {
+      "ip_prefix": "43.198.168.0/22",
+      "region": "ap-east-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-east-1"
+    },
+    {
       "ip_prefix": "13.112.191.184/29",
       "region": "ap-northeast-1",
       "service": "CODEBUILD",
@@ -37197,6 +37209,18 @@
       "network_border_group": "ap-northeast-2"
     },
     {
+      "ip_prefix": "43.202.70.0/23",
+      "region": "ap-northeast-2",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "43.202.72.0/22",
+      "region": "ap-northeast-2",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
       "ip_prefix": "52.78.247.128/26",
       "region": "ap-northeast-2",
       "service": "CLOUDFRONT",
@@ -37431,6 +37455,12 @@
       "network_border_group": "ap-northeast-3"
     },
     {
+      "ip_prefix": "15.168.100.0/23",
+      "region": "ap-northeast-3",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-3"
+    },
+    {
       "ip_prefix": "15.168.40.0/25",
       "region": "ap-northeast-3",
       "service": "AMAZON",
@@ -37438,6 +37468,12 @@
     },
     {
       "ip_prefix": "15.168.40.128/25",
+      "region": "ap-northeast-3",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-3"
+    },
+    {
+      "ip_prefix": "15.168.96.0/22",
       "region": "ap-northeast-3",
       "service": "AMAZON",
       "network_border_group": "ap-northeast-3"
@@ -37884,6 +37920,18 @@
       "ip_prefix": "18.60.78.240/28",
       "region": "ap-south-2",
       "service": "CODEBUILD",
+      "network_border_group": "ap-south-2"
+    },
+    {
+      "ip_prefix": "18.61.120.0/22",
+      "region": "ap-south-2",
+      "service": "AMAZON",
+      "network_border_group": "ap-south-2"
+    },
+    {
+      "ip_prefix": "18.61.124.0/23",
+      "region": "ap-south-2",
+      "service": "AMAZON",
       "network_border_group": "ap-south-2"
     },
     {
@@ -38794,6 +38842,18 @@
     },
     {
       "ip_prefix": "16.50.70.0/23",
+      "region": "ap-southeast-4",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
+      "ip_prefix": "16.51.30.0/23",
+      "region": "ap-southeast-4",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
+      "ip_prefix": "16.51.32.0/22",
       "region": "ap-southeast-4",
       "service": "AMAZON",
       "network_border_group": "ap-southeast-4"
@@ -39975,6 +40035,24 @@
       "network_border_group": "eu-south-1"
     },
     {
+      "ip_prefix": "18.102.158.128/25",
+      "region": "eu-south-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-south-1"
+    },
+    {
+      "ip_prefix": "18.102.158.64/26",
+      "region": "eu-south-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-south-1"
+    },
+    {
+      "ip_prefix": "18.102.160.0/22",
+      "region": "eu-south-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-south-1"
+    },
+    {
       "ip_prefix": "18.102.2.0/23",
       "region": "eu-south-1",
       "service": "API_GATEWAY",
@@ -40602,6 +40680,18 @@
       "ip_prefix": "13.42.133.200/29",
       "region": "eu-west-2",
       "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "13.43.44.0/22",
+      "region": "eu-west-2",
+      "service": "AMAZON",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "13.43.48.0/23",
+      "region": "eu-west-2",
+      "service": "AMAZON",
       "network_border_group": "eu-west-2"
     },
     {
