@@ -1,6 +1,6 @@
 {
-  "syncToken": "1687203190",
-  "createDate": "2023-06-19-19-33-10",
+  "syncToken": "1687206789",
+  "createDate": "2023-06-19-20-33-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -41442,6 +41442,12 @@
       "ip_prefix": "51.16.103.128/25",
       "region": "il-central-1",
       "service": "AMAZON",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "51.16.103.16/28",
+      "region": "il-central-1",
+      "service": "CODEBUILD",
       "network_border_group": "il-central-1"
     },
     {
