@@ -1,6 +1,6 @@
 {
-  "syncToken": "1687563189",
-  "createDate": "2023-06-23-23-33-09",
+  "syncToken": "1687813989",
+  "createDate": "2023-06-26-21-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -35628,6 +35628,12 @@
       "ip_prefix": "161.189.66.192/26",
       "region": "cn-northwest-1",
       "service": "AMAZON",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "43.192.144.0/22",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "cn-northwest-1"
     },
     {
