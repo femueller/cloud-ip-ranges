@@ -1,6 +1,6 @@
 {
-  "syncToken": "1689570791",
-  "createDate": "2023-07-17-05-13-11",
+  "syncToken": "1689595389",
+  "createDate": "2023-07-17-12-03-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -5314,9 +5314,9 @@
     },
     {
       "ip_prefix": "13.34.2.0/27",
-      "region": "eu-west-1",
+      "region": "us-west-2",
       "service": "AMAZON",
-      "network_border_group": "eu-west-1"
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "13.34.12.64/27",
@@ -12532,9 +12532,9 @@
     },
     {
       "ip_prefix": "13.34.2.32/27",
-      "region": "eu-west-1",
+      "region": "us-west-2",
       "service": "AMAZON",
-      "network_border_group": "eu-west-1"
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "13.34.12.96/27",
