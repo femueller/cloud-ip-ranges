@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-08-01 10:00:05.630635
+# Last modified: 2023-08-01 15:02:42.195012
 # prefix, country, subdivision, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -19,6 +19,7 @@
 2600:3c07::/32,FR,FR-IDF,Paris,
 2600:3c0a::/32,US,US-WA,Tukwila,
 2600:3c0d::/32,BR,BR-SP,Sao Paulo,
+2600:3c0e::/32,NL,NL-NH,Amsterdam,
 2600:3c09::/32,SE,SE-AB,Stockholm,
 2a01:7e02::/32,ES,ES-MD,Madrid,
 2600:3c08::/32,IN,IN-TN,Chennai,
@@ -2254,6 +2255,8 @@
 172.232.255.0/24,ID,ID-JK,Jakarta,
 172.233.0.0/24,BR,BR-SP,Sao Paulo,
 172.233.1.0/24,BR,BR-SP,Sao Paulo,
+172.233.32.0/24,NL,NL-NH,Amsterdam,
+172.233.33.0/24,NL,NL-NH,Amsterdam,
 172.233.64.0/24,JP,JP-27,Osaka,
 172.233.65.0/24,JP,JP-27,Osaka,
 172.233.66.0/24,JP,JP-27,Osaka,
@@ -3095,6 +3098,8 @@
 172.232.243.0/24,ID,ID-JK,Jakarta,
 172.233.2.0/24,BR,BR-SP,Sao Paulo,
 172.233.3.0/24,BR,BR-SP,Sao Paulo,
+172.233.34.0/24,NL,NL-NH,Amsterdam,
+172.233.35.0/24,NL,NL-NH,Amsterdam,
 172.233.68.0/24,JP,JP-27,Osaka,
 172.233.69.0/24,JP,JP-27,Osaka,
 172.233.70.0/24,JP,JP-27,Osaka,
