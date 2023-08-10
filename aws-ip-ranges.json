@@ -1,6 +1,6 @@
 {
-  "syncToken": "1691680990",
-  "createDate": "2023-08-10-15-23-10",
+  "syncToken": "1691700794",
+  "createDate": "2023-08-10-20-53-14",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -42156,6 +42156,12 @@
       "ip_prefix": "44.216.41.160/29",
       "region": "us-east-1",
       "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.218.96.0/23",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
       "network_border_group": "us-east-1"
     },
     {
