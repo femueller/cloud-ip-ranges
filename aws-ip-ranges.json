@@ -1,6 +1,6 @@
 {
-  "syncToken": "1692214990",
-  "createDate": "2023-08-16-19-43-10",
+  "syncToken": "1692239592",
+  "createDate": "2023-08-17-02-33-12",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -1645,6 +1645,12 @@
       "region": "ap-northeast-3",
       "service": "AMAZON",
       "network_border_group": "ap-northeast-3"
+    },
+    {
+      "ip_prefix": "13.248.75.0/24",
+      "region": "ap-southeast-5",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-5"
     },
     {
       "ip_prefix": "15.193.7.0/24",
@@ -9937,6 +9943,12 @@
       "region": "us-gov-west-1",
       "service": "AMAZON",
       "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.94.250.80/28",
+      "region": "ap-southeast-5",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-5"
     },
     {
       "ip_prefix": "52.144.211.64/26",
@@ -25389,6 +25401,12 @@
       "network_border_group": "ap-southeast-4"
     },
     {
+      "ip_prefix": "13.248.75.0/24",
+      "region": "ap-southeast-5",
+      "service": "DYNAMODB",
+      "network_border_group": "ap-southeast-5"
+    },
+    {
       "ip_prefix": "3.218.180.0/22",
       "region": "us-east-1",
       "service": "DYNAMODB",
@@ -28453,6 +28471,12 @@
       "region": "ap-northeast-1",
       "service": "EC2",
       "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "52.94.250.80/28",
+      "region": "ap-southeast-5",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-5"
     },
     {
       "ip_prefix": "3.2.3.0/24",
