@@ -1,5 +1,5 @@
 {
-  "changeNumber": 270,
+  "changeNumber": 271,
   "cloud": "Public",
   "values": [
     {
@@ -3619,7 +3619,7 @@
       "name": "AzureArcInfrastructure",
       "id": "AzureArcInfrastructure",
       "properties": {
-        "changeNumber": 20,
+        "changeNumber": 21,
         "region": "",
         "regionId": 0,
         "platform": "Azure",
@@ -3627,6 +3627,8 @@
         "addressPrefixes": [
           "4.145.72.0/29",
           "4.145.72.8/31",
+          "4.150.233.30/31",
+          "4.150.234.24/29",
           "4.150.242.0/29",
           "4.151.99.20/31",
           "4.151.99.72/29",
@@ -3635,12 +3637,16 @@
           "4.190.132.42/31",
           "4.190.132.184/29",
           "4.200.250.192/31",
+          "4.210.131.40/29",
+          "4.210.131.48/31",
           "4.232.42.0/31",
           "4.232.42.12/30",
           "4.232.48.0/29",
           "4.232.125.178/32",
           "4.240.144.50/31",
           "4.240.144.80/29",
+          "4.243.24.48/29",
+          "4.243.24.56/31",
           "13.66.143.219/32",
           "13.66.149.68/31",
           "13.67.15.1/32",
@@ -3735,14 +3741,19 @@
           "20.91.100.128/29",
           "20.91.151.152/29",
           "20.91.152.84/31",
+          "20.99.27.84/31",
+          "20.99.27.96/29",
           "20.100.21.120/29",
           "20.100.21.128/31",
+          "20.111.72.136/29",
           "20.113.251.38/31",
           "20.125.173.160/31",
           "20.125.205.160/31",
           "20.150.165.140/30",
           "20.150.190.84/30",
           "20.151.32.136/30",
+          "20.164.154.166/31",
+          "20.164.158.128/29",
           "20.167.131.114/31",
           "20.167.131.120/29",
           "20.170.175.0/29",
@@ -3763,14 +3774,22 @@
           "20.194.129.106/31",
           "20.203.93.28/31",
           "20.203.93.80/29",
+          "20.204.199.98/31",
+          "20.204.199.104/29",
           "20.205.77.198/32",
           "20.205.77.208/30",
           "20.205.85.198/31",
           "20.206.6.188/30",
+          "20.207.175.32/29",
+          "20.207.175.102/31",
           "20.208.21.162/31",
+          "20.208.151.204/31",
+          "20.208.152.48/29",
           "20.211.230.248/29",
           "20.213.229.2/31",
           "20.213.229.8/29",
+          "20.214.135.216/29",
+          "20.214.135.224/31",
           "20.215.21.178/32",
           "20.215.170.104/30",
           "20.215.174.6/31",
@@ -3781,10 +3800,14 @@
           "20.217.62.136/32",
           "20.218.190.20/31",
           "20.218.190.88/29",
+          "20.220.7.200/29",
+          "20.220.7.208/31",
           "20.226.211.158/31",
           "20.226.212.160/29",
           "20.227.67.192/29",
           "20.227.67.200/31",
+          "20.241.119.28/31",
+          "20.241.119.104/29",
           "20.244.194.6/31",
           "20.244.194.8/29",
           "20.252.212.216/29",
@@ -3821,11 +3844,14 @@
           "40.79.191.216/32",
           "40.80.53.2/31",
           "40.80.59.24/30",
+          "40.80.103.250/31",
           "40.80.172.12/30",
           "40.89.20.128/30",
           "40.89.23.32/30",
           "40.89.121.188/31",
           "40.115.144.0/30",
+          "40.117.28.40/29",
+          "40.117.28.96/31",
           "40.119.9.232/30",
           "40.120.8.184/30",
           "40.120.75.58/32",
@@ -3893,6 +3919,8 @@
           "52.162.111.132/32",
           "52.167.111.168/31",
           "52.168.118.130/32",
+          "52.172.85.50/31",
+          "52.172.86.48/29",
           "52.178.17.240/31",
           "52.182.141.60/31",
           "52.228.84.80/30",
@@ -3910,6 +3938,10 @@
           "68.221.44.32/29",
           "68.221.44.40/31",
           "68.221.98.112/32",
+          "74.242.3.192/29",
+          "74.242.3.200/31",
+          "74.249.120.4/31",
+          "74.249.127.128/29",
           "74.249.138.70/31",
           "74.249.138.88/29",
           "98.66.128.36/31",
@@ -3935,6 +3967,10 @@
           "158.23.96.20/30",
           "158.23.115.20/31",
           "158.23.115.48/29",
+          "168.61.233.50/31",
+          "168.61.233.56/29",
+          "172.167.234.102/31",
+          "172.167.236.56/29",
           "172.172.252.64/29",
           "172.172.252.72/31",
           "172.182.155.194/31",
@@ -9078,7 +9114,7 @@
       "name": "EventHub",
       "id": "EventHub",
       "properties": {
-        "changeNumber": 51,
+        "changeNumber": 52,
         "region": "",
         "regionId": 0,
         "platform": "Azure",
@@ -9677,8 +9713,10 @@
           "2603:1020:705:2::400/120",
           "2603:1020:705:6::/120",
           "2603:1020:705:6::100/123",
-          "2603:1020:705:6::120/125",
-          "2603:1020:705:6::128/126",
+          "2603:1020:705:6::120/124",
+          "2603:1020:705:6::130/125",
+          "2603:1020:705:6::140/123",
+          "2603:1020:705:6::200/120",
           "2603:1020:705:402::1c0/123",
           "2603:1020:705:802::160/123",
           "2603:1020:705:c02::160/123",
@@ -11573,6 +11611,198 @@
           "2603:1040:1602::200/122",
           "2603:1050:6:1::2c0/122",
           "2603:1050:403::2c0/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AzureMachineLearningInference",
+      "id": "AzureMachineLearningInference",
+      "properties": {
+        "changeNumber": 1,
+        "region": "",
+        "regionId": 0,
+        "platform": "Azure",
+        "systemService": "AzureMachineLearningInference",
+        "addressPrefixes": [
+          "4.150.232.224/27",
+          "4.150.233.0/28",
+          "4.151.97.224/27",
+          "4.151.99.0/28",
+          "4.171.27.128/27",
+          "4.190.132.80/28",
+          "4.190.132.96/27",
+          "4.194.228.96/27",
+          "4.194.229.0/28",
+          "4.210.128.32/27",
+          "4.210.128.128/28",
+          "4.220.137.64/27",
+          "4.220.137.96/28",
+          "4.232.25.32/27",
+          "4.232.44.112/28",
+          "4.232.44.128/27",
+          "4.232.45.160/27",
+          "4.243.24.0/27",
+          "4.243.24.32/28",
+          "20.6.141.224/27",
+          "20.6.142.64/28",
+          "20.15.135.224/27",
+          "20.17.28.32/27",
+          "20.17.28.64/28",
+          "20.17.63.32/27",
+          "20.17.113.32/27",
+          "20.18.7.0/27",
+          "20.18.7.32/28",
+          "20.19.31.240/28",
+          "20.21.83.32/27",
+          "20.40.228.96/27",
+          "20.43.47.160/27",
+          "20.48.196.0/27",
+          "20.49.119.0/27",
+          "20.51.9.96/27",
+          "20.51.17.128/27",
+          "20.52.94.64/27",
+          "20.53.46.96/27",
+          "20.61.99.160/27",
+          "20.62.58.96/27",
+          "20.62.132.128/27",
+          "20.65.132.128/27",
+          "20.66.3.32/27",
+          "20.69.0.0/27",
+          "20.91.152.96/27",
+          "20.91.154.128/28",
+          "20.92.6.160/27",
+          "20.100.5.192/27",
+          "20.100.21.64/27",
+          "20.100.21.96/28",
+          "20.113.251.48/28",
+          "20.113.251.160/27",
+          "20.150.130.0/27",
+          "20.164.154.112/28",
+          "20.164.154.128/27",
+          "20.167.130.64/27",
+          "20.170.168.224/27",
+          "20.175.7.48/28",
+          "20.175.7.64/27",
+          "20.189.193.128/27",
+          "20.191.165.128/27",
+          "20.192.43.128/27",
+          "20.194.73.32/27",
+          "20.195.65.0/27",
+          "20.195.72.0/27",
+          "20.199.207.0/27",
+          "20.199.207.32/28",
+          "20.200.165.160/27",
+          "20.203.91.160/27",
+          "20.203.93.32/27",
+          "20.203.93.64/28",
+          "20.204.199.16/28",
+          "20.204.199.32/27",
+          "20.206.7.32/27",
+          "20.207.174.176/28",
+          "20.207.174.192/27",
+          "20.207.175.0/27",
+          "20.208.144.128/27",
+          "20.208.152.0/27",
+          "20.208.152.32/28",
+          "20.211.230.160/27",
+          "20.211.230.192/28",
+          "20.213.226.128/27",
+          "20.213.228.208/28",
+          "20.213.228.224/27",
+          "20.214.135.160/27",
+          "20.214.135.192/28",
+          "20.215.15.160/27",
+          "20.215.173.208/28",
+          "20.215.173.224/27",
+          "20.215.174.64/27",
+          "20.217.11.176/28",
+          "20.217.11.192/27",
+          "20.217.53.224/27",
+          "20.218.190.32/27",
+          "20.218.190.64/28",
+          "20.220.7.32/27",
+          "20.220.7.128/28",
+          "20.226.211.160/27",
+          "20.226.211.192/28",
+          "20.233.132.208/28",
+          "20.233.132.224/27",
+          "20.241.119.112/28",
+          "20.241.119.192/27",
+          "20.244.194.64/27",
+          "20.244.194.96/28",
+          "20.252.211.160/27",
+          "20.252.212.192/28",
+          "40.64.8.192/27",
+          "40.117.26.96/27",
+          "40.117.28.48/28",
+          "40.117.28.64/27",
+          "40.120.87.0/27",
+          "51.12.72.224/27",
+          "51.13.141.192/27",
+          "51.53.101.224/27",
+          "51.53.183.0/27",
+          "51.107.254.192/27",
+          "51.142.128.96/27",
+          "51.142.134.128/27",
+          "51.142.134.160/28",
+          "51.143.209.192/27",
+          "52.146.133.96/27",
+          "52.148.44.176/28",
+          "52.148.44.192/27",
+          "52.172.82.224/27",
+          "52.172.85.112/28",
+          "52.172.86.0/27",
+          "52.233.105.32/27",
+          "52.233.105.64/28",
+          "52.242.45.160/27",
+          "68.218.123.144/28",
+          "68.218.123.160/27",
+          "68.219.194.208/28",
+          "68.219.194.224/27",
+          "68.221.44.0/27",
+          "68.221.81.32/27",
+          "74.249.120.48/28",
+          "74.249.120.128/27",
+          "74.249.136.64/28",
+          "98.66.128.0/27",
+          "102.37.167.64/27",
+          "108.140.0.192/27",
+          "108.140.1.80/28",
+          "158.23.97.32/27",
+          "172.167.235.16/28",
+          "172.167.235.32/27",
+          "172.178.4.32/27",
+          "172.178.6.0/28",
+          "172.182.154.192/26",
+          "191.234.142.128/27",
+          "2603:1010:304:2::600/122",
+          "2603:1010:404:2::680/122",
+          "2603:1020:605:3::300/122",
+          "2603:1020:d04:2::580/122",
+          "2603:1020:f04:3::680/122",
+          "2603:1020:1204::240/122",
+          "2603:1020:1302:2::440/122",
+          "2603:1020:1403::240/122",
+          "2603:1030:504:4::180/122",
+          "2603:1030:702::240/122",
+          "2603:1030:a07:4::480/122",
+          "2603:1030:1005:3::100/122",
+          "2603:1040:606:3::/122",
+          "2603:1040:806:2::3c0/122",
+          "2603:1040:b04:2::540/122",
+          "2603:1040:e05:1::680/122",
+          "2603:1040:1002:5::100/122",
+          "2603:1040:1202:2::240/122",
+          "2603:1040:1302:2::340/122",
+          "2603:1040:1402:2::140/122",
+          "2603:1040:1503:2::340/122",
+          "2603:1040:1602::240/122"
         ],
         "networkFeatures": [
           "API",
@@ -23962,7 +24192,7 @@
       "name": "MicrosoftAzureFluidRelay",
       "id": "MicrosoftAzureFluidRelay",
       "properties": {
-        "changeNumber": 5,
+        "changeNumber": 6,
         "region": "",
         "regionId": 0,
         "platform": "Azure",
@@ -24038,6 +24268,7 @@
           "2603:1040:a06:3::258/125",
           "2603:1040:d04:3::580/125",
           "2603:1040:f05:3::700/125",
+          "2603:1040:1002:5::438/125",
           "2603:1040:1302:3::500/125",
           "2603:1050:6:2::538/125",
           "2603:1050:403:1::4f8/125"
@@ -30179,6 +30410,22 @@
       }
     },
     {
+      "name": "ActionGroup.MalaysiaSouth",
+      "id": "ActionGroup.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "ActionGroup",
+        "addressPrefixes": [
+          "20.17.66.88/30",
+          "2603:1040:1503:400::180/125"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "ActionGroup.NorthCentralUS",
       "id": "ActionGroup.NorthCentralUS",
       "properties": {
@@ -31290,6 +31537,27 @@
           "52.231.146.84/31",
           "52.231.147.176/28",
           "2603:1040:e05:5::210/124"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "ApiManagement.MalaysiaSouth",
+      "id": "ApiManagement.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureApiManagement",
+        "addressPrefixes": [
+          "20.17.51.224/28",
+          "2603:1040:1503::600/124"
         ],
         "networkFeatures": [
           "API",
@@ -33006,6 +33274,27 @@
           "52.231.200.101/32",
           "52.231.200.179/32",
           "2603:1040:e05:1::200/120"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AppService.MalaysiaSouth",
+      "id": "AppService.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureAppService",
+        "addressPrefixes": [
+          "20.17.62.0/24",
+          "2603:1040:1503:2::100/120"
         ],
         "networkFeatures": [
           "API",
@@ -34901,6 +35190,25 @@
       }
     },
     {
+      "name": "AppServiceManagement.MalaysiaSouth",
+      "id": "AppServiceManagement.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureAppServiceManagement",
+        "addressPrefixes": [
+          "20.17.27.128/26",
+          "2603:1040:1503:2::6c0/123",
+          "2603:1040:1503:400::80/122"
+        ],
+        "networkFeatures": [
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "AppServiceManagement.NorthCentralUS",
       "id": "AppServiceManagement.NorthCentralUS",
       "properties": {
@@ -35670,7 +35978,7 @@
       "name": "AzureArcInfrastructure.CanadaCentral",
       "id": "AzureArcInfrastructure.CanadaCentral",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "canadacentral",
         "regionId": 11,
         "platform": "Azure",
@@ -35681,6 +35989,8 @@
           "20.38.149.130/32",
           "20.48.192.76/30",
           "20.151.32.136/30",
+          "20.220.7.200/29",
+          "20.220.7.208/31",
           "52.228.84.80/30",
           "52.246.157.2/31"
         ],
@@ -35712,7 +36022,7 @@
       "name": "AzureArcInfrastructure.CentralIndia",
       "id": "AzureArcInfrastructure.CentralIndia",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "centralindia",
         "regionId": 21,
         "platform": "Azure",
@@ -35721,6 +36031,8 @@
           "20.43.121.252/32",
           "20.43.123.220/30",
           "20.192.101.26/31",
+          "20.204.199.98/31",
+          "20.204.199.104/29",
           "40.80.53.2/31",
           "52.140.107.92/30",
           "52.140.110.108/30"
@@ -35754,7 +36066,7 @@
       "name": "AzureArcInfrastructure.CentralUSEUAP",
       "id": "AzureArcInfrastructure.CentralUSEUAP",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "centraluseuap",
         "regionId": 48,
         "platform": "Azure",
@@ -35764,7 +36076,9 @@
           "20.45.199.32/30",
           "20.45.208.12/30",
           "20.45.208.40/30",
-          "40.78.204.46/32"
+          "40.78.204.46/32",
+          "168.61.233.50/31",
+          "168.61.233.56/29"
         ],
         "networkFeatures": null
       }
@@ -35820,7 +36134,7 @@
       "name": "AzureArcInfrastructure.EastUS2",
       "id": "AzureArcInfrastructure.EastUS2",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "eastus2",
         "regionId": 33,
         "platform": "Azure",
@@ -35831,7 +36145,9 @@
           "20.49.102.212/30",
           "40.70.151.194/32",
           "40.70.151.196/30",
-          "52.167.111.168/31"
+          "52.167.111.168/31",
+          "74.249.120.4/31",
+          "74.249.127.128/29"
         ],
         "networkFeatures": null
       }
@@ -35854,6 +36170,22 @@
           "40.74.150.120/32",
           "40.89.121.188/31",
           "52.138.90.54/31"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureArcInfrastructure.EastUSSTG",
+      "id": "AzureArcInfrastructure.EastUSSTG",
+      "properties": {
+        "changeNumber": 1,
+        "region": "usstagee",
+        "regionId": 68,
+        "platform": "Azure",
+        "systemService": "AzureArcInfrastructure",
+        "addressPrefixes": [
+          "20.99.27.84/31",
+          "20.99.27.96/29"
         ],
         "networkFeatures": null
       }
@@ -35884,12 +36216,14 @@
       "name": "AzureArcInfrastructure.FranceSouth",
       "id": "AzureArcInfrastructure.FranceSouth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southfrance",
         "regionId": 20,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "20.111.72.136/29",
+          "40.80.103.250/31",
           "51.105.90.148/30",
           "51.138.160.92/30"
         ],
@@ -36055,7 +36389,7 @@
       "name": "AzureArcInfrastructure.KoreaCentral",
       "id": "AzureArcInfrastructure.KoreaCentral",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "koreacentral",
         "regionId": 26,
         "platform": "Azure",
@@ -36066,6 +36400,8 @@
           "20.44.29.50/31",
           "20.44.31.36/30",
           "20.194.68.148/31",
+          "20.214.135.216/29",
+          "20.214.135.224/31",
           "52.231.23.10/32"
         ],
         "networkFeatures": null
@@ -36075,12 +36411,14 @@
       "name": "AzureArcInfrastructure.KoreaSouth",
       "id": "AzureArcInfrastructure.KoreaSouth",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "koreasouth",
         "regionId": 50,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "4.243.24.48/29",
+          "4.243.24.56/31",
           "40.80.172.12/30",
           "52.231.151.80/30",
           "2603:1040:e05:6::90/124"
@@ -36089,10 +36427,26 @@
       }
     },
     {
+      "name": "AzureArcInfrastructure.MalaysiaSouth",
+      "id": "AzureArcInfrastructure.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureArcInfrastructure",
+        "addressPrefixes": [
+          "20.17.28.8/29",
+          "20.17.28.80/31"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureArcInfrastructure.NorthCentralUS",
       "id": "AzureArcInfrastructure.NorthCentralUS",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "northcentralus",
         "regionId": 34,
         "platform": "Azure",
@@ -36102,6 +36456,8 @@
           "20.49.114.52/30",
           "20.125.173.160/31",
           "20.125.205.160/31",
+          "20.241.119.28/31",
+          "20.241.119.104/29",
           "52.162.111.132/32",
           "52.240.244.228/30"
         ],
@@ -36213,12 +36569,14 @@
       "name": "AzureArcInfrastructure.SouthAfricaNorth",
       "id": "AzureArcInfrastructure.SouthAfricaNorth",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "southafricanorth",
         "regionId": 82,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "20.164.154.166/31",
+          "20.164.158.128/29",
           "102.133.127.176/31",
           "102.133.154.6/31",
           "102.133.218.52/30",
@@ -36233,12 +36591,14 @@
       "name": "AzureArcInfrastructure.SouthAfricaWest",
       "id": "AzureArcInfrastructure.SouthAfricaWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southafricawest",
         "regionId": 83,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "40.117.28.40/29",
+          "40.117.28.96/31",
           "102.37.64.160/30",
           "102.133.57.188/30"
         ],
@@ -36288,14 +36648,16 @@
       "name": "AzureArcInfrastructure.SouthIndia",
       "id": "AzureArcInfrastructure.SouthIndia",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southindia",
         "regionId": 22,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
           "20.41.195.252/30",
-          "20.41.208.16/30"
+          "20.41.208.16/30",
+          "52.172.85.50/31",
+          "52.172.86.48/29"
         ],
         "networkFeatures": null
       }
@@ -36362,13 +36724,15 @@
       "name": "AzureArcInfrastructure.SwitzerlandNorth",
       "id": "AzureArcInfrastructure.SwitzerlandNorth",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "switzerlandn",
         "regionId": 66,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
           "20.208.21.162/31",
+          "20.208.151.204/31",
+          "20.208.152.48/29",
           "51.103.205.160/31",
           "51.107.50.56/30",
           "51.107.53.32/30",
@@ -36382,14 +36746,16 @@
       "name": "AzureArcInfrastructure.SwitzerlandWest",
       "id": "AzureArcInfrastructure.SwitzerlandWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "switzerlandw",
         "regionId": 67,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
           "51.107.146.52/30",
-          "51.107.193.4/30"
+          "51.107.193.4/30",
+          "74.242.3.192/29",
+          "74.242.3.200/31"
         ],
         "networkFeatures": null
       }
@@ -36436,7 +36802,7 @@
       "name": "AzureArcInfrastructure.UKSouth",
       "id": "AzureArcInfrastructure.UKSouth",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "uksouth",
         "regionId": 27,
         "platform": "Azure",
@@ -36447,7 +36813,9 @@
           "51.104.31.172/30",
           "51.105.71.144/31",
           "51.105.77.50/31",
-          "51.140.151.168/30"
+          "51.140.151.168/30",
+          "172.167.234.102/31",
+          "172.167.236.56/29"
         ],
         "networkFeatures": null
       }
@@ -36498,12 +36866,14 @@
       "name": "AzureArcInfrastructure.WestEurope",
       "id": "AzureArcInfrastructure.WestEurope",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "westeurope",
         "regionId": 18,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "4.210.131.40/29",
+          "4.210.131.48/31",
           "13.81.244.155/32",
           "20.50.1.196/30",
           "20.50.201.210/31",
@@ -36519,12 +36889,14 @@
       "name": "AzureArcInfrastructure.WestIndia",
       "id": "AzureArcInfrastructure.WestIndia",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "westindia",
         "regionId": 23,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "20.207.175.32/29",
+          "20.207.175.102/31",
           "52.136.51.68/30",
           "104.211.146.248/30",
           "2603:1040:806:3::7c0/124"
@@ -36536,12 +36908,14 @@
       "name": "AzureArcInfrastructure.WestUS",
       "id": "AzureArcInfrastructure.WestUS",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "westus",
         "regionId": 37,
         "platform": "Azure",
         "systemService": "AzureArcInfrastructure",
         "addressPrefixes": [
+          "4.150.233.30/31",
+          "4.150.234.24/29",
           "4.150.242.0/29",
           "13.86.223.80/32",
           "20.49.120.32/30",
@@ -37050,6 +37424,22 @@
           "40.80.173.216/30",
           "52.231.151.68/30",
           "2603:1040:e05:5::230/124"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureAttestation.MalaysiaSouth",
+      "id": "AzureAttestation.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureAttestation",
+        "addressPrefixes": [
+          "20.17.51.36/30",
+          "2603:1040:1503::620/124"
         ],
         "networkFeatures": null
       }
@@ -38094,6 +38484,24 @@
           "52.231.147.32/27",
           "52.231.147.64/26",
           "2603:1040:e05:5::300/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureBackup.MalaysiaSouth",
+      "id": "AzureBackup.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureBackup",
+        "addressPrefixes": [
+          "20.17.52.0/26",
+          "20.17.67.64/26",
+          "2603:1040:1503::680/121",
+          "2603:1040:1503:400::100/121"
         ],
         "networkFeatures": null
       }
@@ -39176,6 +39584,22 @@
       }
     },
     {
+      "name": "AzureBotService.MalaysiaSouth",
+      "id": "AzureBotService.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureBotService",
+        "addressPrefixes": [
+          "20.17.48.16/30",
+          "2603:1040:1503::20/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureBotService.NorthCentralUS",
       "id": "AzureBotService.NorthCentralUS",
       "properties": {
@@ -40127,6 +40551,22 @@
         "addressPrefixes": [
           "40.80.169.64/26",
           "2603:1040:e05:1::/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureCognitiveSearch.MalaysiaSouth",
+      "id": "AzureCognitiveSearch.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureCognitiveSearch",
+        "addressPrefixes": [
+          "20.17.48.192/26",
+          "2603:1040:1503::100/121"
         ],
         "networkFeatures": null
       }
@@ -41383,6 +41823,29 @@
           "52.231.163.10/32",
           "52.231.201.173/32",
           "2603:1040:e05:5::7c0/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AzureConnectors.MalaysiaSouth",
+      "id": "AzureConnectors.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureConnectors",
+        "addressPrefixes": [
+          "20.17.25.0/26",
+          "20.17.67.0/26",
+          "2603:1040:1503:2::580/122",
+          "2603:1040:1503:400::c0/122"
         ],
         "networkFeatures": [
           "API",
@@ -43060,6 +43523,32 @@
           "2603:1040:e05:402::100/122",
           "2603:1040:e05:402::148/125",
           "2603:1040:e05:402::200/121"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AzureContainerRegistry.MalaysiaSouth",
+      "id": "AzureContainerRegistry.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureContainerRegistry",
+        "addressPrefixes": [
+          "20.17.51.128/26",
+          "20.17.66.128/26",
+          "20.17.68.128/25",
+          "2603:1040:1503::540/125",
+          "2603:1040:1503:3::4c0/122",
+          "2603:1040:1503:400::48/125",
+          "2603:1040:1503:400::280/121"
         ],
         "networkFeatures": [
           "API",
@@ -44866,6 +45355,30 @@
       }
     },
     {
+      "name": "AzureCosmosDB.MalaysiaSouth",
+      "id": "AzureCosmosDB.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureCosmosDB",
+        "addressPrefixes": [
+          "20.17.24.64/26",
+          "20.17.51.0/27",
+          "20.17.66.0/26",
+          "2603:1040:1503::1e0/123",
+          "2603:1040:1503:400::/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "AzureCosmosDB.NorthCentralUS",
       "id": "AzureCosmosDB.NorthCentralUS",
       "properties": {
@@ -46240,6 +46753,22 @@
           "40.80.234.9/32",
           "52.231.148.16/28",
           "2603:1040:e05::180/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureDataExplorerManagement.MalaysiaSouth",
+      "id": "AzureDataExplorerManagement.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureDataExplorerManagement",
+        "addressPrefixes": [
+          "20.17.54.128/28",
+          "2603:1040:1503:1::1e0/123"
         ],
         "networkFeatures": null
       }
@@ -47981,6 +48510,22 @@
       }
     },
     {
+      "name": "AzureDigitalTwins.MalaysiaSouth",
+      "id": "AzureDigitalTwins.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureDigitalTwins",
+        "addressPrefixes": [
+          "20.17.51.192/27",
+          "2603:1040:1503::580/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureDigitalTwins.NorthCentralUS",
       "id": "AzureDigitalTwins.NorthCentralUS",
       "properties": {
@@ -48981,6 +49526,22 @@
           "40.80.170.0/25",
           "40.80.236.192/27",
           "2603:1040:e05:1::700/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureEventGrid.MalaysiaSouth",
+      "id": "AzureEventGrid.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureEventGrid",
+        "addressPrefixes": [
+          "20.17.49.128/25",
+          "2603:1040:1503::280/121"
         ],
         "networkFeatures": null
       }
@@ -50414,6 +50975,28 @@
       }
     },
     {
+      "name": "EventHub.MalaysiaSouth",
+      "id": "EventHub.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureEventHub",
+        "addressPrefixes": [
+          "20.17.53.0/24",
+          "20.17.67.128/26",
+          "2603:1040:1503:1::/120"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "EventHub.NorthCentralUS",
       "id": "EventHub.NorthCentralUS",
       "properties": {
@@ -50972,7 +51555,7 @@
       "name": "EventHub.UKSouth",
       "id": "EventHub.UKSouth",
       "properties": {
-        "changeNumber": 5,
+        "changeNumber": 6,
         "region": "uksouth",
         "regionId": 27,
         "platform": "Azure",
@@ -50994,8 +51577,10 @@
           "2603:1020:705:2::400/120",
           "2603:1020:705:6::/120",
           "2603:1020:705:6::100/123",
-          "2603:1020:705:6::120/125",
-          "2603:1020:705:6::128/126",
+          "2603:1020:705:6::120/124",
+          "2603:1020:705:6::130/125",
+          "2603:1020:705:6::140/123",
+          "2603:1020:705:6::200/120",
           "2603:1020:705:402::1c0/123",
           "2603:1020:705:802::160/123",
           "2603:1020:705:c02::160/123"
@@ -51933,6 +52518,22 @@
           "52.231.148.128/27",
           "52.231.205.15/32",
           "2603:1040:e05:402::1c0/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureIoTHub.MalaysiaSouth",
+      "id": "AzureIoTHub.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureIoTHub",
+        "addressPrefixes": [
+          "20.17.68.96/27",
+          "2603:1040:1503:400::220/123"
         ],
         "networkFeatures": null
       }
@@ -53385,6 +53986,28 @@
       }
     },
     {
+      "name": "AzureKeyVault.MalaysiaSouth",
+      "id": "AzureKeyVault.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureKeyVault",
+        "addressPrefixes": [
+          "20.17.58.48/29",
+          "20.17.66.124/30",
+          "2603:1040:1503:1::1c8/125"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "AzureKeyVault.NorthCentralUS",
       "id": "AzureKeyVault.NorthCentralUS",
       "properties": {
@@ -54705,6 +55328,22 @@
           "40.80.169.160/28",
           "52.231.146.208/28",
           "2603:1040:e05:1::640/122"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureMachineLearning.MalaysiaSouth",
+      "id": "AzureMachineLearning.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureMachineLearning",
+        "addressPrefixes": [
+          "20.17.49.0/27",
+          "2603:1040:1503::200/122"
         ],
         "networkFeatures": null
       }
@@ -56555,6 +57194,33 @@
           "2603:1040:e05:6::380/122",
           "2603:1040:e05:6::3c0/123",
           "2603:1040:e05:402::80/121"
+        ],
+        "networkFeatures": [
+          "NSG"
+        ]
+      }
+    },
+    {
+      "name": "AzureMonitor.MalaysiaSouth",
+      "id": "AzureMonitor.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureMonitor",
+        "addressPrefixes": [
+          "20.17.25.192/27",
+          "20.17.59.36/30",
+          "20.17.59.40/29",
+          "20.17.59.48/30",
+          "20.17.59.64/27",
+          "20.17.71.128/29",
+          "2603:1040:1503:2::a0/123",
+          "2603:1040:1503:2::c0/122",
+          "2603:1040:1503:2::200/122",
+          "2603:1040:1503:2::280/121",
+          "2603:1040:1503:2::700/121"
         ],
         "networkFeatures": [
           "NSG"
@@ -59166,6 +59832,22 @@
       }
     },
     {
+      "name": "AzurePortal.MalaysiaSouth",
+      "id": "AzurePortal.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzurePortal",
+        "addressPrefixes": [
+          "20.17.58.128/27",
+          "2603:1040:1503:1::580/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzurePortal.NorthCentralUS",
       "id": "AzurePortal.NorthCentralUS",
       "properties": {
@@ -60258,6 +60940,24 @@
           "52.231.148.64/28",
           "52.231.150.0/24",
           "2603:1040:e05:5::500/120"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureResourceManager.MalaysiaSouth",
+      "id": "AzureResourceManager.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureResourceManager",
+        "addressPrefixes": [
+          "20.17.60.0/23",
+          "20.17.68.0/26",
+          "2603:1040:1503:1::600/120",
+          "2603:1040:1503:400::1c0/122"
         ],
         "networkFeatures": null
       }
@@ -61951,6 +62651,32 @@
           "2603:1040:e05::/123",
           "2603:1040:e05:6::440/122",
           "2603:1040:e05:6::480/121"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "Sql.MalaysiaSouth",
+      "id": "Sql.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureSQL",
+        "addressPrefixes": [
+          "20.17.59.128/27",
+          "20.17.59.192/26",
+          "20.17.64.64/27",
+          "20.17.65.64/27",
+          "20.17.67.248/29",
+          "2603:1040:1503:2::300/123",
+          "2603:1040:1503:2::380/121"
         ],
         "networkFeatures": [
           "API",
@@ -64699,6 +65425,27 @@
       }
     },
     {
+      "name": "ServiceBus.MalaysiaSouth",
+      "id": "ServiceBus.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureServiceBus",
+        "addressPrefixes": [
+          "20.17.54.0/25",
+          "20.17.66.80/29",
+          "20.17.66.96/28",
+          "2603:1040:1503::780/121"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "ServiceBus.NorthCentralUS",
       "id": "ServiceBus.NorthCentralUS",
       "properties": {
@@ -66396,7 +67143,7 @@
       "name": "Storage.AustraliaEast",
       "id": "Storage.AustraliaEast",
       "properties": {
-        "changeNumber": 10,
+        "changeNumber": 11,
         "region": "australiaeast",
         "regionId": 3,
         "platform": "Azure",
@@ -66413,6 +67160,7 @@
           "13.75.240.16/28",
           "13.75.240.32/28",
           "13.75.240.64/27",
+          "20.33.181.0/24",
           "20.38.112.0/23",
           "20.47.37.0/24",
           "20.60.72.0/22",
@@ -66833,7 +67581,7 @@
       "name": "Storage.EastUS",
       "id": "Storage.EastUS",
       "properties": {
-        "changeNumber": 25,
+        "changeNumber": 26,
         "region": "eastus",
         "regionId": 32,
         "platform": "Azure",
@@ -66879,6 +67627,7 @@
           "20.209.106.0/23",
           "20.209.146.0/23",
           "20.209.162.0/23",
+          "20.209.226.0/23",
           "23.96.64.64/26",
           "40.71.104.16/28",
           "40.71.104.32/28",
@@ -67252,12 +68001,13 @@
       "name": "Storage.GermanyWestCentral",
       "id": "Storage.GermanyWestCentral",
       "properties": {
-        "changeNumber": 8,
+        "changeNumber": 9,
         "region": "germanywc",
         "regionId": 71,
         "platform": "Azure",
         "systemService": "AzureStorage",
         "addressPrefixes": [
+          "20.33.182.0/24",
           "20.38.118.0/24",
           "20.47.27.0/24",
           "20.60.22.0/23",
@@ -67520,6 +68270,30 @@
           "52.239.190.192/26",
           "52.239.204.0/24",
           "2603:1040:e06::/48"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "Storage.MalaysiaSouth",
+      "id": "Storage.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "AzureStorage",
+        "addressPrefixes": [
+          "20.157.238.0/24",
+          "20.157.254.0/24",
+          "20.209.66.0/23",
+          "20.209.78.0/23",
+          "2603:1040:1504::/48"
         ],
         "networkFeatures": [
           "API",
@@ -68358,7 +69132,7 @@
       "name": "Storage.WestCentralUS",
       "id": "Storage.WestCentralUS",
       "properties": {
-        "changeNumber": 7,
+        "changeNumber": 8,
         "region": "westcentralus",
         "regionId": 36,
         "platform": "Azure",
@@ -68379,6 +69153,7 @@
           "20.150.81.0/24",
           "20.150.98.0/24",
           "20.157.41.0/24",
+          "20.209.224.0/23",
           "52.161.112.16/28",
           "52.161.112.32/28",
           "52.161.168.16/28",
@@ -68400,7 +69175,7 @@
       "name": "Storage.WestEurope",
       "id": "Storage.WestEurope",
       "properties": {
-        "changeNumber": 22,
+        "changeNumber": 23,
         "region": "westeurope",
         "regionId": 18,
         "platform": "Azure",
@@ -68443,6 +69218,7 @@
           "20.209.76.0/23",
           "20.209.108.0/23",
           "20.209.192.0/23",
+          "20.209.230.0/23",
           "40.68.176.16/28",
           "40.68.176.48/28",
           "40.68.232.16/28",
@@ -69751,6 +70527,25 @@
           "52.231.200.112/31",
           "52.231.200.126/32",
           "2603:1040:e05:1::6c0/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
+      "name": "BatchNodeManagement.MalaysiaSouth",
+      "id": "BatchNodeManagement.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "BatchNodeManagement",
+        "addressPrefixes": [
+          "20.17.49.32/27",
+          "2603:1040:1503::240/122"
         ],
         "networkFeatures": [
           "API",
@@ -71224,6 +72019,30 @@
           "52.231.151.32/28",
           "2603:1040:e05:6::100/121",
           "2603:1040:e05:402::190/124"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
+      "name": "DataFactory.MalaysiaSouth",
+      "id": "DataFactory.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "DataFactory",
+        "addressPrefixes": [
+          "20.17.25.224/28",
+          "20.17.26.192/26",
+          "20.17.27.0/25",
+          "20.17.56.0/23",
+          "20.17.71.64/28",
+          "2603:1040:1503:1::400/121",
+          "2603:1040:1503:400::3c0/124"
         ],
         "networkFeatures": [
           "API",
@@ -72851,6 +73670,24 @@
       }
     },
     {
+      "name": "GatewayManager.MalaysiaSouth",
+      "id": "GatewayManager.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "GatewayManager",
+        "addressPrefixes": [
+          "20.17.48.64/26",
+          "2603:1040:1503::40/122"
+        ],
+        "networkFeatures": [
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "GatewayManager.NorthCentralUS",
       "id": "GatewayManager.NorthCentralUS",
       "properties": {
@@ -74064,6 +74901,27 @@
           "52.231.203.16/32",
           "52.231.205.214/32",
           "2603:1040:e05:5::4b0/124"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "HDInsight.MalaysiaSouth",
+      "id": "HDInsight.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "HDInsight",
+        "addressPrefixes": [
+          "20.17.54.184/29",
+          "2603:1040:1503:1::350/124"
         ],
         "networkFeatures": [
           "API",
@@ -75631,6 +76489,24 @@
           "52.147.97.32/27",
           "2603:1040:e05:402::2e0/124",
           "2603:1040:e05:402::400/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "LogicApps.MalaysiaSouth",
+      "id": "LogicApps.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "LogicApps",
+        "addressPrefixes": [
+          "20.17.71.80/28",
+          "20.17.71.96/27",
+          "2603:1040:1503:400::3d0/124",
+          "2603:1040:1503:400::3e0/123"
         ],
         "networkFeatures": null
       }
@@ -78144,6 +79020,27 @@
       }
     },
     {
+      "name": "MicrosoftContainerRegistry.MalaysiaSouth",
+      "id": "MicrosoftContainerRegistry.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "MicrosoftContainerRegistry",
+        "addressPrefixes": [
+          "20.17.66.64/29",
+          "2603:1040:1503:400::40/125"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "MicrosoftContainerRegistry.NorthCentralUS",
       "id": "MicrosoftContainerRegistry.NorthCentralUS",
       "properties": {
@@ -78792,7 +79689,7 @@
       "name": "PowerPlatformInfra.AustraliaEast",
       "id": "PowerPlatformInfra.AustraliaEast",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "australiaeast",
         "regionId": 3,
         "platform": "Azure",
@@ -78838,7 +79735,8 @@
           "68.218.124.72/29",
           "68.218.124.80/28",
           "68.218.124.96/28",
-          "68.218.124.112/29"
+          "68.218.124.112/29",
+          "2603:1061:2002:6900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -78851,7 +79749,7 @@
       "name": "PowerPlatformInfra.AustraliaSoutheast",
       "id": "PowerPlatformInfra.AustraliaSoutheast",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "australiasoutheast",
         "regionId": 4,
         "platform": "Azure",
@@ -78898,7 +79796,8 @@
           "104.46.176.160/30",
           "104.46.176.192/26",
           "104.46.177.0/26",
-          "104.46.179.32/29"
+          "104.46.179.32/29",
+          "2603:1061:2002:6800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -78911,7 +79810,7 @@
       "name": "PowerPlatformInfra.BrazilSouth",
       "id": "PowerPlatformInfra.BrazilSouth",
       "properties": {
-        "changeNumber": 5,
+        "changeNumber": 6,
         "region": "brazilsouth",
         "regionId": 9,
         "platform": "Azure",
@@ -78946,7 +79845,8 @@
           "191.237.200.26/32",
           "191.238.76.192/26",
           "191.238.77.0/27",
-          "191.238.77.56/29"
+          "191.238.77.56/29",
+          "2603:1061:2002:1100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -78959,7 +79859,7 @@
       "name": "PowerPlatformInfra.BrazilSoutheast",
       "id": "PowerPlatformInfra.BrazilSoutheast",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "brazilse",
         "regionId": 77,
         "platform": "Azure",
@@ -78969,7 +79869,8 @@
           "20.206.3.32/27",
           "20.206.3.64/26",
           "20.206.3.128/25",
-          "20.206.4.0/26"
+          "20.206.4.0/26",
+          "2603:1061:2002:1000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -78982,7 +79883,7 @@
       "name": "PowerPlatformInfra.CanadaCentral",
       "id": "PowerPlatformInfra.CanadaCentral",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "canadacentral",
         "regionId": 11,
         "platform": "Azure",
@@ -79028,7 +79929,8 @@
           "52.228.86.184/29",
           "52.228.86.192/26",
           "52.228.87.0/24",
-          "52.228.125.229/32"
+          "52.228.125.229/32",
+          "2603:1061:2002:6000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79041,7 +79943,7 @@
       "name": "PowerPlatformInfra.CanadaEast",
       "id": "PowerPlatformInfra.CanadaEast",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "canadaeast",
         "regionId": 12,
         "platform": "Azure",
@@ -79089,7 +79991,8 @@
           "52.235.57.203/32",
           "52.235.57.252/30",
           "52.235.63.0/32",
-          "52.242.47.120/29"
+          "52.242.47.120/29",
+          "2603:1061:2002:6100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79102,7 +80005,7 @@
       "name": "PowerPlatformInfra.CentralIndia",
       "id": "PowerPlatformInfra.CentralIndia",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "centralindia",
         "regionId": 21,
         "platform": "Azure",
@@ -79129,7 +80032,8 @@
           "20.207.82.166/32",
           "52.140.108.242/31",
           "52.140.109.128/25",
-          "52.140.110.0/26"
+          "52.140.110.0/26",
+          "2603:1061:2002:4000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79198,7 +80102,7 @@
       "name": "PowerPlatformInfra.EastUS",
       "id": "PowerPlatformInfra.EastUS",
       "properties": {
-        "changeNumber": 10,
+        "changeNumber": 11,
         "region": "eastus",
         "regionId": 32,
         "platform": "Azure",
@@ -79373,7 +80277,8 @@
           "172.178.6.192/26",
           "172.178.7.0/26",
           "172.178.7.64/27",
-          "172.178.7.96/28"
+          "172.178.7.96/28",
+          "2603:1061:2002::/56"
         ],
         "networkFeatures": [
           "API",
@@ -79386,7 +80291,7 @@
       "name": "PowerPlatformInfra.FranceCentral",
       "id": "PowerPlatformInfra.FranceCentral",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "centralfrance",
         "regionId": 19,
         "platform": "Azure",
@@ -79407,7 +80312,8 @@
           "51.103.3.240/32",
           "51.138.215.192/26",
           "98.66.128.48/28",
-          "98.66.128.64/29"
+          "98.66.128.64/29",
+          "2603:1061:2002:4800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79420,7 +80326,7 @@
       "name": "PowerPlatformInfra.FranceSouth",
       "id": "PowerPlatformInfra.FranceSouth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southfrance",
         "regionId": 20,
         "platform": "Azure",
@@ -79441,7 +80347,8 @@
           "52.136.184.88/29",
           "52.136.189.96/27",
           "52.136.189.128/26",
-          "52.136.190.176/29"
+          "52.136.190.176/29",
+          "2603:1061:2002:4900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79454,7 +80361,7 @@
       "name": "PowerPlatformInfra.GermanyNorth",
       "id": "PowerPlatformInfra.GermanyNorth",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "germanyn",
         "regionId": 72,
         "platform": "Azure",
@@ -79472,7 +80379,8 @@
           "51.116.51.184/29",
           "51.116.74.96/27",
           "51.116.74.128/26",
-          "51.116.75.64/29"
+          "51.116.75.64/29",
+          "2603:1061:2002:5000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79485,7 +80393,7 @@
       "name": "PowerPlatformInfra.GermanyWestCentral",
       "id": "PowerPlatformInfra.GermanyWestCentral",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "germanywc",
         "regionId": 71,
         "platform": "Azure",
@@ -79504,7 +80412,8 @@
           "51.116.145.240/28",
           "51.116.146.128/26",
           "51.116.146.192/28",
-          "51.116.148.224/29"
+          "51.116.148.224/29",
+          "2603:1061:2002:5100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79517,7 +80426,7 @@
       "name": "PowerPlatformInfra.JapanEast",
       "id": "PowerPlatformInfra.JapanEast",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "japaneast",
         "regionId": 24,
         "platform": "Azure",
@@ -79544,7 +80453,8 @@
           "20.194.144.27/32",
           "20.194.144.31/32",
           "20.210.3.27/32",
-          "20.210.57.215/32"
+          "20.210.57.215/32",
+          "2603:1061:2002:3900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79557,7 +80467,7 @@
       "name": "PowerPlatformInfra.JapanWest",
       "id": "PowerPlatformInfra.JapanWest",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "japanwest",
         "regionId": 25,
         "platform": "Azure",
@@ -79582,7 +80492,8 @@
           "40.81.188.107/32",
           "40.81.189.52/32",
           "40.81.190.97/32",
-          "52.175.150.250/32"
+          "52.175.150.250/32",
+          "2603:1061:2002:3800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79595,7 +80506,7 @@
       "name": "PowerPlatformInfra.KoreaCentral",
       "id": "PowerPlatformInfra.KoreaCentral",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "koreacentral",
         "regionId": 26,
         "platform": "Azure",
@@ -79615,7 +80526,8 @@
           "52.141.7.17/32",
           "52.141.7.21/32",
           "52.141.7.24/30",
-          "52.141.7.36/30"
+          "52.141.7.36/30",
+          "2603:1061:2002:2000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79628,7 +80540,7 @@
       "name": "PowerPlatformInfra.KoreaSouth",
       "id": "PowerPlatformInfra.KoreaSouth",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "koreasouth",
         "regionId": 50,
         "platform": "Azure",
@@ -79646,7 +80558,8 @@
           "52.231.140.224/29",
           "52.231.143.171/32",
           "52.231.164.79/32",
-          "52.231.185.0/32"
+          "52.231.185.0/32",
+          "2603:1061:2002:2100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79659,7 +80572,7 @@
       "name": "PowerPlatformInfra.NorthEurope",
       "id": "PowerPlatformInfra.NorthEurope",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "northeurope",
         "regionId": 17,
         "platform": "Azure",
@@ -79804,7 +80717,8 @@
           "68.219.196.32/27",
           "68.219.196.64/26",
           "68.219.196.128/25",
-          "68.219.197.0/29"
+          "68.219.197.0/29",
+          "2603:1061:2002:900::/56"
         ],
         "networkFeatures": [
           "API",
@@ -79817,7 +80731,7 @@
       "name": "PowerPlatformInfra.NorwayEast",
       "id": "PowerPlatformInfra.NorwayEast",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "norwaye",
         "regionId": 63,
         "platform": "Azure",
@@ -79830,7 +80744,8 @@
           "51.13.25.253/32",
           "51.120.44.32/27",
           "51.120.44.64/26",
-          "51.120.232.48/29"
+          "51.120.232.48/29",
+          "2603:1061:2002:1800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79843,7 +80758,7 @@
       "name": "PowerPlatformInfra.NorwayWest",
       "id": "PowerPlatformInfra.NorwayWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "norwayw",
         "regionId": 74,
         "platform": "Azure",
@@ -79857,7 +80772,8 @@
           "51.13.149.70/32",
           "51.120.228.48/28",
           "51.120.228.64/26",
-          "51.120.228.128/28"
+          "51.120.228.128/28",
+          "2603:1061:2002:1900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79870,7 +80786,7 @@
       "name": "PowerPlatformInfra.SouthAfricaNorth",
       "id": "PowerPlatformInfra.SouthAfricaNorth",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "southafricanorth",
         "regionId": 82,
         "platform": "Azure",
@@ -79888,7 +80804,8 @@
           "102.133.219.144/28",
           "102.133.219.160/28",
           "102.133.219.192/26",
-          "102.133.221.24/29"
+          "102.133.221.24/29",
+          "2603:1061:2002:2800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79901,7 +80818,7 @@
       "name": "PowerPlatformInfra.SouthAfricaWest",
       "id": "PowerPlatformInfra.SouthAfricaWest",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "southafricawest",
         "regionId": 83,
         "platform": "Azure",
@@ -79915,7 +80832,8 @@
           "102.133.0.212/32",
           "102.133.1.24/32",
           "102.133.59.192/26",
-          "102.133.60.0/27"
+          "102.133.60.0/27",
+          "2603:1061:2002:2900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79928,7 +80846,7 @@
       "name": "PowerPlatformInfra.SouthCentralUS",
       "id": "PowerPlatformInfra.SouthCentralUS",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "southcentralus",
         "regionId": 35,
         "platform": "Azure",
@@ -79959,7 +80877,8 @@
           "52.185.230.20/32",
           "52.249.59.157/32",
           "52.249.60.80/32",
-          "52.249.63.45/32"
+          "52.249.63.45/32",
+          "2603:1061:2002:1200::/57"
         ],
         "networkFeatures": [
           "API",
@@ -79972,7 +80891,7 @@
       "name": "PowerPlatformInfra.SouthIndia",
       "id": "PowerPlatformInfra.SouthIndia",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "southindia",
         "regionId": 22,
         "platform": "Azure",
@@ -79999,7 +80918,8 @@
           "52.172.7.225/32",
           "52.172.85.104/29",
           "52.172.86.32/28",
-          "52.172.112.176/29"
+          "52.172.112.176/29",
+          "2603:1061:2002:4100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80076,7 +80996,7 @@
       "name": "PowerPlatformInfra.SwitzerlandNorth",
       "id": "PowerPlatformInfra.SwitzerlandNorth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "switzerlandn",
         "regionId": 66,
         "platform": "Azure",
@@ -80098,7 +81018,8 @@
           "51.107.202.69/32",
           "51.107.241.104/29",
           "51.107.241.160/27",
-          "51.107.241.192/26"
+          "51.107.241.192/26",
+          "2603:1061:2002:5800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80111,7 +81032,7 @@
       "name": "PowerPlatformInfra.SwitzerlandWest",
       "id": "PowerPlatformInfra.SwitzerlandWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "switzerlandw",
         "regionId": 67,
         "platform": "Azure",
@@ -80132,7 +81053,8 @@
           "51.107.249.192/26",
           "51.107.254.96/27",
           "51.107.254.128/26",
-          "51.107.254.248/29"
+          "51.107.254.248/29",
+          "2603:1061:2002:5900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80145,7 +81067,7 @@
       "name": "PowerPlatformInfra.UAECentral",
       "id": "PowerPlatformInfra.UAECentral",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "uaecentral",
         "regionId": 61,
         "platform": "Azure",
@@ -80163,7 +81085,8 @@
           "40.120.1.91/32",
           "40.120.1.94/32",
           "40.120.1.96/32",
-          "40.120.2.208/31"
+          "40.120.2.208/31",
+          "2603:1061:2002:7100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80176,7 +81099,7 @@
       "name": "PowerPlatformInfra.UAENorth",
       "id": "PowerPlatformInfra.UAENorth",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "uaenorth",
         "regionId": 60,
         "platform": "Azure",
@@ -80197,7 +81120,8 @@
           "40.119.170.180/32",
           "40.120.86.160/27",
           "40.120.86.192/26",
-          "40.120.87.56/29"
+          "40.120.87.56/29",
+          "2603:1061:2002:7000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80210,7 +81134,7 @@
       "name": "PowerPlatformInfra.UKSouth",
       "id": "PowerPlatformInfra.UKSouth",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "uksouth",
         "regionId": 27,
         "platform": "Azure",
@@ -80249,7 +81173,8 @@
           "172.167.236.8/29",
           "172.167.236.16/28",
           "172.167.236.32/28",
-          "172.167.236.48/29"
+          "172.167.236.48/29",
+          "2603:1061:2002:3000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80262,7 +81187,7 @@
       "name": "PowerPlatformInfra.UKWest",
       "id": "PowerPlatformInfra.UKWest",
       "properties": {
-        "changeNumber": 4,
+        "changeNumber": 5,
         "region": "ukwest",
         "regionId": 28,
         "platform": "Azure",
@@ -80298,7 +81223,8 @@
           "51.142.134.176/28",
           "51.142.134.192/27",
           "51.142.162.40/32",
-          "52.142.168.104/32"
+          "52.142.168.104/32",
+          "2603:1061:2002:3100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80331,7 +81257,7 @@
       "name": "PowerPlatformInfra.WestEurope",
       "id": "PowerPlatformInfra.WestEurope",
       "properties": {
-        "changeNumber": 5,
+        "changeNumber": 6,
         "region": "westeurope",
         "regionId": 18,
         "platform": "Azure",
@@ -80469,7 +81395,8 @@
           "104.45.67.10/32",
           "104.45.70.91/32",
           "104.45.70.154/32",
-          "104.45.77.57/32"
+          "104.45.77.57/32",
+          "2603:1061:2002:800::/56"
         ],
         "networkFeatures": [
           "API",
@@ -80482,7 +81409,7 @@
       "name": "PowerPlatformInfra.WestUS",
       "id": "PowerPlatformInfra.WestUS",
       "properties": {
-        "changeNumber": 11,
+        "changeNumber": 12,
         "region": "westus",
         "regionId": 37,
         "platform": "Azure",
@@ -80657,7 +81584,8 @@
           "104.45.231.252/32",
           "104.210.57.39/32",
           "137.135.53.196/32",
-          "168.61.3.73/32"
+          "168.61.3.73/32",
+          "2603:1061:2002:100::/56"
         ],
         "networkFeatures": [
           "API",
@@ -80691,7 +81619,7 @@
       "name": "PowerPlatformPlex.AustraliaEast",
       "id": "PowerPlatformPlex.AustraliaEast",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "australiaeast",
         "regionId": 3,
         "platform": "Azure",
@@ -80703,7 +81631,8 @@
           "20.70.223.88/30",
           "20.70.223.168/29",
           "20.213.194.128/29",
-          "20.213.194.136/30"
+          "20.213.194.136/30",
+          "2603:1061:2004:5900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80715,7 +81644,7 @@
       "name": "PowerPlatformPlex.AustraliaSoutheast",
       "id": "PowerPlatformPlex.AustraliaSoutheast",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "australiasoutheast",
         "regionId": 4,
         "platform": "Azure",
@@ -80726,7 +81655,8 @@
           "20.92.5.80/28",
           "20.92.5.124/30",
           "20.92.6.8/29",
-          "20.92.6.192/29"
+          "20.92.6.192/29",
+          "2603:1061:2004:5800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80738,7 +81668,7 @@
       "name": "PowerPlatformPlex.BrazilSouth",
       "id": "PowerPlatformPlex.BrazilSouth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "brazilsouth",
         "regionId": 9,
         "platform": "Azure",
@@ -80750,7 +81680,8 @@
           "20.206.179.128/29",
           "20.206.179.136/30",
           "191.234.130.0/26",
-          "191.238.78.84/30"
+          "191.238.78.84/30",
+          "2603:1061:2004:100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80762,7 +81693,7 @@
       "name": "PowerPlatformPlex.BrazilSoutheast",
       "id": "PowerPlatformPlex.BrazilSoutheast",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "brazilse",
         "regionId": 77,
         "platform": "Azure",
@@ -80771,7 +81702,8 @@
           "20.206.3.20/30",
           "20.206.4.64/29",
           "20.206.4.224/29",
-          "20.206.4.232/30"
+          "20.206.4.232/30",
+          "2603:1061:2004::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80806,7 +81738,7 @@
       "name": "PowerPlatformPlex.CanadaEast",
       "id": "PowerPlatformPlex.CanadaEast",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "canadaeast",
         "regionId": 12,
         "platform": "Azure",
@@ -80817,7 +81749,8 @@
           "52.242.44.208/30",
           "52.242.44.236/30",
           "52.242.44.248/29",
-          "52.242.45.48/29"
+          "52.242.45.48/29",
+          "2603:1061:2004:5200::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80829,7 +81762,7 @@
       "name": "PowerPlatformPlex.CentralIndia",
       "id": "PowerPlatformPlex.CentralIndia",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "centralindia",
         "regionId": 21,
         "platform": "Azure",
@@ -80839,7 +81772,8 @@
           "20.204.192.108/30",
           "20.204.192.192/29",
           "20.204.193.100/30",
-          "20.204.193.104/29"
+          "20.204.193.104/29",
+          "2603:1061:2004:3900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80869,7 +81803,7 @@
       "name": "PowerPlatformPlex.EastAsia",
       "id": "PowerPlatformPlex.EastAsia",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "eastasia",
         "regionId": 1,
         "platform": "Azure",
@@ -80881,7 +81815,8 @@
           "20.205.49.200/29",
           "20.205.50.112/30",
           "20.205.69.156/30",
-          "52.229.231.64/26"
+          "52.229.231.64/26",
+          "2603:1061:2004:6000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80893,7 +81828,7 @@
       "name": "PowerPlatformPlex.EastUS",
       "id": "PowerPlatformPlex.EastUS",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "eastus",
         "regionId": 32,
         "platform": "Azure",
@@ -80910,7 +81845,8 @@
           "20.232.89.32/27",
           "20.232.89.64/27",
           "20.232.89.96/29",
-          "52.255.218.64/26"
+          "52.255.218.64/26",
+          "2603:1061:2004:7000::/56"
         ],
         "networkFeatures": [
           "API",
@@ -80940,7 +81876,7 @@
       "name": "PowerPlatformPlex.FranceCentral",
       "id": "PowerPlatformPlex.FranceCentral",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "centralfrance",
         "regionId": 19,
         "platform": "Azure",
@@ -80949,7 +81885,8 @@
           "20.111.3.152/29",
           "20.111.3.204/30",
           "20.111.3.216/30",
-          "51.138.205.48/28"
+          "51.138.205.48/28",
+          "2603:1061:2004:4000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80961,7 +81898,7 @@
       "name": "PowerPlatformPlex.FranceSouth",
       "id": "PowerPlatformPlex.FranceSouth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southfrance",
         "regionId": 20,
         "platform": "Azure",
@@ -80970,7 +81907,8 @@
           "40.80.96.36/30",
           "40.80.96.192/30",
           "52.136.140.96/28",
-          "52.136.191.248/29"
+          "52.136.191.248/29",
+          "2603:1061:2004:4100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -80982,7 +81920,7 @@
       "name": "PowerPlatformPlex.GermanyNorth",
       "id": "PowerPlatformPlex.GermanyNorth",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "germanyn",
         "regionId": 72,
         "platform": "Azure",
@@ -80991,7 +81929,8 @@
           "51.116.77.84/30",
           "51.116.77.248/30",
           "51.116.78.36/30",
-          "51.116.78.192/30"
+          "51.116.78.192/30",
+          "2603:1061:2004:4800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81003,7 +81942,7 @@
       "name": "PowerPlatformPlex.GermanyWestCentral",
       "id": "PowerPlatformPlex.GermanyWestCentral",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "germanywc",
         "regionId": 71,
         "platform": "Azure",
@@ -81012,7 +81951,8 @@
           "20.52.95.84/30",
           "20.52.95.216/30",
           "20.79.108.100/30",
-          "20.79.108.104/30"
+          "20.79.108.104/30",
+          "2603:1061:2004:4900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81024,7 +81964,7 @@
       "name": "PowerPlatformPlex.JapanEast",
       "id": "PowerPlatformPlex.JapanEast",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "japaneast",
         "regionId": 24,
         "platform": "Azure",
@@ -81034,7 +81974,8 @@
           "20.210.68.156/30",
           "20.210.69.80/29",
           "20.210.70.72/29",
-          "20.210.70.80/30"
+          "20.210.70.80/30",
+          "2603:1061:2004:3000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81046,7 +81987,7 @@
       "name": "PowerPlatformPlex.JapanWest",
       "id": "PowerPlatformPlex.JapanWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "japanwest",
         "regionId": 25,
         "platform": "Azure",
@@ -81056,7 +81997,8 @@
           "20.189.194.180/30",
           "20.189.198.88/29",
           "20.189.198.136/29",
-          "20.189.199.32/30"
+          "20.189.199.32/30",
+          "2603:1061:2004:3100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81068,14 +82010,15 @@
       "name": "PowerPlatformPlex.KoreaCentral",
       "id": "PowerPlatformPlex.KoreaCentral",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "koreacentral",
         "regionId": 26,
         "platform": "Azure",
         "systemService": "PowerPlatformPlex",
         "addressPrefixes": [
           "20.200.198.200/29",
-          "20.200.199.88/29"
+          "20.200.199.88/29",
+          "2603:1061:2004:1800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81087,7 +82030,7 @@
       "name": "PowerPlatformPlex.KoreaSouth",
       "id": "PowerPlatformPlex.KoreaSouth",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "koreasouth",
         "regionId": 50,
         "platform": "Azure",
@@ -81096,7 +82039,8 @@
           "20.200.160.28/30",
           "20.200.160.208/30",
           "20.200.160.236/30",
-          "20.200.160.248/30"
+          "20.200.160.248/30",
+          "2603:1061:2004:1900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81108,7 +82052,7 @@
       "name": "PowerPlatformPlex.NorthEurope",
       "id": "PowerPlatformPlex.NorthEurope",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "northeurope",
         "regionId": 17,
         "platform": "Azure",
@@ -81123,7 +82067,8 @@
           "52.146.141.136/29",
           "52.146.141.160/27",
           "52.146.141.192/27",
-          "52.155.160.192/26"
+          "52.155.160.192/26",
+          "2603:1061:2004:7900::/56"
         ],
         "networkFeatures": [
           "API",
@@ -81135,7 +82080,7 @@
       "name": "PowerPlatformPlex.NorwayEast",
       "id": "PowerPlatformPlex.NorwayEast",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "norwaye",
         "regionId": 63,
         "platform": "Azure",
@@ -81144,7 +82089,8 @@
           "20.100.4.136/29",
           "20.100.4.180/30",
           "20.100.5.16/30",
-          "20.100.129.0/28"
+          "20.100.129.0/28",
+          "2603:1061:2004:1000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81156,7 +82102,7 @@
       "name": "PowerPlatformPlex.NorwayWest",
       "id": "PowerPlatformPlex.NorwayWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "norwayw",
         "regionId": 74,
         "platform": "Azure",
@@ -81165,7 +82111,8 @@
           "51.120.176.192/29",
           "51.120.176.220/30",
           "51.120.176.232/30",
-          "51.120.184.144/28"
+          "51.120.184.144/28",
+          "2603:1061:2004:1100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81177,7 +82124,7 @@
       "name": "PowerPlatformPlex.SouthAfricaNorth",
       "id": "PowerPlatformPlex.SouthAfricaNorth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southafricanorth",
         "regionId": 82,
         "platform": "Azure",
@@ -81185,7 +82132,8 @@
         "addressPrefixes": [
           "20.87.82.152/29",
           "20.87.83.104/29",
-          "102.133.204.16/28"
+          "102.133.204.16/28",
+          "2603:1061:2004:2000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81197,7 +82145,7 @@
       "name": "PowerPlatformPlex.SouthAfricaWest",
       "id": "PowerPlatformPlex.SouthAfricaWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southafricawest",
         "regionId": 83,
         "platform": "Azure",
@@ -81206,7 +82154,8 @@
           "102.37.87.100/30",
           "102.37.87.136/30",
           "102.37.87.184/29",
-          "102.133.78.96/28"
+          "102.133.78.96/28",
+          "2603:1061:2004:2100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81218,7 +82167,7 @@
       "name": "PowerPlatformPlex.SouthCentralUS",
       "id": "PowerPlatformPlex.SouthCentralUS",
       "properties": {
-        "changeNumber": 1,
+        "changeNumber": 2,
         "region": "southcentralus",
         "regionId": 35,
         "platform": "Azure",
@@ -81226,7 +82175,8 @@
         "addressPrefixes": [
           "20.97.35.52/30",
           "20.97.39.56/29",
-          "20.97.39.112/30"
+          "20.97.39.112/30",
+          "2603:1061:2004:200::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81238,7 +82188,7 @@
       "name": "PowerPlatformPlex.SouthIndia",
       "id": "PowerPlatformPlex.SouthIndia",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "southindia",
         "regionId": 22,
         "platform": "Azure",
@@ -81248,7 +82198,8 @@
           "20.192.157.248/29",
           "52.172.81.16/30",
           "52.172.81.224/29",
-          "52.172.81.232/30"
+          "52.172.81.232/30",
+          "2603:1061:2004:3800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81260,7 +82211,7 @@
       "name": "PowerPlatformPlex.SoutheastAsia",
       "id": "PowerPlatformPlex.SoutheastAsia",
       "properties": {
-        "changeNumber": 3,
+        "changeNumber": 4,
         "region": "southeastasia",
         "regionId": 2,
         "platform": "Azure",
@@ -81273,7 +82224,9 @@
           "20.195.86.92/30",
           "20.195.87.16/28",
           "20.195.87.32/30",
-          "20.195.87.124/30"
+          "20.195.87.124/30",
+          "2603:1061:2004:800::/57",
+          "2603:1061:2004:6100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81285,7 +82238,7 @@
       "name": "PowerPlatformPlex.SwitzerlandNorth",
       "id": "PowerPlatformPlex.SwitzerlandNorth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "switzerlandn",
         "regionId": 66,
         "platform": "Azure",
@@ -81295,7 +82248,8 @@
           "20.208.7.120/30",
           "20.208.7.172/30",
           "20.208.7.184/30",
-          "51.103.164.128/28"
+          "51.103.164.128/28",
+          "2603:1061:2004:5000::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81307,7 +82261,7 @@
       "name": "PowerPlatformPlex.SwitzerlandWest",
       "id": "PowerPlatformPlex.SwitzerlandWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "switzerlandw",
         "regionId": 67,
         "platform": "Azure",
@@ -81317,7 +82271,8 @@
           "20.199.201.48/30",
           "20.199.201.76/30",
           "20.199.201.144/30",
-          "51.107.230.128/28"
+          "51.107.230.128/28",
+          "2603:1061:2004:5100::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81329,7 +82284,7 @@
       "name": "PowerPlatformPlex.UAECentral",
       "id": "PowerPlatformPlex.UAECentral",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "uaecentral",
         "regionId": 61,
         "platform": "Azure",
@@ -81337,7 +82292,8 @@
         "addressPrefixes": [
           "20.203.88.48/29",
           "20.203.88.88/29",
-          "40.126.211.64/28"
+          "40.126.211.64/28",
+          "2603:1061:2004:6900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81349,7 +82305,7 @@
       "name": "PowerPlatformPlex.UAENorth",
       "id": "PowerPlatformPlex.UAENorth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "uaenorth",
         "regionId": 60,
         "platform": "Azure",
@@ -81358,7 +82314,8 @@
           "20.74.196.12/30",
           "20.74.196.64/30",
           "20.74.196.104/29",
-          "20.203.41.96/28"
+          "20.203.41.96/28",
+          "2603:1061:2004:6800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81370,7 +82327,7 @@
       "name": "PowerPlatformPlex.UKSouth",
       "id": "PowerPlatformPlex.UKSouth",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "uksouth",
         "regionId": 27,
         "platform": "Azure",
@@ -81380,7 +82337,8 @@
           "20.117.192.224/29",
           "20.117.193.60/30",
           "20.117.193.176/29",
-          "51.11.26.192/26"
+          "51.11.26.192/26",
+          "2603:1061:2004:2800::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81392,7 +82350,7 @@
       "name": "PowerPlatformPlex.UKWest",
       "id": "PowerPlatformPlex.UKWest",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "ukwest",
         "regionId": 28,
         "platform": "Azure",
@@ -81402,7 +82360,8 @@
           "20.90.38.24/30",
           "20.90.38.52/30",
           "20.90.38.240/29",
-          "51.137.139.0/26"
+          "51.137.139.0/26",
+          "2603:1061:2004:2900::/57"
         ],
         "networkFeatures": [
           "API",
@@ -81414,7 +82373,7 @@
       "name": "PowerPlatformPlex.WestEurope",
       "id": "PowerPlatformPlex.WestEurope",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "westeurope",
         "regionId": 18,
         "platform": "Azure",
@@ -81431,7 +82390,8 @@
           "20.105.243.224/27",
           "20.105.244.0/27",
           "20.105.244.32/28",
-          "51.105.159.192/26"
+          "51.105.159.192/26",
+          "2603:1061:2004:7800::/56"
         ],
         "networkFeatures": [
           "API",
@@ -81443,7 +82403,7 @@
       "name": "PowerPlatformPlex.WestUS",
       "id": "PowerPlatformPlex.WestUS",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "westus",
         "regionId": 37,
         "platform": "Azure",
@@ -81460,7 +82420,8 @@
           "20.59.103.192/27",
           "20.59.103.224/28",
           "20.59.103.240/30",
-          "52.250.195.128/26"
+          "52.250.195.128/26",
+          "2603:1061:2004:7100::/56"
         ],
         "networkFeatures": [
           "API",
@@ -81999,6 +82960,25 @@
           "52.231.151.216/31",
           "2603:1040:e05:1::620/123",
           "2603:1040:e05:402::2f0/126"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "PowerQueryOnline.MalaysiaSouth",
+      "id": "PowerQueryOnline.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "PowerQueryOnline",
+        "addressPrefixes": [
+          "20.17.48.20/31",
+          "20.17.63.8/29",
+          "20.17.71.138/31",
+          "2603:1040:1503::1c0/123",
+          "2603:1040:1503:400::198/126"
         ],
         "networkFeatures": null
       }
@@ -83875,6 +84855,22 @@
       }
     },
     {
+      "name": "ServiceFabric.MalaysiaSouth",
+      "id": "ServiceFabric.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "ServiceFabric",
+        "addressPrefixes": [
+          "20.17.66.76/30",
+          "2603:1040:1503:400::58/125"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "ServiceFabric.NorthCentralUS",
       "id": "ServiceFabric.NorthCentralUS",
       "properties": {
@@ -84928,6 +85924,22 @@
           "52.147.98.56/29",
           "52.231.159.38/32",
           "2603:1040:e05:402::280/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "StorageSyncService.MalaysiaSouth",
+      "id": "StorageSyncService.MalaysiaSouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "StorageSyncService",
+        "addressPrefixes": [
+          "20.17.67.240/29",
+          "2603:1040:1503:400::260/123"
         ],
         "networkFeatures": null
       }
@@ -89297,7 +90309,7 @@
       "name": "AzureCloud.australiaeast",
       "id": "AzureCloud.australiaeast",
       "properties": {
-        "changeNumber": 53,
+        "changeNumber": 54,
         "region": "australiaeast",
         "regionId": 3,
         "platform": "Azure",
@@ -89321,6 +90333,7 @@
           "20.5.0.0/16",
           "20.11.0.0/17",
           "20.28.128.0/17",
+          "20.33.181.0/24",
           "20.37.192.0/19",
           "20.38.112.0/23",
           "20.40.64.0/20",
@@ -89447,6 +90460,9 @@
           "2603:1046:a00:a::/64",
           "2603:1061:1314:800::/54",
           "2603:1061:2000:120::/60",
+          "2603:1061:2000:788::/62",
+          "2603:1061:2002:6900::/57",
+          "2603:1061:2004:5900::/57",
           "2603:1063:c::/56",
           "2603:1063:125::/55",
           "2603:1063:225::/55",
@@ -89462,7 +90478,7 @@
       "name": "AzureCloud.australiasoutheast",
       "id": "AzureCloud.australiasoutheast",
       "properties": {
-        "changeNumber": 36,
+        "changeNumber": 37,
         "region": "australiasoutheast",
         "regionId": 4,
         "platform": "Azure",
@@ -89565,6 +90581,9 @@
           "2603:1046:a00:30::/63",
           "2603:1046:a00:32::/64",
           "2603:1061:1314:c00::/54",
+          "2603:1061:2000:780::/62",
+          "2603:1061:2002:6800::/57",
+          "2603:1061:2004:5800::/57",
           "2603:1063:a::/56",
           "2603:1063:10c::/55",
           "2603:1063:20c::/55",
@@ -89601,7 +90620,7 @@
       "name": "AzureCloud.brazilsouth",
       "id": "AzureCloud.brazilsouth",
       "properties": {
-        "changeNumber": 45,
+        "changeNumber": 46,
         "region": "brazilsouth",
         "regionId": 9,
         "platform": "Azure",
@@ -89729,6 +90748,9 @@
           "2603:1056:2000:20::/59",
           "2603:1057:2:20::/59",
           "2603:1061:1315:400::/54",
+          "2603:1061:2000:408::/62",
+          "2603:1061:2002:1100::/57",
+          "2603:1061:2004:100::/57",
           "2603:1063:b::/56",
           "2603:1063:10a::/55",
           "2603:1063:20a::/55",
@@ -89744,7 +90766,7 @@
       "name": "AzureCloud.brazilse",
       "id": "AzureCloud.brazilse",
       "properties": {
-        "changeNumber": 17,
+        "changeNumber": 18,
         "region": "brazilse",
         "regionId": 77,
         "platform": "Azure",
@@ -89801,6 +90823,9 @@
           "2603:1057:2:60::/59",
           "2603:1061:1002::/48",
           "2603:1061:1315:800::/54",
+          "2603:1061:2000:400::/62",
+          "2603:1061:2002:1000::/57",
+          "2603:1061:2004::/57",
           "2603:1063:e::/56",
           "2603:1063:10b::/55",
           "2603:1063:20b::/55",
@@ -89816,7 +90841,7 @@
       "name": "AzureCloud.canadacentral",
       "id": "AzureCloud.canadacentral",
       "properties": {
-        "changeNumber": 45,
+        "changeNumber": 46,
         "region": "canadacentral",
         "regionId": 11,
         "platform": "Azure",
@@ -89925,6 +90950,8 @@
           "2603:1036:3000:40::/59",
           "2603:1037:1:40::/59",
           "2603:1061:1312::/54",
+          "2603:1061:2000:740::/62",
+          "2603:1061:2002:6000::/57",
           "2603:1063:d::/56",
           "2603:1063:10e::/55",
           "2603:1063:20e::/55",
@@ -89940,7 +90967,7 @@
       "name": "AzureCloud.canadaeast",
       "id": "AzureCloud.canadaeast",
       "properties": {
-        "changeNumber": 29,
+        "changeNumber": 30,
         "region": "canadaeast",
         "regionId": 12,
         "platform": "Azure",
@@ -90018,6 +91045,9 @@
           "2603:1036:3000:80::/59",
           "2603:1037:1:80::/59",
           "2603:1061:1312:400::/54",
+          "2603:1061:2000:748::/62",
+          "2603:1061:2002:6100::/57",
+          "2603:1061:2004:5200::/57",
           "2603:1063:f::/56",
           "2603:1063:10d::/55",
           "2603:1063:20d::/55",
@@ -90033,7 +91063,7 @@
       "name": "AzureCloud.centralindia",
       "id": "AzureCloud.centralindia",
       "properties": {
-        "changeNumber": 52,
+        "changeNumber": 53,
         "region": "centralindia",
         "regionId": 21,
         "platform": "Azure",
@@ -90155,6 +91185,9 @@
           "2603:1046:2000:80::/59",
           "2603:1047:1:80::/59",
           "2603:1061:1310::/54",
+          "2603:1061:2000:608::/62",
+          "2603:1061:2002:4000::/57",
+          "2603:1061:2004:3900::/57",
           "2603:1063:10::/56",
           "2603:1063:10f::/55",
           "2603:1063:20f::/55",
@@ -90897,7 +91930,7 @@
       "name": "AzureCloud.eastasia",
       "id": "AzureCloud.eastasia",
       "properties": {
-        "changeNumber": 42,
+        "changeNumber": 43,
         "region": "eastasia",
         "regionId": 1,
         "platform": "Azure",
@@ -91079,6 +92112,8 @@
           "2603:1046:2000:40::/59",
           "2603:1047:1:40::/59",
           "2603:1061:1310:400::/54",
+          "2603:1061:2000:7c0::/62",
+          "2603:1061:2004:6000::/57",
           "2603:1063:2202:8::/64",
           "2a01:111:f100:6000::/64",
           "2a01:111:f403:c400::/64",
@@ -91431,7 +92466,7 @@
       "name": "AzureCloud.eastus2",
       "id": "AzureCloud.eastus2",
       "properties": {
-        "changeNumber": 122,
+        "changeNumber": 123,
         "region": "eastus2",
         "regionId": 33,
         "platform": "Azure",
@@ -91844,6 +92879,8 @@
           "40.123.185.224/28",
           "40.123.185.240/29",
           "40.123.185.250/31",
+          "40.123.185.254/31",
+          "40.123.186.0/30",
           "40.126.3.0/24",
           "40.126.24.0/24",
           "52.101.10.0/24",
@@ -92036,6 +93073,7 @@
           "172.175.0.0/16",
           "172.176.0.0/15",
           "172.200.0.0/16",
+          "172.203.0.0/17",
           "191.236.192.0/18",
           "191.237.128.0/18",
           "191.239.224.0/20",
@@ -92210,6 +93248,8 @@
           "2603:1030:401:4c0::/60",
           "2603:1030:401:4d0::/62",
           "2603:1030:401:4d5::/64",
+          "2603:1030:401:4d7::/64",
+          "2603:1030:401:4d8::/63",
           "2603:1030:402::/47",
           "2603:1030:406::/47",
           "2603:1030:408::/48",
@@ -92334,7 +93374,7 @@
       "name": "AzureCloud.eastus",
       "id": "AzureCloud.eastus",
       "properties": {
-        "changeNumber": 97,
+        "changeNumber": 98,
         "region": "eastus",
         "regionId": 32,
         "platform": "Azure",
@@ -92485,6 +93525,7 @@
           "20.209.106.0/23",
           "20.209.146.0/23",
           "20.209.162.0/23",
+          "20.209.226.0/23",
           "20.228.128.0/17",
           "20.231.0.0/17",
           "20.231.192.0/18",
@@ -92684,6 +93725,9 @@
           "2603:1061:2000::/64",
           "2603:1061:2000:2::/64",
           "2603:1061:2000:100::/60",
+          "2603:1061:2000:540::/62",
+          "2603:1061:2002::/56",
+          "2603:1061:2004:7000::/56",
           "2603:1062:2:100::/57",
           "2603:1063:8::/56",
           "2603:1063:108::/55",
@@ -92714,7 +93758,7 @@
       "name": "AzureCloud.centralfrance",
       "id": "AzureCloud.centralfrance",
       "properties": {
-        "changeNumber": 47,
+        "changeNumber": 48,
         "region": "centralfrance",
         "regionId": 19,
         "platform": "Azure",
@@ -92729,6 +93773,7 @@
           "4.251.192.0/20",
           "13.104.156.0/24",
           "20.19.0.0/16",
+          "20.33.23.0/24",
           "20.33.132.0/24",
           "20.38.196.0/22",
           "20.39.232.0/21",
@@ -92837,6 +93882,9 @@
           "2603:1026:3000:100::/59",
           "2603:1027:1:100::/59",
           "2603:1061:1311:c00::/54",
+          "2603:1061:2000:640::/62",
+          "2603:1061:2002:4800::/57",
+          "2603:1061:2004:4000::/57",
           "2603:1063:12::/56",
           "2603:1063:111::/55",
           "2603:1063:211::/55",
@@ -92852,7 +93900,7 @@
       "name": "AzureCloud.southfrance",
       "id": "AzureCloud.southfrance",
       "properties": {
-        "changeNumber": 18,
+        "changeNumber": 19,
         "region": "southfrance",
         "regionId": 20,
         "platform": "Azure",
@@ -92913,6 +93961,9 @@
           "2603:1026:3000:1a0::/59",
           "2603:1027:1:1a0::/59",
           "2603:1061:1311:1000::/54",
+          "2603:1061:2000:648::/62",
+          "2603:1061:2002:4900::/57",
+          "2603:1061:2004:4100::/57",
           "2603:1063:13::/56",
           "2603:1063:112::/55",
           "2603:1063:212::/55",
@@ -92928,7 +93979,7 @@
       "name": "AzureCloud.germanyn",
       "id": "AzureCloud.germanyn",
       "properties": {
-        "changeNumber": 18,
+        "changeNumber": 19,
         "region": "germanyn",
         "regionId": 72,
         "platform": "Azure",
@@ -92979,6 +94030,9 @@
           "2603:1026:3000:220::/59",
           "2603:1027:1:220::/59",
           "2603:1061:1311:1400::/54",
+          "2603:1061:2000:6c0::/62",
+          "2603:1061:2002:5000::/57",
+          "2603:1061:2004:4800::/57",
           "2603:1063:2206:38::/64"
         ],
         "networkFeatures": [
@@ -92991,7 +94045,7 @@
       "name": "AzureCloud.germanywc",
       "id": "AzureCloud.germanywc",
       "properties": {
-        "changeNumber": 46,
+        "changeNumber": 47,
         "region": "germanywc",
         "regionId": 71,
         "platform": "Azure",
@@ -93009,6 +94063,7 @@
           "13.105.66.0/27",
           "13.105.74.96/27",
           "13.105.74.192/26",
+          "20.33.182.0/24",
           "20.38.118.0/24",
           "20.47.27.0/24",
           "20.47.65.0/24",
@@ -93085,6 +94140,9 @@
           "2603:1026:3000:a0::/59",
           "2603:1027:1:a0::/59",
           "2603:1061:1311:1800::/54",
+          "2603:1061:2000:6c8::/62",
+          "2603:1061:2002:5100::/57",
+          "2603:1061:2004:4900::/57",
           "2603:1063:28::/56",
           "2603:1063:2206:10::/64"
         ],
@@ -93098,7 +94156,7 @@
       "name": "AzureCloud.israelcentral",
       "id": "AzureCloud.israelcentral",
       "properties": {
-        "changeNumber": 2,
+        "changeNumber": 3,
         "region": "israelcentral",
         "regionId": 85,
         "platform": "Azure",
@@ -93130,6 +94188,7 @@
           "20.217.48.0/20",
           "20.217.64.0/19",
           "20.217.128.0/21",
+          "20.217.160.0/19",
           "20.231.132.0/24",
           "40.100.65.128/25",
           "40.100.66.0/26",
@@ -93149,8 +94208,7 @@
           "2603:1046:2000::/59",
           "2603:1061:1007::/58",
           "2603:1061:1007:40::/60",
-          "2603:1061:1007:50::/63",
-          "2603:1061:1007:52::/64",
+          "2603:1061:1007:50::/62",
           "2603:1061:1310:800::/54",
           "2603:1063:2202:50::/64"
         ],
@@ -93245,7 +94303,7 @@
       "name": "AzureCloud.japaneast",
       "id": "AzureCloud.japaneast",
       "properties": {
-        "changeNumber": 51,
+        "changeNumber": 52,
         "region": "japaneast",
         "regionId": 24,
         "platform": "Azure",
@@ -93377,6 +94435,7 @@
           "52.246.160.0/19",
           "52.253.96.0/19",
           "52.253.161.0/24",
+          "74.226.128.0/17",
           "104.41.160.0/19",
           "104.44.88.224/27",
           "104.44.91.224/27",
@@ -93400,6 +94459,9 @@
           "2603:1046:2000:140::/59",
           "2603:1047:1:140::/59",
           "2603:1061:1310:c00::/54",
+          "2603:1061:2000:5c0::/62",
+          "2603:1061:2002:3900::/57",
+          "2603:1061:2004:3000::/57",
           "2603:1063:14::/56",
           "2603:1063:113::/55",
           "2603:1063:213::/55",
@@ -93415,7 +94477,7 @@
       "name": "AzureCloud.japanwest",
       "id": "AzureCloud.japanwest",
       "properties": {
-        "changeNumber": 44,
+        "changeNumber": 45,
         "region": "japanwest",
         "regionId": 25,
         "platform": "Azure",
@@ -93547,6 +94609,9 @@
           "2603:1046:2000:a0::/59",
           "2603:1047:1:a0::/59",
           "2603:1061:1310:1000::/54",
+          "2603:1061:2000:5c8::/62",
+          "2603:1061:2002:3800::/57",
+          "2603:1061:2004:3100::/57",
           "2603:1063:15::/56",
           "2603:1063:114::/55",
           "2603:1063:214::/55",
@@ -93675,7 +94740,7 @@
       "name": "AzureCloud.koreacentral",
       "id": "AzureCloud.koreacentral",
       "properties": {
-        "changeNumber": 44,
+        "changeNumber": 45,
         "region": "koreacentral",
         "regionId": 26,
         "platform": "Azure",
@@ -93777,6 +94842,9 @@
           "2603:1046:2000:160::/59",
           "2603:1047:1:160::/59",
           "2603:1061:1310:1c00::/54",
+          "2603:1061:2000:4c0::/62",
+          "2603:1061:2002:2000::/57",
+          "2603:1061:2004:1800::/57",
           "2603:1063::/56",
           "2603:1063:115::/55",
           "2603:1063:215::/55",
@@ -93792,7 +94860,7 @@
       "name": "AzureCloud.koreasouth",
       "id": "AzureCloud.koreasouth",
       "properties": {
-        "changeNumber": 25,
+        "changeNumber": 26,
         "region": "koreasouth",
         "regionId": 50,
         "platform": "Azure",
@@ -93861,6 +94929,9 @@
           "2603:1046:2000:e0::/59",
           "2603:1047:1:e0::/59",
           "2603:1061:1310:2000::/54",
+          "2603:1061:2000:4c8::/62",
+          "2603:1061:2002:2100::/57",
+          "2603:1061:2004:1900::/57",
           "2603:1063:1::/56",
           "2603:1063:100::/55",
           "2603:1063:200::/55",
@@ -93873,10 +94944,70 @@
       }
     },
     {
+      "name": "AzureCloud.malaysiasouth",
+      "id": "AzureCloud.malaysiasouth",
+      "properties": {
+        "changeNumber": 1,
+        "region": "malaysiasouth",
+        "regionId": 98,
+        "platform": "Azure",
+        "systemService": "",
+        "addressPrefixes": [
+          "13.105.104.192/27",
+          "13.105.104.224/28",
+          "13.105.105.0/27",
+          "20.17.0.0/18",
+          "20.17.64.0/21",
+          "20.17.192.0/18",
+          "20.20.33.128/25",
+          "20.38.21.0/24",
+          "20.143.44.0/23",
+          "20.157.238.0/24",
+          "20.157.254.0/24",
+          "20.201.146.0/24",
+          "20.209.66.0/23",
+          "20.209.78.0/23",
+          "20.231.129.128/25",
+          "40.100.6.0/26",
+          "40.100.69.128/26",
+          "40.120.128.0/26",
+          "40.120.128.64/28",
+          "40.120.128.80/31",
+          "52.112.48.0/23",
+          "52.112.50.0/24",
+          "52.115.0.0/21",
+          "52.115.8.0/22",
+          "52.121.8.0/22",
+          "52.121.12.0/23",
+          "52.121.14.0/24",
+          "52.121.167.0/24",
+          "52.122.236.0/22",
+          "52.122.240.0/22",
+          "2603:1040:1502::/47",
+          "2603:1040:1504::/48",
+          "2603:1040:1505::/48",
+          "2603:1046:a00:6::/64",
+          "2603:1046:a00:5d::/64",
+          "2603:1046:1500:44::/64",
+          "2603:1046:2000:220::/59",
+          "2603:1061:100a::/60",
+          "2603:1061:100a:10::/61",
+          "2603:1061:100a:18::/62",
+          "2603:1061:100a:1c::/64",
+          "2603:1063:37::/64",
+          "2603:1063:129::/55"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "AzureCloud.northcentralus",
       "id": "AzureCloud.northcentralus",
       "properties": {
-        "changeNumber": 46,
+        "changeNumber": 47,
         "region": "northcentralus",
         "regionId": 34,
         "platform": "Azure",
@@ -93891,6 +95022,7 @@
           "13.105.102.64/26",
           "20.25.192.0/18",
           "20.33.0.0/24",
+          "20.33.22.0/24",
           "20.33.147.0/24",
           "20.36.96.0/21",
           "20.41.128.0/18",
@@ -94146,7 +95278,7 @@
       "name": "AzureCloud.northeurope",
       "id": "AzureCloud.northeurope",
       "properties": {
-        "changeNumber": 73,
+        "changeNumber": 74,
         "region": "northeurope",
         "regionId": 17,
         "platform": "Azure",
@@ -94452,6 +95584,9 @@
           "2603:1026:3000:c0::/59",
           "2603:1027:1:c0::/59",
           "2603:1061:1311:2000::/54",
+          "2603:1061:2000:688::/62",
+          "2603:1061:2002:900::/56",
+          "2603:1061:2004:7900::/56",
           "2603:1063:20::/56",
           "2603:1063:102::/55",
           "2603:1063:202::/55",
@@ -94476,7 +95611,7 @@
       "name": "AzureCloud.norwaye",
       "id": "AzureCloud.norwaye",
       "properties": {
-        "changeNumber": 30,
+        "changeNumber": 31,
         "region": "norwaye",
         "regionId": 63,
         "platform": "Azure",
@@ -94548,6 +95683,9 @@
           "2603:1026:3000:180::/59",
           "2603:1027:1:180::/59",
           "2603:1061:1311:2800::/54",
+          "2603:1061:2000:480::/62",
+          "2603:1061:2002:1800::/57",
+          "2603:1061:2004:1000::/57",
           "2603:1063:3::/56",
           "2603:1063:103::/55",
           "2603:1063:203::/55",
@@ -94563,7 +95701,7 @@
       "name": "AzureCloud.norwayw",
       "id": "AzureCloud.norwayw",
       "properties": {
-        "changeNumber": 19,
+        "changeNumber": 20,
         "region": "norwayw",
         "regionId": 74,
         "platform": "Azure",
@@ -94612,6 +95750,9 @@
           "2603:1026:3000:80::/59",
           "2603:1027:1:80::/59",
           "2603:1061:1311:2c00::/54",
+          "2603:1061:2000:488::/62",
+          "2603:1061:2002:1900::/57",
+          "2603:1061:2004:1100::/57",
           "2603:1063:4::/56",
           "2603:1063:104::/55",
           "2603:1063:204::/55",
@@ -94768,7 +95909,7 @@
       "name": "AzureCloud.southafricanorth",
       "id": "AzureCloud.southafricanorth",
       "properties": {
-        "changeNumber": 37,
+        "changeNumber": 38,
         "region": "southafricanorth",
         "regionId": 82,
         "platform": "Azure",
@@ -94868,6 +96009,9 @@
           "2603:1046:a00:3b::/64",
           "2603:1046:a00:3c::/63",
           "2603:1061:1313::/54",
+          "2603:1061:2000:500::/62",
+          "2603:1061:2002:2800::/57",
+          "2603:1061:2004:2000::/57",
           "2603:1063:22::/56",
           "2603:1063:105::/55",
           "2603:1063:205::/55",
@@ -94883,7 +96027,7 @@
       "name": "AzureCloud.southafricawest",
       "id": "AzureCloud.southafricawest",
       "properties": {
-        "changeNumber": 21,
+        "changeNumber": 22,
         "region": "southafricawest",
         "regionId": 83,
         "platform": "Azure",
@@ -94935,6 +96079,9 @@
           "2603:1007:200:20::/59",
           "2603:1046:a00:3e::/64",
           "2603:1061:1313:400::/54",
+          "2603:1061:2000:508::/62",
+          "2603:1061:2002:2900::/57",
+          "2603:1061:2004:2100::/57",
           "2603:1063:23::/56",
           "2603:1063:106::/55",
           "2603:1063:206::/55",
@@ -95046,7 +96193,7 @@
       "name": "AzureCloud.southcentralus",
       "id": "AzureCloud.southcentralus",
       "properties": {
-        "changeNumber": 106,
+        "changeNumber": 107,
         "region": "southcentralus",
         "regionId": 35,
         "platform": "Azure",
@@ -95430,6 +96577,9 @@
           "2603:1036:3000:140::/59",
           "2603:1037:1:140::/59",
           "2603:1061:1312:1c00::/54",
+          "2603:1061:2000:410::/62",
+          "2603:1061:2002:1200::/57",
+          "2603:1061:2004:200::/57",
           "2603:1062:2:80::/57",
           "2603:1063:16::/56",
           "2603:1063:116::/55",
@@ -95461,7 +96611,7 @@
       "name": "AzureCloud.southindia",
       "id": "AzureCloud.southindia",
       "properties": {
-        "changeNumber": 26,
+        "changeNumber": 27,
         "region": "southindia",
         "regionId": 22,
         "platform": "Azure",
@@ -95540,6 +96690,9 @@
           "2603:1046:2000:60::/59",
           "2603:1047:1:60::/59",
           "2603:1061:1310:2c00::/54",
+          "2603:1061:2000:600::/62",
+          "2603:1061:2002:4100::/57",
+          "2603:1061:2004:3800::/57",
           "2603:1063:5::/56",
           "2603:1063:107::/55",
           "2603:1063:207::/55",
@@ -95555,7 +96708,7 @@
       "name": "AzureCloud.southeastasia",
       "id": "AzureCloud.southeastasia",
       "properties": {
-        "changeNumber": 62,
+        "changeNumber": 63,
         "region": "southeastasia",
         "regionId": 2,
         "platform": "Azure",
@@ -95757,6 +96910,10 @@
           "2603:1046:2000:180::/59",
           "2603:1047:1:180::/59",
           "2603:1061:1310:3000::/54",
+          "2603:1061:2000:440::/62",
+          "2603:1061:2000:7c8::/62",
+          "2603:1061:2004:800::/57",
+          "2603:1061:2004:6100::/57",
           "2603:1063:6::/56",
           "2603:1063:117::/55",
           "2603:1063:217::/55",
@@ -95980,7 +97137,7 @@
       "name": "AzureCloud.switzerlandn",
       "id": "AzureCloud.switzerlandn",
       "properties": {
-        "changeNumber": 39,
+        "changeNumber": 40,
         "region": "switzerlandn",
         "regionId": 66,
         "platform": "Azure",
@@ -96061,6 +97218,9 @@
           "2603:1026:3000:60::/59",
           "2603:1027:1:60::/59",
           "2603:1061:1311:4000::/54",
+          "2603:1061:2000:700::/62",
+          "2603:1061:2002:5800::/57",
+          "2603:1061:2004:5000::/57",
           "2603:1063:18::/56",
           "2603:1063:11a::/55",
           "2603:1063:21a::/55",
@@ -96076,7 +97236,7 @@
       "name": "AzureCloud.switzerlandw",
       "id": "AzureCloud.switzerlandw",
       "properties": {
-        "changeNumber": 19,
+        "changeNumber": 20,
         "region": "switzerlandw",
         "regionId": 67,
         "platform": "Azure",
@@ -96127,6 +97287,9 @@
           "2603:1026:3000:120::/59",
           "2603:1027:1:120::/59",
           "2603:1061:1311:4400::/54",
+          "2603:1061:2000:708::/62",
+          "2603:1061:2002:5900::/57",
+          "2603:1061:2004:5100::/57",
           "2603:1063:19::/56",
           "2603:1063:11b::/55",
           "2603:1063:21b::/55",
@@ -96142,7 +97305,7 @@
       "name": "AzureCloud.uaecentral",
       "id": "AzureCloud.uaecentral",
       "properties": {
-        "changeNumber": 24,
+        "changeNumber": 25,
         "region": "uaecentral",
         "regionId": 61,
         "platform": "Azure",
@@ -96202,6 +97365,9 @@
           "2603:1046:2000:120::/59",
           "2603:1047:1:120::/59",
           "2603:1061:1310:3c00::/54",
+          "2603:1061:2000:7e8::/62",
+          "2603:1061:2002:7100::/57",
+          "2603:1061:2004:6900::/57",
           "2603:1063:1a::/56",
           "2603:1063:11c::/55",
           "2603:1063:21c::/55",
@@ -96217,7 +97383,7 @@
       "name": "AzureCloud.uaenorth",
       "id": "AzureCloud.uaenorth",
       "properties": {
-        "changeNumber": 41,
+        "changeNumber": 42,
         "region": "uaenorth",
         "regionId": 60,
         "platform": "Azure",
@@ -96303,6 +97469,9 @@
           "2603:1046:2000:100::/59",
           "2603:1047:1:100::/59",
           "2603:1061:1310:4000::/54",
+          "2603:1061:2000:7e0::/62",
+          "2603:1061:2002:7000::/57",
+          "2603:1061:2004:6800::/57",
           "2603:1063:1b::/56",
           "2603:1063:11d::/55",
           "2603:1063:21d::/55",
@@ -96413,7 +97582,7 @@
       "name": "AzureCloud.uksouth",
       "id": "AzureCloud.uksouth",
       "properties": {
-        "changeNumber": 61,
+        "changeNumber": 62,
         "region": "uksouth",
         "regionId": 27,
         "platform": "Azure",
@@ -96572,6 +97741,9 @@
           "2603:1026:3000:e0::/59",
           "2603:1027:1:e0::/59",
           "2603:1061:1311:4c00::/54",
+          "2603:1061:2000:580::/62",
+          "2603:1061:2002:3000::/57",
+          "2603:1061:2004:2800::/57",
           "2603:1063:1c::/56",
           "2603:1063:11e::/55",
           "2603:1063:21e::/55",
@@ -96594,7 +97766,7 @@
       "name": "AzureCloud.ukwest",
       "id": "AzureCloud.ukwest",
       "properties": {
-        "changeNumber": 37,
+        "changeNumber": 38,
         "region": "ukwest",
         "regionId": 28,
         "platform": "Azure",
@@ -96692,6 +97864,9 @@
           "2603:1026:3000:200::/59",
           "2603:1027:1:200::/59",
           "2603:1061:1311:5400::/54",
+          "2603:1061:2000:588::/62",
+          "2603:1061:2002:3100::/57",
+          "2603:1061:2004:2900::/57",
           "2603:1063:1d::/56",
           "2603:1063:11f::/55",
           "2603:1063:21f::/55",
@@ -96714,7 +97889,7 @@
       "name": "AzureCloud.westcentralus",
       "id": "AzureCloud.westcentralus",
       "properties": {
-        "changeNumber": 33,
+        "changeNumber": 34,
         "region": "westcentralus",
         "regionId": 36,
         "platform": "Azure",
@@ -96755,6 +97930,7 @@
           "20.168.176.0/20",
           "20.190.136.0/24",
           "20.190.158.0/24",
+          "20.209.224.0/23",
           "40.64.146.160/28",
           "40.67.120.0/21",
           "40.77.128.0/25",
@@ -96878,7 +98054,7 @@
       "name": "AzureCloud.westeurope",
       "id": "AzureCloud.westeurope",
       "properties": {
-        "changeNumber": 84,
+        "changeNumber": 85,
         "region": "westeurope",
         "regionId": 18,
         "platform": "Azure",
@@ -97022,6 +98198,7 @@
           "20.209.76.0/23",
           "20.209.108.0/23",
           "20.209.192.0/23",
+          "20.209.230.0/23",
           "20.224.0.0/16",
           "20.229.0.0/16",
           "20.234.128.0/17",
@@ -97226,6 +98403,9 @@
           "2603:1026:3000:140::/59",
           "2603:1027:1:140::/59",
           "2603:1061:1311:5800::/54",
+          "2603:1061:2000:680::/62",
+          "2603:1061:2002:800::/56",
+          "2603:1061:2004:7800::/56",
           "2603:1063:21::/56",
           "2603:1063:121::/55",
           "2603:1063:221::/55",
@@ -97776,7 +98956,7 @@
       "name": "AzureCloud.westus",
       "id": "AzureCloud.westus",
       "properties": {
-        "changeNumber": 70,
+        "changeNumber": 71,
         "region": "westus",
         "regionId": 37,
         "platform": "Azure",
@@ -98033,6 +99213,9 @@
           "2603:1061:2000:1::/64",
           "2603:1061:2000:3::/64",
           "2603:1061:2000:110::/60",
+          "2603:1061:2000:548::/62",
+          "2603:1061:2002:100::/56",
+          "2603:1061:2004:7100::/56",
           "2603:1062:2:200::/57",
           "2603:1063:24::/56",
           "2603:1063:124::/55",
@@ -98059,7 +99242,7 @@
       "name": "AzureCloud",
       "id": "AzureCloud",
       "properties": {
-        "changeNumber": 180,
+        "changeNumber": 181,
         "region": "",
         "regionId": 0,
         "platform": "Azure",
@@ -98715,6 +99898,8 @@
           "20.33.19.0/24",
           "20.33.20.0/24",
           "20.33.21.0/24",
+          "20.33.22.0/24",
+          "20.33.23.0/24",
           "20.33.128.0/24",
           "20.33.129.0/24",
           "20.33.130.0/24",
@@ -98768,6 +99953,9 @@
           "20.33.178.0/24",
           "20.33.179.0/24",
           "20.33.180.0/24",
+          "20.33.181.0/24",
+          "20.33.182.0/24",
+          "20.33.183.0/24",
           "20.36.0.0/19",
           "20.36.32.0/19",
           "20.36.64.0/19",
@@ -100498,6 +101686,10 @@
           "20.209.219.0/24",
           "20.209.220.0/23",
           "20.209.222.0/23",
+          "20.209.224.0/23",
+          "20.209.226.0/23",
+          "20.209.228.0/23",
+          "20.209.230.0/23",
           "20.210.0.0/17",
           "20.210.128.0/18",
           "20.210.192.0/18",
@@ -100524,6 +101716,7 @@
           "20.217.48.0/20",
           "20.217.64.0/19",
           "20.217.128.0/21",
+          "20.217.160.0/19",
           "20.218.0.0/18",
           "20.218.64.0/18",
           "20.218.128.0/17",
@@ -101970,9 +103163,12 @@
           "40.120.132.216/31",
           "40.120.136.0/22",
           "40.120.140.0/25",
-          "40.120.140.128/29",
+          "40.120.140.128/27",
+          "40.120.140.160/31",
           "40.120.144.0/25",
-          "40.120.144.128/31",
+          "40.120.144.128/28",
+          "40.120.144.144/29",
+          "40.120.144.152/31",
           "40.120.160.0/22",
           "40.121.0.0/16",
           "40.122.0.0/20",
@@ -102262,6 +103458,8 @@
           "40.123.185.248/31",
           "40.123.185.250/31",
           "40.123.185.252/31",
+          "40.123.185.254/31",
+          "40.123.186.0/30",
           "40.123.188.0/22",
           "40.123.192.0/19",
           "40.123.224.0/20",
@@ -104007,6 +105205,7 @@
           "74.225.64.0/18",
           "74.225.128.0/17",
           "74.226.0.0/17",
+          "74.226.128.0/17",
           "74.227.0.0/17",
           "74.227.128.0/21",
           "74.227.136.0/21",
@@ -104572,6 +105771,7 @@
           "172.201.0.0/16",
           "172.202.0.0/17",
           "172.202.128.0/17",
+          "172.203.0.0/17",
           "191.232.16.0/21",
           "191.232.32.0/19",
           "191.232.64.0/20",
@@ -105384,6 +106584,8 @@
           "2603:1030:401:4d4::/64",
           "2603:1030:401:4d5::/64",
           "2603:1030:401:4d6::/64",
+          "2603:1030:401:4d7::/64",
+          "2603:1030:401:4d8::/63",
           "2603:1030:402::/47",
           "2603:1030:405::/48",
           "2603:1030:406::/47",
@@ -105898,12 +107100,9 @@
           "2603:1061:1006:52::/64",
           "2603:1061:1007::/58",
           "2603:1061:1007:40::/60",
-          "2603:1061:1007:50::/63",
-          "2603:1061:1007:52::/64",
-          "2603:1061:1008::/59",
-          "2603:1061:1008:20::/60",
-          "2603:1061:1008:30::/62",
-          "2603:1061:1008:34::/64",
+          "2603:1061:1007:50::/62",
+          "2603:1061:1008::/58",
+          "2603:1061:1008:40::/64",
           "2603:1061:1009::/60",
           "2603:1061:1009:10::/61",
           "2603:1061:100a::/60",
@@ -105913,9 +107112,9 @@
           "2603:1061:100b::/58",
           "2603:1061:100b:40::/59",
           "2603:1061:100b:60::/64",
-          "2603:1061:100c::/59",
-          "2603:1061:100c:20::/60",
-          "2603:1061:100c:30::/61",
+          "2603:1061:100c::/58",
+          "2603:1061:100c:40::/62",
+          "2603:1061:100c:44::/64",
           "2603:1061:1310::/54",
           "2603:1061:1310:400::/54",
           "2603:1061:1310:800::/54",
@@ -105996,6 +107195,104 @@
           "2603:1061:2000:100::/60",
           "2603:1061:2000:110::/60",
           "2603:1061:2000:120::/60",
+          "2603:1061:2000:400::/62",
+          "2603:1061:2000:408::/62",
+          "2603:1061:2000:410::/62",
+          "2603:1061:2000:440::/62",
+          "2603:1061:2000:480::/62",
+          "2603:1061:2000:488::/62",
+          "2603:1061:2000:4c0::/62",
+          "2603:1061:2000:4c8::/62",
+          "2603:1061:2000:500::/62",
+          "2603:1061:2000:508::/62",
+          "2603:1061:2000:540::/62",
+          "2603:1061:2000:548::/62",
+          "2603:1061:2000:580::/62",
+          "2603:1061:2000:588::/62",
+          "2603:1061:2000:5c0::/62",
+          "2603:1061:2000:5c8::/62",
+          "2603:1061:2000:600::/62",
+          "2603:1061:2000:608::/62",
+          "2603:1061:2000:640::/62",
+          "2603:1061:2000:648::/62",
+          "2603:1061:2000:680::/62",
+          "2603:1061:2000:688::/62",
+          "2603:1061:2000:6c0::/62",
+          "2603:1061:2000:6c8::/62",
+          "2603:1061:2000:700::/62",
+          "2603:1061:2000:708::/62",
+          "2603:1061:2000:740::/62",
+          "2603:1061:2000:748::/62",
+          "2603:1061:2000:780::/62",
+          "2603:1061:2000:788::/62",
+          "2603:1061:2000:7c0::/62",
+          "2603:1061:2000:7c8::/62",
+          "2603:1061:2000:7e0::/62",
+          "2603:1061:2000:7e8::/62",
+          "2603:1061:2002::/56",
+          "2603:1061:2002:100::/56",
+          "2603:1061:2002:800::/56",
+          "2603:1061:2002:900::/56",
+          "2603:1061:2002:1000::/57",
+          "2603:1061:2002:1100::/57",
+          "2603:1061:2002:1200::/57",
+          "2603:1061:2002:1800::/57",
+          "2603:1061:2002:1900::/57",
+          "2603:1061:2002:2000::/57",
+          "2603:1061:2002:2100::/57",
+          "2603:1061:2002:2800::/57",
+          "2603:1061:2002:2900::/57",
+          "2603:1061:2002:3000::/57",
+          "2603:1061:2002:3100::/57",
+          "2603:1061:2002:3800::/57",
+          "2603:1061:2002:3900::/57",
+          "2603:1061:2002:4000::/57",
+          "2603:1061:2002:4100::/57",
+          "2603:1061:2002:4800::/57",
+          "2603:1061:2002:4900::/57",
+          "2603:1061:2002:5000::/57",
+          "2603:1061:2002:5100::/57",
+          "2603:1061:2002:5800::/57",
+          "2603:1061:2002:5900::/57",
+          "2603:1061:2002:6000::/57",
+          "2603:1061:2002:6100::/57",
+          "2603:1061:2002:6800::/57",
+          "2603:1061:2002:6900::/57",
+          "2603:1061:2002:7000::/57",
+          "2603:1061:2002:7100::/57",
+          "2603:1061:2004::/57",
+          "2603:1061:2004:100::/57",
+          "2603:1061:2004:200::/57",
+          "2603:1061:2004:800::/57",
+          "2603:1061:2004:1000::/57",
+          "2603:1061:2004:1100::/57",
+          "2603:1061:2004:1800::/57",
+          "2603:1061:2004:1900::/57",
+          "2603:1061:2004:2000::/57",
+          "2603:1061:2004:2100::/57",
+          "2603:1061:2004:2800::/57",
+          "2603:1061:2004:2900::/57",
+          "2603:1061:2004:3000::/57",
+          "2603:1061:2004:3100::/57",
+          "2603:1061:2004:3800::/57",
+          "2603:1061:2004:3900::/57",
+          "2603:1061:2004:4000::/57",
+          "2603:1061:2004:4100::/57",
+          "2603:1061:2004:4800::/57",
+          "2603:1061:2004:4900::/57",
+          "2603:1061:2004:5000::/57",
+          "2603:1061:2004:5100::/57",
+          "2603:1061:2004:5200::/57",
+          "2603:1061:2004:5800::/57",
+          "2603:1061:2004:5900::/57",
+          "2603:1061:2004:6000::/57",
+          "2603:1061:2004:6100::/57",
+          "2603:1061:2004:6800::/57",
+          "2603:1061:2004:6900::/57",
+          "2603:1061:2004:7000::/56",
+          "2603:1061:2004:7100::/56",
+          "2603:1061:2004:7800::/56",
+          "2603:1061:2004:7900::/56",
           "2603:1062:2::/57",
           "2603:1062:2:80::/57",
           "2603:1062:2:100::/57",
