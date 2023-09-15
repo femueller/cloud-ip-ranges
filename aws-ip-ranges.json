@@ -1,6 +1,6 @@
 {
-  "syncToken": "1694724189",
-  "createDate": "2023-09-14-20-43-09",
+  "syncToken": "1694785390",
+  "createDate": "2023-09-15-13-43-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -34389,6 +34389,12 @@
       "network_border_group": "cn-north-1"
     },
     {
+      "ip_prefix": "43.196.20.40/29",
+      "region": "cn-north-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "43.196.3.64/26",
       "region": "cn-north-1",
       "service": "AMAZON",
@@ -34560,6 +34566,12 @@
       "ip_prefix": "43.192.144.0/22",
       "region": "cn-northwest-1",
       "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "43.192.155.8/29",
+      "region": "cn-northwest-1",
+      "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "cn-northwest-1"
     },
     {
@@ -37917,6 +37929,12 @@
       "network_border_group": "ap-southeast-4"
     },
     {
+      "ip_prefix": "16.50.248.80/29",
+      "region": "ap-southeast-4",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
       "ip_prefix": "16.50.67.0/26",
       "region": "ap-southeast-4",
       "service": "ROUTE53_RESOLVER",
@@ -38787,6 +38805,12 @@
       "network_border_group": "eu-central-2"
     },
     {
+      "ip_prefix": "16.63.77.8/29",
+      "region": "eu-central-2",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-central-2"
+    },
+    {
       "ip_prefix": "16.63.88.0/22",
       "region": "eu-central-2",
       "service": "AMAZON",
@@ -39330,6 +39354,12 @@
       "ip_prefix": "18.101.84.0/23",
       "region": "eu-south-2",
       "service": "AMAZON",
+      "network_border_group": "eu-south-2"
+    },
+    {
+      "ip_prefix": "18.101.90.48/29",
+      "region": "eu-south-2",
+      "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "eu-south-2"
     },
     {
