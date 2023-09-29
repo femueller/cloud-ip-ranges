@@ -1,6 +1,6 @@
 {
-  "syncToken": "1695969187",
-  "createDate": "2023-09-29-06-33-07",
+  "syncToken": "1695976388",
+  "createDate": "2023-09-29-08-33-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -38004,6 +38004,12 @@
       "ip_prefix": "43.218.193.64/29",
       "region": "ap-southeast-3",
       "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ap-southeast-3"
+    },
+    {
+      "ip_prefix": "43.218.193.96/28",
+      "region": "ap-southeast-3",
+      "service": "S3",
       "network_border_group": "ap-southeast-3"
     },
     {
