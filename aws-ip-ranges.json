@@ -1,6 +1,6 @@
 {
-  "syncToken": "1695976388",
-  "createDate": "2023-09-29-08-33-08",
+  "syncToken": "1695979986",
+  "createDate": "2023-09-29-09-33-06",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -40830,6 +40830,12 @@
       "ip_prefix": "3.29.147.40/29",
       "region": "me-central-1",
       "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "me-central-1"
+    },
+    {
+      "ip_prefix": "3.29.147.48/28",
+      "region": "me-central-1",
+      "service": "S3",
       "network_border_group": "me-central-1"
     },
     {
