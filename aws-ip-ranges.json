@@ -1,6 +1,6 @@
 {
-  "syncToken": "1696869790",
-  "createDate": "2023-10-09-16-43-10",
+  "syncToken": "1696884189",
+  "createDate": "2023-10-09-20-43-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -26119,6 +26119,12 @@
       "region": "us-gov-east-1",
       "service": "S3",
       "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "52.82.184.0/23",
+      "region": "cn-northwest-1",
+      "service": "S3",
+      "network_border_group": "cn-northwest-1"
     },
     {
       "ip_prefix": "52.95.176.0/24",
