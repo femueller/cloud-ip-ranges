@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-10-26 10:00:09.064204
+# Last modified: 2023-10-27 10:00:07.957847
 # prefix, country, subdivision, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -1720,6 +1720,7 @@
 139.144.133.0/24,US,US-NJ,Cedar Knolls,
 139.144.134.0/24,US,US-NJ,Cedar Knolls,
 139.144.135.0/24,US,US-NJ,Cedar Knolls,
+139.144.143.0/24,US,US-TX,Richardson,
 139.144.192.0/24,US,US-VA,Ashburn,
 139.144.193.0/24,US,US-VA,Ashburn,
 139.144.194.0/24,US,US-VA,Ashburn,
@@ -2028,7 +2029,6 @@
 143.42.249.0/24,GB,GB-ENG,London,
 143.42.250.0/24,GB,GB-ENG,London,
 143.42.251.0/24,GB,GB-ENG,London,
-143.42.252.0/24,GB,GB-ENG,London,
 143.42.253.0/24,GB,GB-ENG,London,
 172.232.64.0/24,IN,IN-MH,Mumbai,
 172.232.65.0/24,IN,IN-MH,Mumbai,
