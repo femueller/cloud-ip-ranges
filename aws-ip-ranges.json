@@ -1,6 +1,6 @@
 {
-  "syncToken": "1698968590",
-  "createDate": "2023-11-02-23-43-10",
+  "syncToken": "1699004587",
+  "createDate": "2023-11-03-09-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -42636,6 +42636,12 @@
       "ip_prefix": "3.29.57.0/26",
       "region": "me-central-1",
       "service": "CLOUDFRONT",
+      "network_border_group": "me-central-1"
+    },
+    {
+      "ip_prefix": "51.112.11.64/28",
+      "region": "me-central-1",
+      "service": "S3",
       "network_border_group": "me-central-1"
     },
     {
