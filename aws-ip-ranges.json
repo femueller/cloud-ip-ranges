@@ -1,6 +1,6 @@
 {
-  "syncToken": "1699022590",
-  "createDate": "2023-11-03-14-43-10",
+  "syncToken": "1699033387",
+  "createDate": "2023-11-03-17-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -39699,6 +39699,12 @@
       "network_border_group": "ap-southeast-3"
     },
     {
+      "ip_prefix": "43.218.222.176/28",
+      "region": "ap-southeast-3",
+      "service": "S3",
+      "network_border_group": "ap-southeast-3"
+    },
+    {
       "ip_prefix": "43.218.56.128/26",
       "region": "ap-southeast-3",
       "service": "CLOUDFRONT",
@@ -42502,6 +42508,12 @@
     },
     {
       "ip_prefix": "51.17.129.160/28",
+      "region": "il-central-1",
+      "service": "S3",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "51.17.129.176/28",
       "region": "il-central-1",
       "service": "S3",
       "network_border_group": "il-central-1"
