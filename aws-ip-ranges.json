@@ -1,6 +1,6 @@
 {
-  "syncToken": "1699650789",
-  "createDate": "2023-11-10-21-13-09",
+  "syncToken": "1699967589",
+  "createDate": "2023-11-14-13-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -39891,6 +39891,12 @@
       "network_border_group": "ap-southeast-4"
     },
     {
+      "ip_prefix": "16.50.184.0/23",
+      "region": "ap-southeast-4",
+      "service": "API_GATEWAY",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
       "ip_prefix": "16.50.206.0/25",
       "region": "ap-southeast-4",
       "service": "AMAZON",
@@ -39906,6 +39912,12 @@
       "ip_prefix": "16.50.248.80/29",
       "region": "ap-southeast-4",
       "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
+      "ip_prefix": "16.50.66.0/24",
+      "region": "ap-southeast-4",
+      "service": "API_GATEWAY",
       "network_border_group": "ap-southeast-4"
     },
     {
@@ -41340,6 +41352,12 @@
       "ip_prefix": "18.100.65.0/26",
       "region": "eu-south-2",
       "service": "ROUTE53_RESOLVER",
+      "network_border_group": "eu-south-2"
+    },
+    {
+      "ip_prefix": "18.100.66.0/23",
+      "region": "eu-south-2",
+      "service": "API_GATEWAY",
       "network_border_group": "eu-south-2"
     },
     {
