@@ -1,6 +1,6 @@
 {
-  "syncToken": "1701690190",
-  "createDate": "2023-12-04-11-43-10",
+  "syncToken": "1701790987",
+  "createDate": "2023-12-05-15-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -40515,6 +40515,12 @@
       "network_border_group": "ca-central-1"
     },
     {
+      "ip_prefix": "40.176.101.0/26",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
       "ip_prefix": "40.176.65.0/24",
       "region": "ca-west-1",
       "service": "API_GATEWAY",
@@ -40528,6 +40534,36 @@
     },
     {
       "ip_prefix": "40.176.83.0/24",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
+      "ip_prefix": "40.176.85.0/26",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
+      "ip_prefix": "40.176.85.128/26",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
+      "ip_prefix": "40.176.85.192/26",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
+      "ip_prefix": "40.176.86.0/26",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
+      "ip_prefix": "40.176.86.64/26",
       "region": "ca-west-1",
       "service": "AMAZON",
       "network_border_group": "ca-west-1"
