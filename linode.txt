@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-12-08 10:00:05.058453
+# Last modified: 2023-12-09 10:00:04.205136
 # prefix, country, subdivision, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2744,8 +2744,6 @@
 172.235.27.0/24,IN,IN-TN,Chennai,
 172.235.28.0/24,IN,IN-TN,Chennai,
 172.235.29.0/24,IN,IN-TN,Chennai,
-172.235.30.0/24,IN,IN-TN,Chennai,
-172.235.31.0/24,IN,IN-TN,Chennai,
 172.235.32.0/24,US,US-CA,Los Angeles,
 172.235.33.0/24,US,US-CA,Los Angeles,
 172.235.34.0/24,US,US-CA,Los Angeles,
