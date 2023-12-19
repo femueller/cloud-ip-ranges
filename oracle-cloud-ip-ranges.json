@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2023-12-13T10:01:23.111992",
+    "last_updated_timestamp": "2023-12-18T08:49:39.211242",
     "regions": [
         {
             "region": "us-phoenix-1",
@@ -230,6 +230,12 @@
                 },
                 {
                     "cidr": "140.91.8.0/23",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "146.235.0.0/20",
                     "tags": [
                         "OSN"
                     ]
