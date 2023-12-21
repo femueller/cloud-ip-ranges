@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2023-12-20 10:00:05.336414
+# Last modified: 2023-12-21 10:00:04.663336
 # prefix, country, subdivision, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2244,7 +2244,6 @@
 172.232.251.0/24,ID,ID-JK,Jakarta,
 172.232.252.0/24,ID,ID-JK,Jakarta,
 172.232.253.0/24,ID,ID-JK,Jakarta,
-172.232.254.0/24,ID,ID-JK,Jakarta,
 172.233.0.0/24,BR,BR-SP,Sao Paulo,
 172.233.1.0/24,BR,BR-SP,Sao Paulo,
 172.233.6.0/24,BR,BR-SP,Sao Paulo,
@@ -2533,7 +2532,6 @@
 172.234.76.0/24,SG,SG-04,Singapore,
 172.234.77.0/24,SG,SG-04,Singapore,
 172.234.78.0/24,SG,SG-04,Singapore,
-172.234.79.0/24,SG,SG-04,Singapore,
 172.234.8.0/24,US,US-NJ,Cedar Knolls,
 172.234.9.0/24,US,US-NJ,Cedar Knolls,
 172.234.10.0/24,US,US-NJ,Cedar Knolls,
@@ -2675,7 +2673,6 @@
 172.234.90.0/24,JP,JP-27,Osaka,
 172.234.91.0/24,JP,JP-27,Osaka,
 172.234.92.0/24,JP,JP-27,Osaka,
-172.234.93.0/24,JP,JP-27,Osaka,
 172.234.94.0/24,JP,JP-27,Osaka,
 172.234.95.0/24,JP,JP-27,Osaka,
 172.234.224.0/24,US,US-WA,Tukwila,
@@ -2772,7 +2769,10 @@
 143.42.211.0/24,DE,DE-HE,Frankfurt,
 143.42.225.0/24,US,US-NJ,Cedar Knolls,
 143.42.245.0/24,GB,GB-ENG,London,
+172.232.254.0/24,ID,ID-JK,Jakarta,
 172.233.180.0/24,US,US-FL,Miami,
+172.234.79.0/24,SG,SG-04,Singapore,
+172.234.93.0/24,JP,JP-27,Osaka,
 172.105.147.0/24,US,US-GA,Atlanta,
 172.105.142.0/24,SG,SG-04,Singapore,
 172.105.143.0/24,SG,SG-04,Singapore,
