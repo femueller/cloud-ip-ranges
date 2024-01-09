@@ -1,6 +1,6 @@
 {
-  "syncToken": "1704815587",
-  "createDate": "2024-01-09-15-53-07",
+  "syncToken": "1704829987",
+  "createDate": "2024-01-09-19-53-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -35139,12 +35139,6 @@
       "network_border_group": "sa-east-1"
     },
     {
-      "ip_prefix": "205.251.201.0/24",
-      "region": "GLOBAL",
-      "service": "ROUTE53",
-      "network_border_group": "GLOBAL"
-    },
-    {
       "ip_prefix": "52.95.110.0/24",
       "region": "GLOBAL",
       "service": "ROUTE53",
@@ -35152,12 +35146,6 @@
     },
     {
       "ip_prefix": "205.251.192.0/21",
-      "region": "GLOBAL",
-      "service": "ROUTE53",
-      "network_border_group": "GLOBAL"
-    },
-    {
-      "ip_prefix": "205.251.200.0/24",
       "region": "GLOBAL",
       "service": "ROUTE53",
       "network_border_group": "GLOBAL"
@@ -35338,6 +35326,12 @@
     },
     {
       "ip_prefix": "58.254.138.0/25",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "205.251.201.0/24",
       "region": "GLOBAL",
       "service": "CLOUDFRONT",
       "network_border_group": "GLOBAL"
@@ -35626,6 +35620,12 @@
     },
     {
       "ip_prefix": "52.124.128.0/17",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "205.251.200.0/24",
       "region": "GLOBAL",
       "service": "CLOUDFRONT",
       "network_border_group": "GLOBAL"
