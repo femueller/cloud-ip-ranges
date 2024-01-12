@@ -1,6 +1,6 @@
 {
-  "syncToken": "1704988387",
-  "createDate": "2024-01-11-15-53-07",
+  "syncToken": "1705092790",
+  "createDate": "2024-01-12-20-53-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -43434,6 +43434,12 @@
       "ip_prefix": "51.16.150.0/24",
       "region": "il-central-1",
       "service": "API_GATEWAY",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "51.16.183.224/29",
+      "region": "il-central-1",
+      "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "il-central-1"
     },
     {
