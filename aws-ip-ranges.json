@@ -1,6 +1,6 @@
 {
-  "syncToken": "1705939987",
-  "createDate": "2024-01-22-16-13-07",
+  "syncToken": "1705961590",
+  "createDate": "2024-01-22-22-13-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -43377,6 +43377,12 @@
       "network_border_group": "eu-west-3"
     },
     {
+      "ip_prefix": "13.36.84.126/31",
+      "region": "eu-west-3",
+      "service": "EBS",
+      "network_border_group": "eu-west-3"
+    },
+    {
       "ip_prefix": "13.36.84.24/29",
       "region": "eu-west-3",
       "service": "EBS",
@@ -43428,6 +43434,12 @@
       "ip_prefix": "13.38.202.64/26",
       "region": "eu-west-3",
       "service": "AMAZON",
+      "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "13.39.103.180/30",
+      "region": "eu-west-3",
+      "service": "EBS",
       "network_border_group": "eu-west-3"
     },
     {
@@ -46554,6 +46566,18 @@
       "ip_prefix": "3.101.232.0/22",
       "region": "us-west-1",
       "service": "AMAZON",
+      "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "3.101.239.34/31",
+      "region": "us-west-1",
+      "service": "EBS",
+      "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "3.101.239.36/30",
+      "region": "us-west-1",
+      "service": "EBS",
       "network_border_group": "us-west-1"
     },
     {
