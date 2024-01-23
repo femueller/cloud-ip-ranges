@@ -1,6 +1,6 @@
 {
-  "syncToken": "1705965191",
-  "createDate": "2024-01-22-23-13-11",
+  "syncToken": "1706035387",
+  "createDate": "2024-01-23-18-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -37167,6 +37167,12 @@
       "network_border_group": "cn-north-1"
     },
     {
+      "ip_prefix": "43.196.20.176/30",
+      "region": "cn-north-1",
+      "service": "EBS",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "43.196.20.40/29",
       "region": "cn-north-1",
       "service": "EC2_INSTANCE_CONNECT",
@@ -37356,6 +37362,18 @@
       "ip_prefix": "43.192.144.0/22",
       "region": "cn-northwest-1",
       "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "43.192.155.130/31",
+      "region": "cn-northwest-1",
+      "service": "EBS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "43.192.155.140/30",
+      "region": "cn-northwest-1",
+      "service": "EBS",
       "network_border_group": "cn-northwest-1"
     },
     {
