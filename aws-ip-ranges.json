@@ -1,6 +1,6 @@
 {
-  "syncToken": "1705961590",
-  "createDate": "2024-01-22-22-13-10",
+  "syncToken": "1705965191",
+  "createDate": "2024-01-22-23-13-11",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -39465,6 +39465,18 @@
       "network_border_group": "ap-south-1"
     },
     {
+      "ip_prefix": "13.200.142.112/30",
+      "region": "ap-south-1",
+      "service": "EBS",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "13.200.142.82/31",
+      "region": "ap-south-1",
+      "service": "EBS",
+      "network_border_group": "ap-south-1"
+    },
+    {
       "ip_prefix": "13.200.7.128/29",
       "region": "ap-south-1",
       "service": "MEDIA_PACKAGE_V2",
@@ -44262,6 +44274,18 @@
       "ip_prefix": "15.229.200.0/22",
       "region": "sa-east-1",
       "service": "AMAZON",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "15.229.206.194/31",
+      "region": "sa-east-1",
+      "service": "EBS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "15.229.206.196/30",
+      "region": "sa-east-1",
+      "service": "EBS",
       "network_border_group": "sa-east-1"
     },
     {
