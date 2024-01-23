@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2024-01-22 10:00:04.940280
+# Last modified: 2024-01-23 10:00:04.491290
 # prefix, country, subdivision, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2597,7 +2597,6 @@
 172.234.152.0/24,US,US-VA,Ashburn,
 172.234.153.0/24,US,US-VA,Ashburn,
 172.234.154.0/24,US,US-VA,Ashburn,
-172.234.155.0/24,US,US-VA,Ashburn,
 172.234.156.0/24,US,US-VA,Ashburn,
 172.234.157.0/24,US,US-VA,Ashburn,
 172.234.158.0/24,US,US-VA,Ashburn,
@@ -3488,6 +3487,7 @@
 172.234.209.0/24,US,US-IL,Chicago,
 172.234.210.0/24,US,US-IL,Chicago,
 172.234.211.0/24,US,US-IL,Chicago,
+172.234.155.0/24,US,US-VA,Ashburn,
 178.79.175.0/24,GB,GB-ENG,London,
 185.3.92.0/24,GB,GB-ENG,London,
 185.3.93.0/24,GB,GB-ENG,London,
