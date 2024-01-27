@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02 (draft02)
-# Last modified: 2024-01-26 10:00:04.635397
+# Last modified: 2024-01-27 10:00:04.643668
 # prefix, country, subdivision, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2205,7 +2205,6 @@
 172.232.219.0/24,IT,IT-MI,Milan,
 172.232.220.0/24,IT,IT-MI,Milan,
 172.232.221.0/24,IT,IT-MI,Milan,
-172.232.222.0/24,IT,IT-MI,Milan,
 172.232.224.0/24,ID,ID-JK,Jakarta,
 172.232.225.0/24,ID,ID-JK,Jakarta,
 172.232.226.0/24,ID,ID-JK,Jakarta,
@@ -2618,7 +2617,6 @@
 172.234.187.0/24,FR,FR-IDF,Paris,
 172.234.188.0/24,FR,FR-IDF,Paris,
 172.234.189.0/24,FR,FR-IDF,Paris,
-172.234.190.0/24,FR,FR-IDF,Paris,
 172.234.192.0/24,US,US-IL,Chicago,
 172.234.193.0/24,US,US-IL,Chicago,
 172.234.194.0/24,US,US-IL,Chicago,
@@ -3319,9 +3317,11 @@
 143.42.211.0/24,DE,DE-HE,Frankfurt,
 143.42.225.0/24,US,US-NJ,Cedar Knolls,
 143.42.245.0/24,GB,GB-ENG,London,
+172.232.222.0/24,IT,IT-MI,Milan,
 172.232.254.0/24,ID,ID-JK,Jakarta,
 172.233.180.0/24,US,US-FL,Miami,
 172.234.79.0/24,SG,SG-04,Singapore,
+172.234.190.0/24,FR,FR-IDF,Paris,
 172.234.93.0/24,JP,JP-27,Osaka,
 194.233.176.0/24,DE,DE-HE,Frankfurt,
 194.233.177.0/24,DE,DE-HE,Frankfurt,
