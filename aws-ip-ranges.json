@@ -1,6 +1,6 @@
 {
-  "syncToken": "1706654589",
-  "createDate": "2024-01-30-22-43-09",
+  "syncToken": "1706661787",
+  "createDate": "2024-01-31-00-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -60606,6 +60606,12 @@
     },
     {
       "ipv6_prefix": "2400:7fc0:83cc:ce00::/56",
+      "region": "cn-north-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:8e66:5a00::/56",
       "region": "cn-north-1",
       "service": "ROUTE53_HEALTHCHECKS",
       "network_border_group": "cn-north-1"
