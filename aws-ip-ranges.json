@@ -1,6 +1,6 @@
 {
-  "syncToken": "1708300389",
-  "createDate": "2024-02-18-23-53-09",
+  "syncToken": "1708357990",
+  "createDate": "2024-02-19-15-53-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -43192,6 +43192,30 @@
     },
     {
       "ip_prefix": "13.48.4.200/30",
+      "region": "eu-north-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-north-1"
+    },
+    {
+      "ip_prefix": "13.48.4.200/32",
+      "region": "eu-north-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-north-1"
+    },
+    {
+      "ip_prefix": "13.48.4.201/32",
+      "region": "eu-north-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-north-1"
+    },
+    {
+      "ip_prefix": "13.48.4.202/32",
+      "region": "eu-north-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-north-1"
+    },
+    {
+      "ip_prefix": "13.48.4.203/32",
       "region": "eu-north-1",
       "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "eu-north-1"
