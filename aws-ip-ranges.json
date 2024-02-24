@@ -1,6 +1,6 @@
 {
-  "syncToken": "1708743190",
-  "createDate": "2024-02-24-02-53-10",
+  "syncToken": "1708750390",
+  "createDate": "2024-02-24-04-53-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -47428,6 +47428,30 @@
     },
     {
       "ip_prefix": "44.220.194.0/23",
+      "region": "us-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.220.196.0/23",
+      "region": "us-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.220.198.0/23",
+      "region": "us-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.220.200.0/23",
+      "region": "us-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.220.202.0/23",
       "region": "us-east-1",
       "service": "CLOUDFRONT",
       "network_border_group": "us-east-1"
