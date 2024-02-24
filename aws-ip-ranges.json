@@ -1,6 +1,6 @@
 {
-  "syncToken": "1708541590",
-  "createDate": "2024-02-21-18-53-10",
+  "syncToken": "1708743190",
+  "createDate": "2024-02-24-02-53-10",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -47424,6 +47424,12 @@
       "ip_prefix": "44.218.96.0/23",
       "region": "us-east-1",
       "service": "API_GATEWAY",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.220.194.0/23",
+      "region": "us-east-1",
+      "service": "CLOUDFRONT",
       "network_border_group": "us-east-1"
     },
     {
