@@ -1,6 +1,6 @@
 {
-  "syncToken": "1708750390",
-  "createDate": "2024-02-24-04-53-10",
+  "syncToken": "1709055187",
+  "createDate": "2024-02-27-17-33-07",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -3315,6 +3315,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "13.34.112.224/27",
+      "region": "ap-northeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
       "ip_prefix": "15.230.251.0/31",
       "region": "ap-southeast-1",
       "service": "AMAZON",
@@ -5158,6 +5164,12 @@
     },
     {
       "ip_prefix": "13.34.112.64/27",
+      "region": "ap-northeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "13.34.113.0/27",
       "region": "ap-northeast-1",
       "service": "AMAZON",
       "network_border_group": "ap-northeast-1"
@@ -11035,6 +11047,12 @@
       "region": "us-east-2",
       "service": "AMAZON",
       "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "13.34.113.32/27",
+      "region": "ap-northeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-1"
     },
     {
       "ip_prefix": "13.248.122.0/24",
@@ -25807,6 +25825,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "13.34.112.192/27",
+      "region": "ap-northeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-1"
     },
     {
       "ip_prefix": "15.220.44.0/22",
