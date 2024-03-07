@@ -1,6 +1,6 @@
 {
-  "syncToken": "1709757190",
-  "createDate": "2024-03-06-20-33-10",
+  "syncToken": "1709812987",
+  "createDate": "2024-03-07-12-03-07",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -39864,6 +39864,12 @@
       "ip_prefix": "13.201.195.64/30",
       "region": "ap-south-1",
       "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "13.201.231.0/24",
+      "region": "ap-south-1",
+      "service": "AMAZON",
       "network_border_group": "ap-south-1"
     },
     {
