@@ -1,6 +1,6 @@
 {
-  "syncToken": "1709862187",
-  "createDate": "2024-03-08-01-43-07",
+  "syncToken": "1709898189",
+  "createDate": "2024-03-08-11-43-09",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -40854,6 +40854,24 @@
       "ip_prefix": "3.107.30.184/30",
       "region": "ap-southeast-2",
       "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "3.107.43.128/25",
+      "region": "ap-southeast-2",
+      "service": "CLOUDFRONT",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "3.107.44.0/25",
+      "region": "ap-southeast-2",
+      "service": "CLOUDFRONT",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "3.107.44.128/25",
+      "region": "ap-southeast-2",
+      "service": "CLOUDFRONT",
       "network_border_group": "ap-southeast-2"
     },
     {
