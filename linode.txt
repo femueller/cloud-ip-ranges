@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2024-03-19 10:00:04.625148
+# Last modified: 2024-03-20 10:00:04.742703
 # ip_prefix, alpha2code, region, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2593,9 +2593,6 @@
 172.234.152.0/24,US,US-VA,Ashburn,
 172.234.153.0/24,US,US-VA,Ashburn,
 172.234.154.0/24,US,US-VA,Ashburn,
-172.234.156.0/24,US,US-VA,Ashburn,
-172.234.157.0/24,US,US-VA,Ashburn,
-172.234.158.0/24,US,US-VA,Ashburn,
 172.234.160.0/24,FR,FR-IDF,Paris,
 172.234.161.0/24,FR,FR-IDF,Paris,
 172.234.162.0/24,FR,FR-IDF,Paris,
@@ -3623,6 +3620,9 @@
 172.234.155.0/24,US,US-VA,Ashburn,
 172.234.69.0/24,US,US-VA,Ashburn,
 172.235.159.0/24,US,US-FL,Miami,
+172.234.158.0/24,US,US-VA,Ashburn,
+172.234.157.0/24,US,US-VA,Ashburn,
+172.234.156.0/24,US,US-VA,Ashburn,
 178.79.175.0/24,GB,GB-ENG,London,
 185.3.92.0/24,GB,GB-ENG,London,
 185.3.93.0/24,GB,GB-ENG,London,
