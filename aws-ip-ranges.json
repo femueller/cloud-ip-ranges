@@ -1,6 +1,6 @@
 {
-  "syncToken": "1710999190",
-  "createDate": "2024-03-21-05-33-10",
+  "syncToken": "1711333987",
+  "createDate": "2024-03-25-02-33-07",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -46284,6 +46284,18 @@
       "ip_prefix": "18.171.63.36/30",
       "region": "eu-west-2",
       "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "18.175.65.0/24",
+      "region": "eu-west-2",
+      "service": "CLOUDFRONT",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "18.175.66.0/24",
+      "region": "eu-west-2",
+      "service": "CLOUDFRONT",
       "network_border_group": "eu-west-2"
     },
     {
