@@ -1,6 +1,6 @@
 {
-  "syncToken": "1711672987",
-  "createDate": "2024-03-29-00-43-07",
+  "syncToken": "1711716190",
+  "createDate": "2024-03-29-12-43-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -47940,6 +47940,18 @@
       "ip_prefix": "18.230.104.0/23",
       "region": "sa-east-1",
       "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "18.230.229.0/24",
+      "region": "sa-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "18.230.230.0/25",
+      "region": "sa-east-1",
+      "service": "CLOUDFRONT",
       "network_border_group": "sa-east-1"
     },
     {
