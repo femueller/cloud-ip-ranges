@@ -1,6 +1,6 @@
 {
-  "syncToken": "1712022191",
-  "createDate": "2024-04-02-01-43-11",
+  "syncToken": "1712076190",
+  "createDate": "2024-04-02-16-43-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -46672,6 +46672,12 @@
     },
     {
       "ip_prefix": "18.175.66.0/24",
+      "region": "eu-west-2",
+      "service": "CLOUDFRONT",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "18.175.67.0/24",
       "region": "eu-west-2",
       "service": "CLOUDFRONT",
       "network_border_group": "eu-west-2"
