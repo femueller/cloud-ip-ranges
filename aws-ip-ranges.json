@@ -1,6 +1,6 @@
 {
-  "syncToken": "1713206589",
-  "createDate": "2024-04-15-18-43-09",
+  "syncToken": "1713213790",
+  "createDate": "2024-04-15-20-43-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -59765,6 +59765,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ipv6_prefix": "2600:f0f0:731::/48",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
       "ipv6_prefix": "2404:c2c0:2400::/40",
       "region": "cn-northwest-1",
       "service": "AMAZON",
@@ -65535,6 +65541,12 @@
       "region": "me-south-1",
       "service": "EC2",
       "network_border_group": "me-south-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f0:731::/48",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1"
     },
     {
       "ipv6_prefix": "2406:da26::/36",
