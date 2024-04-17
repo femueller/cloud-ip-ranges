@@ -1,6 +1,6 @@
 {
-  "syncToken": "1713304387",
-  "createDate": "2024-04-16-21-53-07",
+  "syncToken": "1713358387",
+  "createDate": "2024-04-17-12-53-07",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -48738,12 +48738,6 @@
       "ip_prefix": "13.48.186.192/27",
       "region": "eu-north-1",
       "service": "AMAZON",
-      "network_border_group": "eu-north-1"
-    },
-    {
-      "ip_prefix": "13.48.32.0/24",
-      "region": "eu-north-1",
-      "service": "CLOUDFRONT",
       "network_border_group": "eu-north-1"
     },
     {
