@@ -1,6 +1,6 @@
 {
-  "syncToken": "1713960790",
-  "createDate": "2024-04-24-12-13-10",
+  "syncToken": "1714061589",
+  "createDate": "2024-04-25-16-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -56507,6 +56507,12 @@
       "network_border_group": "ap-southeast-3"
     },
     {
+      "ipv6_prefix": "2600:1f19:4000::/36",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ipv6_prefix": "2600:1f60:5000::/40",
       "region": "us-gov-east-1",
       "service": "AMAZON",
@@ -60377,6 +60383,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ipv6_prefix": "2600:1f29:4000::/36",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ipv6_prefix": "2600:1ffd:81a7::/48",
       "region": "ca-central-1",
       "service": "AMAZON",
@@ -63611,6 +63623,12 @@
       "network_border_group": "ap-southeast-3"
     },
     {
+      "ipv6_prefix": "2600:1f19:4000::/36",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ipv6_prefix": "2600:1f60:5000::/40",
       "region": "us-gov-east-1",
       "service": "EC2",
@@ -66120,6 +66138,12 @@
     },
     {
       "ipv6_prefix": "2600:1f1f:4000::/36",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f29:4000::/36",
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1"
