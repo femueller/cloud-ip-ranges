@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2024-06-13 10:00:05.185140
+# Last modified: 2024-06-14 10:00:04.898067
 # ip_prefix, alpha2code, region, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2929,7 +2929,6 @@
 172.236.65.0/24,IN,IN-TN,Chennai,
 172.236.66.0/24,IN,IN-TN,Chennai,
 172.236.67.0/24,IN,IN-TN,Chennai,
-172.236.68.0/24,IN,IN-TN,Chennai,
 172.236.69.0/24,IN,IN-TN,Chennai,
 172.236.70.0/24,IN,IN-TN,Chennai,
 172.236.71.0/24,IN,IN-TN,Chennai,
@@ -3001,6 +3000,7 @@
 143.42.245.0/24,GB,GB-ENG,London,
 172.232.222.0/24,IT,IT-MI,Milan,
 172.232.254.0/24,ID,ID-JK,Jakarta,
+172.233.30.0/24,BR,BR-SP,Sao Paulo,
 172.233.126.0/24,ES,ES-MD,Madrid,
 172.233.180.0/24,US,US-FL,Miami,
 172.234.79.0/24,SG,SG-04,Singapore,
@@ -3012,6 +3012,7 @@
 172.234.241.0/24,US,US-WA,Tukwila,
 172.235.59.0/24,US,US-CA,Los Angeles,
 172.235.161.0/24,NL,NL-NH,Amsterdam,
+172.236.68.0/24,IN,IN-TN,Chennai,
 172.105.147.0/24,US,US-GA,Atlanta,
 172.105.142.0/24,SG,SG-04,Singapore,
 172.105.143.0/24,SG,SG-04,Singapore,
