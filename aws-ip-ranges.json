@@ -1,6 +1,6 @@
 {
-  "syncToken": "1718727189",
-  "createDate": "2024-06-18-16-13-09",
+  "syncToken": "1718733790",
+  "createDate": "2024-06-18-18-03-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -50337,6 +50337,228 @@
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ip_prefix": "18.252.144.0/25",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.252.144.128/25",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.252.145.0/25",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.252.4.64/28",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.252.4.80/28",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.252.4.96/28",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.0/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.16/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.24/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.32/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.40/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.48/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.56/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.64/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.72/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.8/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.80/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.138.88/29",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.204.0/27",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.204.32/27",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.204.64/27",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "15.200.141.128/25",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "15.200.176.0/25",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "15.200.27.96/27",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "15.200.28.0/27",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "15.200.28.32/27",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.32.190.128/27",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.32.190.160/27",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.32.249.128/25",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.32.43.160/27",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.16/28",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.32/28",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.48/29",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.56/29",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.64/29",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.72/29",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.40.80/29",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
       "ip_prefix": "13.244.244.192/27",
       "region": "af-south-1",
       "service": "ROUTE53_RESOLVER",
@@ -52153,6 +52375,24 @@
       "region": "eu-west-3",
       "service": "ROUTE53_RESOLVER",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "51.16.96.192/26",
+      "region": "il-central-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "51.16.97.0/26",
+      "region": "il-central-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "51.16.97.64/26",
+      "region": "il-central-1",
+      "service": "ROUTE53_RESOLVER",
+      "network_border_group": "il-central-1"
     },
     {
       "ip_prefix": "3.28.63.128/26",
