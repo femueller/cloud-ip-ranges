@@ -1,6 +1,6 @@
 {
-  "syncToken": "1719440589",
-  "createDate": "2024-06-26-22-23-09",
+  "syncToken": "1719496989",
+  "createDate": "2024-06-27-14-03-09",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -54829,6 +54829,12 @@
       "region": "ca-central-1",
       "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "40.176.213.168/29",
+      "region": "ca-west-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ca-west-1"
     },
     {
       "ip_prefix": "3.120.181.40/29",
