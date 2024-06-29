@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2024-06-28 10:00:04.264254
+# Last modified: 2024-06-29 10:00:04.533068
 # ip_prefix, alpha2code, region, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2927,6 +2927,18 @@
 172.236.49.0/24,AU,AU-VIC,Melbourne,
 172.236.50.0/24,AU,AU-VIC,Melbourne,
 172.236.51.0/24,AU,AU-VIC,Melbourne,
+172.236.52.0/24,AU,AU-VIC,Melbourne,
+172.236.53.0/24,AU,AU-VIC,Melbourne,
+172.236.54.0/24,AU,AU-VIC,Melbourne,
+172.236.55.0/24,AU,AU-VIC,Melbourne,
+172.236.56.0/24,AU,AU-VIC,Melbourne,
+172.236.57.0/24,AU,AU-VIC,Melbourne,
+172.236.58.0/24,AU,AU-VIC,Melbourne,
+172.236.59.0/24,AU,AU-VIC,Melbourne,
+172.236.60.0/24,AU,AU-VIC,Melbourne,
+172.236.61.0/24,AU,AU-VIC,Melbourne,
+172.236.62.0/24,AU,AU-VIC,Melbourne,
+172.236.63.0/24,AU,AU-VIC,Melbourne,
 172.236.64.0/24,IN,IN-TN,Chennai,
 172.236.65.0/24,IN,IN-TN,Chennai,
 172.236.66.0/24,IN,IN-TN,Chennai,
