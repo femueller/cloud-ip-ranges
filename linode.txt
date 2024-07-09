@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2024-07-08 10:00:05.269032
+# Last modified: 2024-07-09 10:00:04.772014
 # ip_prefix, alpha2code, region, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2751,25 +2751,16 @@
 172.235.62.0/24,US,US-CA,Los Angeles,
 172.235.63.0/24,US,US-CA,Los Angeles,
 172.235.96.0/24,US,US-CO,Denver,
-172.235.97.0/24,US,US-CO,Denver,
 172.235.98.0/24,DE,DE-HA,Hamburg,
-172.235.99.0/24,DE,DE-HA,Hamburg,
 172.235.100.0/24,FR,FR-13,Marseille,
-172.235.101.0/24,FR,FR-13,Marseille,
 172.235.102.0/24,ZA,ZA-GP,Johannesburg,
-172.235.103.0/24,ZA,ZA-GP,Johannesburg,
 172.235.104.0/24,MY,MY-13,Kuala Lumpur,
-172.235.105.0/24,MY,MY-13,Kuala Lumpur,
 172.235.106.0/24,HK,,Hong Kong,
 172.235.107.0/24,HK,,Hong Kong,
 172.235.108.0/24,CO,CO-DC,Bogotá,
-172.235.109.0/24,CO,CO-DC,Bogotá,
 172.235.110.0/24,MX,MX-QUE,Querétaro,
-172.235.111.0/24,MX,MX-QUE,Querétaro,
 172.235.112.0/24,US,US-TX,Houston,
-172.235.113.0/24,US,US-TX,Houston,
 172.235.114.0/24,CL,CL-RM,Santiago,
-172.235.115.0/24,CL,CL-RM,Santiago,
 172.235.128.0/24,US,US-FL,Miami,
 172.235.129.0/24,US,US-FL,Miami,
 172.235.130.0/24,US,US-FL,Miami,
