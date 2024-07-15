@@ -1,6 +1,6 @@
 {
-  "syncToken": "1720990389",
-  "createDate": "2024-07-14-20-53-09",
+  "syncToken": "1720995189",
+  "createDate": "2024-07-14-22-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -17709,6 +17709,12 @@
       "network_border_group": "us-west-1"
     },
     {
+      "ip_prefix": "173.82.15.0/24",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1-mnl-1"
+    },
+    {
       "ip_prefix": "13.34.8.195/32",
       "region": "eu-central-1",
       "service": "AMAZON",
@@ -19213,6 +19219,12 @@
       "region": "eu-west-2",
       "service": "AMAZON",
       "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "173.82.9.0/24",
+      "region": "eu-north-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-north-1-cph-1"
     },
     {
       "ip_prefix": "184.72.0.0/18",
@@ -28194,7 +28206,7 @@
       "ip_prefix": "173.82.16.0/24",
       "region": "ap-southeast-2",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-2-akl-1"
+      "network_border_group": "ap-southeast-2-per-1"
     },
     {
       "ip_prefix": "13.34.3.98/32",
@@ -42945,6 +42957,12 @@
       "network_border_group": "us-west-1"
     },
     {
+      "ip_prefix": "173.82.15.0/24",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1-mnl-1"
+    },
+    {
       "ip_prefix": "13.48.0.0/15",
       "region": "eu-north-1",
       "service": "EC2",
@@ -43255,6 +43273,12 @@
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "173.82.9.0/24",
+      "region": "eu-north-1",
+      "service": "EC2",
+      "network_border_group": "eu-north-1-cph-1"
     },
     {
       "ip_prefix": "184.72.0.0/18",
@@ -45078,7 +45102,7 @@
       "ip_prefix": "173.82.16.0/24",
       "region": "ap-southeast-2",
       "service": "EC2",
-      "network_border_group": "ap-southeast-2-akl-1"
+      "network_border_group": "ap-southeast-2-per-1"
     },
     {
       "ip_prefix": "13.230.0.0/15",
