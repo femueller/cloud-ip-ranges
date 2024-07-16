@@ -1,6 +1,6 @@
 {
-  "syncToken": "1721116389",
-  "createDate": "2024-07-16-07-53-09",
+  "syncToken": "1721166190",
+  "createDate": "2024-07-16-21-43-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -23040,7 +23040,7 @@
       "ip_prefix": "16.56.0.0/18",
       "region": "us-east-1",
       "service": "AMAZON",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-atl-2"
     },
     {
       "ip_prefix": "18.98.64.0/19",
@@ -27906,7 +27906,7 @@
       "ip_prefix": "161.178.0.0/18",
       "region": "us-east-1",
       "service": "AMAZON",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-chi-2"
     },
     {
       "ip_prefix": "203.83.220.0/22",
@@ -44052,7 +44052,7 @@
       "ip_prefix": "16.56.0.0/18",
       "region": "us-east-1",
       "service": "EC2",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-atl-2"
     },
     {
       "ip_prefix": "18.98.64.0/19",
@@ -45000,7 +45000,7 @@
       "ip_prefix": "161.178.0.0/18",
       "region": "us-east-1",
       "service": "EC2",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-chi-2"
     },
     {
       "ip_prefix": "15.220.206.0/24",
@@ -60128,7 +60128,7 @@
       "ipv6_prefix": "2600:1f1b:4000::/36",
       "region": "us-east-1",
       "service": "AMAZON",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-atl-2"
     },
     {
       "ipv6_prefix": "2600:1ffd:8188::/48",
@@ -63098,7 +63098,7 @@
       "ipv6_prefix": "2600:1f1f:4000::/36",
       "region": "us-east-1",
       "service": "AMAZON",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-chi-2"
     },
     {
       "ipv6_prefix": "2600:1f29:4000::/36",
@@ -68252,7 +68252,7 @@
       "ipv6_prefix": "2600:1f1b:4000::/36",
       "region": "us-east-1",
       "service": "EC2",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-atl-2"
     },
     {
       "ipv6_prefix": "2600:1ffd:8188::/48",
@@ -70250,7 +70250,7 @@
       "ipv6_prefix": "2600:1f1f:4000::/36",
       "region": "us-east-1",
       "service": "EC2",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-1-chi-2"
     },
     {
       "ipv6_prefix": "2600:1f29:4000::/36",
