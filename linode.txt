@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2024-07-16 10:00:06.167736
+# Last modified: 2024-07-17 10:00:05.167488
 # ip_prefix, alpha2code, region, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c01::/32,US,US-CA,Fremont,
@@ -2957,7 +2957,6 @@
 172.236.90.0/24,IN,IN-TN,Chennai,
 172.236.91.0/24,IN,IN-TN,Chennai,
 172.236.92.0/24,IN,IN-TN,Chennai,
-172.236.93.0/24,IN,IN-TN,Chennai,
 172.236.94.0/24,IN,IN-TN,Chennai,
 172.236.95.0/24,IN,IN-TN,Chennai,
 172.235.116.0/24,BR,BR-SP,Sao Paulo,
