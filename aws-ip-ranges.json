@@ -1,6 +1,6 @@
 {
-  "syncToken": "1724080389",
-  "createDate": "2024-08-19-15-13-09",
+  "syncToken": "1724085790",
+  "createDate": "2024-08-19-16-43-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -61548,6 +61548,12 @@
     },
     {
       "ipv6_prefix": "2600:1f01:4830::/47",
+      "region": "eu-central-1",
+      "service": "GLOBALACCELERATOR",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f01:48f2::/47",
       "region": "eu-central-1",
       "service": "GLOBALACCELERATOR",
       "network_border_group": "eu-central-1"
