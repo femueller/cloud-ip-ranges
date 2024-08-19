@@ -1,6 +1,6 @@
 {
-  "syncToken": "1724085790",
-  "createDate": "2024-08-19-16-43-10",
+  "syncToken": "1724090591",
+  "createDate": "2024-08-19-18-03-11",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -44445,6 +44445,18 @@
       "network_border_group": "ap-south-1"
     },
     {
+      "ip_prefix": "18.61.132.240/29",
+      "region": "ap-south-2",
+      "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "ap-south-2"
+    },
+    {
+      "ip_prefix": "18.61.132.248/29",
+      "region": "ap-south-2",
+      "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "ap-south-2"
+    },
+    {
       "ip_prefix": "18.143.206.152/29",
       "region": "ap-southeast-1",
       "service": "MEDIA_PACKAGE_V2",
@@ -44551,6 +44563,18 @@
       "region": "eu-west-3",
       "service": "MEDIA_PACKAGE_V2",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "40.172.11.104/29",
+      "region": "me-central-1",
+      "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "me-central-1"
+    },
+    {
+      "ip_prefix": "40.172.11.96/29",
+      "region": "me-central-1",
+      "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "me-central-1"
     },
     {
       "ip_prefix": "15.229.120.48/29",
