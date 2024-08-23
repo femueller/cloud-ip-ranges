@@ -1,6 +1,6 @@
 {
-  "syncToken": "1724350390",
-  "createDate": "2024-08-22-18-13-10",
+  "syncToken": "1724420596",
+  "createDate": "2024-08-23-13-43-16",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -61719,6 +61719,12 @@
       "region": "GLOBAL",
       "service": "GLOBALACCELERATOR",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2406:da14:1c18:2100::/56",
+      "region": "ap-northeast-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ap-northeast-1"
     }
   ]
 }
