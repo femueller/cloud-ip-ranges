@@ -1,6 +1,6 @@
 {
-  "syncToken": "1724694189",
-  "createDate": "2024-08-26-17-43-09",
+  "syncToken": "1724857989",
+  "createDate": "2024-08-28-15-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -61761,6 +61761,12 @@
       "region": "us-east-1",
       "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f13:a0d:a700::/56",
+      "region": "us-west-2",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "us-west-2"
     }
   ]
 }
