@@ -1,6 +1,6 @@
 {
-  "syncToken": "1726148596",
-  "createDate": "2024-09-12-13-43-16",
+  "syncToken": "1726156997",
+  "createDate": "2024-09-12-16-03-17",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -2869,6 +2869,12 @@
       "region": "eu-central-1",
       "service": "AMAZON",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "15.190.128.0/20",
+      "region": "ap-southeast-6",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-6"
     },
     {
       "ip_prefix": "15.230.178.0/24",
@@ -63551,6 +63557,12 @@
       "network_border_group": "ap-northeast-2"
     },
     {
+      "ipv6_prefix": "2406:da16:856:a500::/56",
+      "region": "ap-northeast-3",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ap-northeast-3"
+    },
+    {
       "ipv6_prefix": "2406:da1a:74a:4b00::/56",
       "region": "ap-south-1",
       "service": "EC2_INSTANCE_CONNECT",
@@ -63581,6 +63593,12 @@
       "network_border_group": "ap-southeast-3"
     },
     {
+      "ipv6_prefix": "2406:da1f:b4f:4600::/56",
+      "region": "ap-southeast-4",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
       "ipv6_prefix": "2600:1f11:ae3:700::/56",
       "region": "ca-central-1",
       "service": "EC2_INSTANCE_CONNECT",
@@ -63593,10 +63611,28 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ipv6_prefix": "2a05:d019:1d6:2100::/56",
+      "region": "eu-central-2",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-central-2"
+    },
+    {
       "ipv6_prefix": "2a05:d016:494:f00::/56",
       "region": "eu-north-1",
       "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "eu-north-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d01a:c03:4a00::/56",
+      "region": "eu-south-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-south-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d011:cbe:f700::/56",
+      "region": "eu-south-2",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "eu-south-2"
     },
     {
       "ipv6_prefix": "2a05:d018:403:4e00::/56",
@@ -63615,6 +63651,12 @@
       "region": "eu-west-3",
       "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ipv6_prefix": "2a05:d025:451:7d00::/56",
+      "region": "il-central-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "il-central-1"
     },
     {
       "ipv6_prefix": "2406:da17:1db:b00::/56",
