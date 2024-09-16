@@ -1,6 +1,6 @@
 {
-  "syncToken": "1726507388",
-  "createDate": "2024-09-16-17-23-08",
+  "syncToken": "1726512187",
+  "createDate": "2024-09-16-18-43-07",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -63681,6 +63681,18 @@
       "region": "GLOBAL",
       "service": "GLOBALACCELERATOR",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:86fd:e00::/56",
+      "region": "cn-north-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ipv6_prefix": "2404:c2c0:87aa:4800::/56",
+      "region": "cn-northwest-1",
+      "service": "EC2_INSTANCE_CONNECT",
+      "network_border_group": "cn-northwest-1"
     },
     {
       "ipv6_prefix": "2600:1f15:d63:bd00::/56",
