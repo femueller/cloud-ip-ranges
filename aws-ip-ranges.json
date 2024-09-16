@@ -1,6 +1,6 @@
 {
-  "syncToken": "1726445590",
-  "createDate": "2024-09-16-00-13-10",
+  "syncToken": "1726450397",
+  "createDate": "2024-09-16-01-33-17",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -36679,6 +36679,12 @@
       "region": "GLOBAL",
       "service": "GLOBALACCELERATOR",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "3.2.57.0/24",
+      "region": "eu-west-1",
+      "service": "GLOBALACCELERATOR",
+      "network_border_group": "eu-west-1"
     },
     {
       "ip_prefix": "76.223.169.0/24",
