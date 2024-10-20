@@ -1,5 +1,5 @@
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2024-10-19 10:00:04.257496
+# Last modified: 2024-10-20 10:00:04.231104
 # ip_prefix, alpha2code, region, city, postal_code
 2600:3c00::/32,US,US-TX,Richardson,
 2600:3c0f:2::/48,US,US-TX,Richardson,
