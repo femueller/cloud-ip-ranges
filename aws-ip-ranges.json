@@ -1,6 +1,6 @@
 {
-  "syncToken": "1731370997",
-  "createDate": "2024-11-12-00-23-17",
+  "syncToken": "1731419588",
+  "createDate": "2024-11-12-13-53-08",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -7680,7 +7680,7 @@
       "ip_prefix": "15.220.208.128/26",
       "region": "us-west-2",
       "service": "AMAZON",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "15.230.15.100/31",
@@ -7950,7 +7950,7 @@
       "ip_prefix": "15.220.200.0/23",
       "region": "us-west-2",
       "service": "AMAZON",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "15.230.39.46/31",
@@ -12372,7 +12372,7 @@
       "ip_prefix": "15.220.226.0/24",
       "region": "us-west-2",
       "service": "AMAZON",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "15.230.76.192/26",
@@ -14616,7 +14616,7 @@
       "ip_prefix": "15.181.248.0/24",
       "region": "us-west-2",
       "service": "AMAZON",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "15.230.15.13/32",
@@ -31698,7 +31698,7 @@
       "ip_prefix": "15.220.208.128/26",
       "region": "us-west-2",
       "service": "EC2",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "54.64.0.0/15",
@@ -31782,7 +31782,7 @@
       "ip_prefix": "15.220.200.0/23",
       "region": "us-west-2",
       "service": "EC2",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "18.96.0.0/24",
@@ -33132,7 +33132,7 @@
       "ip_prefix": "15.220.226.0/24",
       "region": "us-west-2",
       "service": "EC2",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "18.99.96.0/20",
@@ -33834,7 +33834,7 @@
       "ip_prefix": "15.181.248.0/24",
       "region": "us-west-2",
       "service": "EC2",
-      "network_border_group": "us-west-2"
+      "network_border_group": "us-west-2-las-1b"
     },
     {
       "ip_prefix": "18.34.252.0/22",
