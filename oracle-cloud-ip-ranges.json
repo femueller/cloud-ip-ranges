@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2024-11-14T09:31:56.456662",
+    "last_updated_timestamp": "2024-11-26T13:23:26.948030",
     "regions": [
         {
             "region": "us-ashburn-1",
@@ -704,6 +704,12 @@
                 },
                 {
                     "cidr": "136.248.64.0/18",
+                    "tags": [
+                        "OCI"
+                    ]
+                },
+                {
+                    "cidr": "137.131.128.0/17",
                     "tags": [
                         "OCI"
                     ]
