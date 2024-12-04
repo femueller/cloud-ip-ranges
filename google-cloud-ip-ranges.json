@@ -1,6 +1,6 @@
 {
-  "syncToken": "1729973139818",
-  "creationTime": "2024-10-26T13:05:39.818865",
+  "syncToken": "1733342872991",
+  "creationTime": "2024-12-04T12:07:52.991313",
   "prefixes": [{
     "ipv4Prefix": "34.1.208.0/20",
     "service": "Google Cloud",
@@ -502,6 +502,10 @@
     "service": "Google Cloud",
     "scope": "asia-southeast1"
   }, {
+    "ipv4Prefix": "34.2.128.0/17",
+    "service": "Google Cloud",
+    "scope": "asia-southeast1"
+  }, {
     "ipv4Prefix": "34.21.128.0/17",
     "service": "Google Cloud",
     "scope": "asia-southeast1"
@@ -715,6 +719,14 @@
     "scope": "australia-southeast1"
   }, {
     "ipv4Prefix": "34.151.128.0/18",
+    "service": "Google Cloud",
+    "scope": "australia-southeast1"
+  }, {
+    "ipv4Prefix": "34.153.62.0/25",
+    "service": "Google Cloud",
+    "scope": "australia-southeast1"
+  }, {
+    "ipv4Prefix": "34.153.252.0/25",
     "service": "Google Cloud",
     "scope": "australia-southeast1"
   }, {
@@ -1354,7 +1366,15 @@
     "service": "Google Cloud",
     "scope": "europe-west4"
   }, {
+    "ipv4Prefix": "34.153.63.0/24",
+    "service": "Google Cloud",
+    "scope": "europe-west4"
+  }, {
     "ipv4Prefix": "34.153.237.0/24",
+    "service": "Google Cloud",
+    "scope": "europe-west4"
+  }, {
+    "ipv4Prefix": "34.153.253.0/24",
     "service": "Google Cloud",
     "scope": "europe-west4"
   }, {
@@ -1667,6 +1687,14 @@
     "scope": "me-central2"
   }, {
     "ipv4Prefix": "34.0.64.0/19",
+    "service": "Google Cloud",
+    "scope": "me-west1"
+  }, {
+    "ipv4Prefix": "34.153.62.128/25",
+    "service": "Google Cloud",
+    "scope": "me-west1"
+  }, {
+    "ipv4Prefix": "34.153.252.128/25",
     "service": "Google Cloud",
     "scope": "me-west1"
   }, {
@@ -2845,6 +2873,10 @@
     "ipv6Prefix": "2600:1900:4180::/44",
     "service": "Google Cloud",
     "scope": "us-west4"
+  }, {
+    "ipv4Prefix": "34.2.32.0/20",
+    "service": "Google Cloud",
+    "scope": "us-west8"
   }, {
     "ipv4Prefix": "34.37.0.0/16",
     "service": "Google Cloud",
