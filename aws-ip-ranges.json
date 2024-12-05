@@ -1,6 +1,6 @@
 {
-  "syncToken": "1733425987",
-  "createDate": "2024-12-05-19-13-07",
+  "syncToken": "1733430787",
+  "createDate": "2024-12-05-20-33-07",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -41371,6 +41371,12 @@
       "region": "me-south-1",
       "service": "API_GATEWAY",
       "network_border_group": "me-south-1"
+    },
+    {
+      "ip_prefix": "78.12.16.0/24",
+      "region": "mx-central-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "mx-central-1"
     },
     {
       "ip_prefix": "15.228.129.0/24",
