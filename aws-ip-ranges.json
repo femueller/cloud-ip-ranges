@@ -1,6 +1,6 @@
 {
-  "syncToken": "1733773392",
-  "createDate": "2024-12-09-19-43-12",
+  "syncToken": "1733915589",
+  "createDate": "2024-12-11-11-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -29355,6 +29355,18 @@
       "network_border_group": "ap-southeast-5"
     },
     {
+      "ip_prefix": "43.208.66.128/28",
+      "region": "ap-southeast-7",
+      "service": "S3",
+      "network_border_group": "ap-southeast-7"
+    },
+    {
+      "ip_prefix": "43.208.66.144/28",
+      "region": "ap-southeast-7",
+      "service": "S3",
+      "network_border_group": "ap-southeast-7"
+    },
+    {
       "ip_prefix": "3.98.24.0/28",
       "region": "ca-central-1",
       "service": "S3",
@@ -29539,6 +29551,18 @@
       "region": "me-south-1",
       "service": "S3",
       "network_border_group": "me-south-1"
+    },
+    {
+      "ip_prefix": "78.12.79.192/28",
+      "region": "mx-central-1",
+      "service": "S3",
+      "network_border_group": "mx-central-1"
+    },
+    {
+      "ip_prefix": "78.12.79.208/28",
+      "region": "mx-central-1",
+      "service": "S3",
+      "network_border_group": "mx-central-1"
     },
     {
       "ip_prefix": "15.228.107.0/28",
