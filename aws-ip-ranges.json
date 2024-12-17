@@ -1,6 +1,6 @@
 {
-  "syncToken": "1734376388",
-  "createDate": "2024-12-16-19-13-08",
+  "syncToken": "1734445389",
+  "createDate": "2024-12-17-14-23-09",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -29895,6 +29895,402 @@
       "network_border_group": "us-west-2"
     },
     {
+      "ip_prefix": "43.192.144.0/22",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.58.0/24",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "69.235.162.0/24",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "18.254.140.0/22",
+      "region": "us-gov-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.254.148.0/22",
+      "region": "us-gov-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "3.30.129.0/24",
+      "region": "us-gov-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.30.130.0/23",
+      "region": "us-gov-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "3.32.139.0/24",
+      "region": "us-gov-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "52.61.193.0/24",
+      "region": "us-gov-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "13.246.108.0/22",
+      "region": "af-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ip_prefix": "13.246.120.0/22",
+      "region": "af-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ip_prefix": "18.180.178.0/24",
+      "region": "ap-northeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "18.180.180.0/23",
+      "region": "ap-northeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "3.114.164.0/22",
+      "region": "ap-northeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "54.250.251.0/24",
+      "region": "ap-northeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ip_prefix": "13.124.247.0/24",
+      "region": "ap-northeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "3.34.37.0/24",
+      "region": "ap-northeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "3.34.38.0/23",
+      "region": "ap-northeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "3.35.160.0/22",
+      "region": "ap-northeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "13.126.243.0/24",
+      "region": "ap-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "65.1.156.0/22",
+      "region": "ap-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "13.212.132.0/22",
+      "region": "ap-southeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "18.141.152.0/24",
+      "region": "ap-southeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "18.141.154.0/23",
+      "region": "ap-southeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "52.76.127.0/24",
+      "region": "ap-southeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "3.25.248.0/22",
+      "region": "ap-southeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "3.25.43.0/24",
+      "region": "ap-southeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "3.25.44.0/23",
+      "region": "ap-southeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "54.153.254.0/24",
+      "region": "ap-southeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ip_prefix": "15.223.100.0/24",
+      "region": "ca-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "15.223.102.0/23",
+      "region": "ca-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "3.97.20.0/22",
+      "region": "ca-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "35.183.255.0/24",
+      "region": "ca-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "18.156.52.0/24",
+      "region": "eu-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "18.156.54.0/23",
+      "region": "eu-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "18.192.216.0/22",
+      "region": "eu-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "52.59.127.0/24",
+      "region": "eu-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "3.248.176.0/22",
+      "region": "eu-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "3.249.28.0/23",
+      "region": "eu-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "52.19.124.0/23",
+      "region": "eu-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "18.132.21.0/24",
+      "region": "eu-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "18.132.22.0/23",
+      "region": "eu-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "18.134.68.0/22",
+      "region": "eu-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "35.176.32.0/24",
+      "region": "eu-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ip_prefix": "51.44.72.0/22",
+      "region": "eu-west-3",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "51.17.72.0/22",
+      "region": "il-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ip_prefix": "15.228.64.0/22",
+      "region": "sa-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "18.230.103.0/24",
+      "region": "sa-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "18.230.104.0/23",
+      "region": "sa-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "54.233.204.0/24",
+      "region": "sa-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "3.217.228.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "3.227.4.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "3.235.112.0/21",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.209.84.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.214.144.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.214.148.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.214.152.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.214.156.0/22",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "52.23.61.0/24",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "52.23.62.0/24",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "3.146.84.0/22",
+      "region": "us-east-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "34.223.96.0/22",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "35.80.88.0/22",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "35.80.92.0/22",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "44.234.54.0/23",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "54.244.46.0/23",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
+    },
+    {
       "ip_prefix": "3.5.140.0/22",
       "region": "ap-northeast-2",
       "service": "EC2",
@@ -47091,402 +47487,6 @@
       "network_border_group": "us-west-2"
     },
     {
-      "ip_prefix": "43.192.144.0/22",
-      "region": "cn-northwest-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "cn-northwest-1"
-    },
-    {
-      "ip_prefix": "52.83.58.0/24",
-      "region": "cn-northwest-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "cn-northwest-1"
-    },
-    {
-      "ip_prefix": "69.235.162.0/24",
-      "region": "cn-northwest-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "cn-northwest-1"
-    },
-    {
-      "ip_prefix": "18.254.140.0/22",
-      "region": "us-gov-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-gov-east-1"
-    },
-    {
-      "ip_prefix": "18.254.148.0/22",
-      "region": "us-gov-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-gov-east-1"
-    },
-    {
-      "ip_prefix": "3.30.129.0/24",
-      "region": "us-gov-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-gov-west-1"
-    },
-    {
-      "ip_prefix": "3.30.130.0/23",
-      "region": "us-gov-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-gov-west-1"
-    },
-    {
-      "ip_prefix": "3.32.139.0/24",
-      "region": "us-gov-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-gov-west-1"
-    },
-    {
-      "ip_prefix": "52.61.193.0/24",
-      "region": "us-gov-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-gov-west-1"
-    },
-    {
-      "ip_prefix": "13.246.108.0/22",
-      "region": "af-south-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "af-south-1"
-    },
-    {
-      "ip_prefix": "13.246.120.0/22",
-      "region": "af-south-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "af-south-1"
-    },
-    {
-      "ip_prefix": "18.180.178.0/24",
-      "region": "ap-northeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-1"
-    },
-    {
-      "ip_prefix": "18.180.180.0/23",
-      "region": "ap-northeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-1"
-    },
-    {
-      "ip_prefix": "3.114.164.0/22",
-      "region": "ap-northeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-1"
-    },
-    {
-      "ip_prefix": "54.250.251.0/24",
-      "region": "ap-northeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-1"
-    },
-    {
-      "ip_prefix": "13.124.247.0/24",
-      "region": "ap-northeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-2"
-    },
-    {
-      "ip_prefix": "3.34.37.0/24",
-      "region": "ap-northeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-2"
-    },
-    {
-      "ip_prefix": "3.34.38.0/23",
-      "region": "ap-northeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-2"
-    },
-    {
-      "ip_prefix": "3.35.160.0/22",
-      "region": "ap-northeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-northeast-2"
-    },
-    {
-      "ip_prefix": "13.126.243.0/24",
-      "region": "ap-south-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-south-1"
-    },
-    {
-      "ip_prefix": "65.1.156.0/22",
-      "region": "ap-south-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-south-1"
-    },
-    {
-      "ip_prefix": "13.212.132.0/22",
-      "region": "ap-southeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-1"
-    },
-    {
-      "ip_prefix": "18.141.152.0/24",
-      "region": "ap-southeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-1"
-    },
-    {
-      "ip_prefix": "18.141.154.0/23",
-      "region": "ap-southeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-1"
-    },
-    {
-      "ip_prefix": "52.76.127.0/24",
-      "region": "ap-southeast-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-1"
-    },
-    {
-      "ip_prefix": "3.25.248.0/22",
-      "region": "ap-southeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-2"
-    },
-    {
-      "ip_prefix": "3.25.43.0/24",
-      "region": "ap-southeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-2"
-    },
-    {
-      "ip_prefix": "3.25.44.0/23",
-      "region": "ap-southeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-2"
-    },
-    {
-      "ip_prefix": "54.153.254.0/24",
-      "region": "ap-southeast-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ap-southeast-2"
-    },
-    {
-      "ip_prefix": "15.223.100.0/24",
-      "region": "ca-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ca-central-1"
-    },
-    {
-      "ip_prefix": "15.223.102.0/23",
-      "region": "ca-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ca-central-1"
-    },
-    {
-      "ip_prefix": "3.97.20.0/22",
-      "region": "ca-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ca-central-1"
-    },
-    {
-      "ip_prefix": "35.183.255.0/24",
-      "region": "ca-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "ca-central-1"
-    },
-    {
-      "ip_prefix": "18.156.52.0/24",
-      "region": "eu-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-central-1"
-    },
-    {
-      "ip_prefix": "18.156.54.0/23",
-      "region": "eu-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-central-1"
-    },
-    {
-      "ip_prefix": "18.192.216.0/22",
-      "region": "eu-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-central-1"
-    },
-    {
-      "ip_prefix": "52.59.127.0/24",
-      "region": "eu-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-central-1"
-    },
-    {
-      "ip_prefix": "3.248.176.0/22",
-      "region": "eu-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-1"
-    },
-    {
-      "ip_prefix": "3.249.28.0/23",
-      "region": "eu-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-1"
-    },
-    {
-      "ip_prefix": "52.19.124.0/23",
-      "region": "eu-west-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-1"
-    },
-    {
-      "ip_prefix": "18.132.21.0/24",
-      "region": "eu-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-2"
-    },
-    {
-      "ip_prefix": "18.132.22.0/23",
-      "region": "eu-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-2"
-    },
-    {
-      "ip_prefix": "18.134.68.0/22",
-      "region": "eu-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-2"
-    },
-    {
-      "ip_prefix": "35.176.32.0/24",
-      "region": "eu-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-2"
-    },
-    {
-      "ip_prefix": "51.44.72.0/22",
-      "region": "eu-west-3",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "eu-west-3"
-    },
-    {
-      "ip_prefix": "51.17.72.0/22",
-      "region": "il-central-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "il-central-1"
-    },
-    {
-      "ip_prefix": "15.228.64.0/22",
-      "region": "sa-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "sa-east-1"
-    },
-    {
-      "ip_prefix": "18.230.103.0/24",
-      "region": "sa-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "sa-east-1"
-    },
-    {
-      "ip_prefix": "18.230.104.0/23",
-      "region": "sa-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "sa-east-1"
-    },
-    {
-      "ip_prefix": "54.233.204.0/24",
-      "region": "sa-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "sa-east-1"
-    },
-    {
-      "ip_prefix": "3.217.228.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "3.227.4.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "3.235.112.0/21",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "44.209.84.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "44.214.144.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "44.214.148.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "44.214.152.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "44.214.156.0/22",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "52.23.61.0/24",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "52.23.62.0/24",
-      "region": "us-east-1",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ip_prefix": "3.146.84.0/22",
-      "region": "us-east-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-east-2"
-    },
-    {
-      "ip_prefix": "34.223.96.0/22",
-      "region": "us-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-west-2"
-    },
-    {
-      "ip_prefix": "35.80.88.0/22",
-      "region": "us-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-west-2"
-    },
-    {
-      "ip_prefix": "35.80.92.0/22",
-      "region": "us-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-west-2"
-    },
-    {
-      "ip_prefix": "44.234.54.0/23",
-      "region": "us-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-west-2"
-    },
-    {
-      "ip_prefix": "54.244.46.0/23",
-      "region": "us-west-2",
-      "service": "WORKSPACES_GATEWAYS",
-      "network_border_group": "us-west-2"
-    },
-    {
       "ip_prefix": "13.245.127.232/30",
       "region": "af-south-1",
       "service": "AMAZON_APPFLOW",
@@ -61083,6 +61083,96 @@
       "region": "ap-southeast-1",
       "service": "IVS_REALTIME",
       "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d032:8000::/40",
+      "region": "eu-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d032:5000::/40",
+      "region": "il-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "il-central-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f32:e000::/40",
+      "region": "sa-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f32:4000::/39",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ipv6_prefix": "2406:da32:2000::/40",
+      "region": "ap-northeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ipv6_prefix": "2406:da32:4000::/40",
+      "region": "ap-northeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ipv6_prefix": "2406:da32:8000::/40",
+      "region": "ap-southeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f32:8000::/39",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ipv6_prefix": "2406:da32:c000::/40",
+      "region": "ap-southeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ipv6_prefix": "2406:da32:a000::/40",
+      "region": "ap-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d032:4000::/40",
+      "region": "eu-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ipv6_prefix": "2406:da32:1000::/40",
+      "region": "af-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f32:2000::/40",
+      "region": "us-gov-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f32:1000::/40",
+      "region": "ca-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d032:c000::/40",
+      "region": "eu-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-2"
     },
     {
       "ipv6_prefix": "2600:1f69:7400::/40",
