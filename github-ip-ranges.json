@@ -5747,6 +5747,7 @@
         "vstoken.actions.githubusercontent.com",
         "broker.actions.githubusercontent.com",
         "launch.actions.githubusercontent.com",
+        "setup-tools.actions.githubusercontent.com",
         "ghcr.io",
         "npm.pkg.github.com",
         "npm-proxy.pkg.github.com",
