@@ -1,6 +1,6 @@
 {
-  "syncToken": "1734571988",
-  "createDate": "2024-12-19-01-33-08",
+  "syncToken": "1734639367",
+  "createDate": "2024-12-19-20-16-07",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -38707,6 +38707,12 @@
       "region": "ap-northeast-2",
       "service": "CLOUDFRONT",
       "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ip_prefix": "13.203.133.0/26",
+      "region": "ap-south-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "ap-south-1"
     },
     {
       "ip_prefix": "13.233.177.192/26",
