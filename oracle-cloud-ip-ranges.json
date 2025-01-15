@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2025-01-13T07:45:22.612046",
+    "last_updated_timestamp": "2025-01-15T03:37:11.709338",
     "regions": [
         {
             "region": "us-ashburn-1",
@@ -2909,6 +2909,12 @@
                 },
                 {
                     "cidr": "147.154.128.0/19",
+                    "tags": [
+                        "OSN"
+                    ]
+                },
+                {
+                    "cidr": "147.154.160.0/20",
                     "tags": [
                         "OSN"
                     ]
