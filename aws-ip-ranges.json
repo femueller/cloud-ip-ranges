@@ -1,6 +1,6 @@
 {
-  "syncToken": "1737054791",
-  "createDate": "2025-01-16-19-13-11",
+  "syncToken": "1737059589",
+  "createDate": "2025-01-16-20-33-09",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -2611,12 +2611,6 @@
       "region": "ap-east-2",
       "service": "AMAZON",
       "network_border_group": "ap-east-2"
-    },
-    {
-      "ip_prefix": "142.4.167.0/24",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "150.222.43.128/27",
@@ -10345,12 +10339,6 @@
       "region": "us-east-2",
       "service": "AMAZON",
       "network_border_group": "us-east-2"
-    },
-    {
-      "ip_prefix": "142.4.166.0/24",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "150.222.234.74/31",
@@ -32685,12 +32673,6 @@
       "network_border_group": "us-east-1"
     },
     {
-      "ip_prefix": "142.4.167.0/24",
-      "region": "us-east-1",
-      "service": "EC2",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ip_prefix": "15.177.94.0/24",
       "region": "ap-south-2",
       "service": "EC2",
@@ -35089,12 +35071,6 @@
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1-mia-1"
-    },
-    {
-      "ip_prefix": "142.4.166.0/24",
-      "region": "us-east-1",
-      "service": "EC2",
-      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "161.188.16.0/20",
@@ -53741,18 +53717,6 @@
       "network_border_group": "us-east-1"
     },
     {
-      "ipv6_prefix": "2600:f0f3:ce80::/48",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ipv6_prefix": "2600:f0f3:cec0::/48",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ipv6_prefix": "2a05:d032:2000::/40",
       "region": "eu-west-3",
       "service": "AMAZON",
@@ -65436,18 +65400,6 @@
     },
     {
       "ipv6_prefix": "2600:9000:5203::/48",
-      "region": "us-east-1",
-      "service": "EC2",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ipv6_prefix": "2600:f0f3:ce80::/48",
-      "region": "us-east-1",
-      "service": "EC2",
-      "network_border_group": "us-east-1"
-    },
-    {
-      "ipv6_prefix": "2600:f0f3:cec0::/48",
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1"
