@@ -1,6 +1,6 @@
 {
-  "syncToken": "1737059589",
-  "createDate": "2025-01-16-20-33-09",
+  "syncToken": "1737076389",
+  "createDate": "2025-01-17-01-13-09",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -3013,6 +3013,12 @@
       "region": "eu-west-1",
       "service": "AMAZON",
       "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "193.57.169.0/24",
+      "region": "GLOBAL",
+      "service": "AMAZON",
+      "network_border_group": "GLOBAL"
     },
     {
       "ip_prefix": "205.251.244.0/23",
@@ -19723,6 +19729,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "159.248.132.0/24",
+      "region": "GLOBAL",
+      "service": "AMAZON",
+      "network_border_group": "GLOBAL"
     },
     {
       "ip_prefix": "3.4.12.37/32",
@@ -39708,6 +39720,18 @@
       "ip_prefix": "63.246.114.0/23",
       "region": "GLOBAL",
       "service": "ROUTE53",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "193.57.169.0/24",
+      "region": "GLOBAL",
+      "service": "DATADEPOT",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "159.248.132.0/24",
+      "region": "GLOBAL",
+      "service": "DATADEPOT",
       "network_border_group": "GLOBAL"
     },
     {
