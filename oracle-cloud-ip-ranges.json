@@ -1,5 +1,5 @@
 {
-    "last_updated_timestamp": "2025-01-15T03:37:11.709338",
+    "last_updated_timestamp": "2025-01-21T09:58:35.298665",
     "regions": [
         {
             "region": "us-ashburn-1",
@@ -593,6 +593,12 @@
                     "tags": [
                         "OSN",
                         "OBJECT_STORAGE"
+                    ]
+                },
+                {
+                    "cidr": "136.248.128.0/19",
+                    "tags": [
+                        "OSN"
                     ]
                 },
                 {
@@ -4866,18 +4872,6 @@
         {
             "region": "eu-jovanovac-1",
             "cidrs": [
-                {
-                    "cidr": "81.208.192.0/19",
-                    "tags": [
-                        "OCI"
-                    ]
-                },
-                {
-                    "cidr": "207.127.82.0/23",
-                    "tags": [
-                        "OCI"
-                    ]
-                },
                 {
                     "cidr": "164.152.96.0/22",
                     "tags": [
