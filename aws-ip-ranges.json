@@ -1,6 +1,6 @@
 {
-  "syncToken": "1737681189",
-  "createDate": "2025-01-24-01-13-09",
+  "syncToken": "1737724391",
+  "createDate": "2025-01-24-13-13-11",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -42802,6 +42802,12 @@
     },
     {
       "ip_prefix": "35.83.248.40/29",
+      "region": "us-west-2",
+      "service": "CODEBUILD",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "44.242.161.24/29",
       "region": "us-west-2",
       "service": "CODEBUILD",
       "network_border_group": "us-west-2"
