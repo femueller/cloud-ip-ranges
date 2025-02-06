@@ -1,6 +1,6 @@
 {
-  "syncToken": "1738792390",
-  "createDate": "2025-02-05-21-53-10",
+  "syncToken": "1738860192",
+  "createDate": "2025-02-06-16-43-12",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -63573,6 +63573,96 @@
       "region": "eu-west-2",
       "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "eu-west-2"
+    },
+    {
+      "ipv6_prefix": "2406:da21:c::/48",
+      "region": "af-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "af-south-1"
+    },
+    {
+      "ipv6_prefix": "2406:da24:28::/48",
+      "region": "ap-northeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ipv6_prefix": "2406:da22:4::/48",
+      "region": "ap-northeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-northeast-2"
+    },
+    {
+      "ipv6_prefix": "2406:da2a:14::/48",
+      "region": "ap-south-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ipv6_prefix": "2406:da28:28::/48",
+      "region": "ap-southeast-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
+      "ipv6_prefix": "2406:da2c:24::/48",
+      "region": "ap-southeast-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
+      "ipv6_prefix": "2600:1f21:8::/48",
+      "region": "ca-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d024:18::/48",
+      "region": "eu-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-central-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d028:40::/48",
+      "region": "eu-west-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d02c:8::/48",
+      "region": "eu-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-2"
+    },
+    {
+      "ipv6_prefix": "2a05:d022:1c::/48",
+      "region": "eu-west-3",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "eu-west-3"
+    },
+    {
+      "ipv6_prefix": "2600:1f2e:14::/48",
+      "region": "sa-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f28:34c::/48",
+      "region": "us-east-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ipv6_prefix": "2600:1f26:28::/48",
+      "region": "us-east-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-east-2"
+    },
+    {
+      "ipv6_prefix": "2600:1f24:34::/48",
+      "region": "us-west-2",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "us-west-2"
     },
     {
       "ipv6_prefix": "2600:1f69:7400::/40",
