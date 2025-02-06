@@ -1,6 +1,6 @@
 {
-  "syncToken": "1738860192",
-  "createDate": "2025-02-06-16-43-12",
+  "syncToken": "1738864990",
+  "createDate": "2025-02-06-18-03-10",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -63639,6 +63639,12 @@
       "region": "eu-west-3",
       "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ipv6_prefix": "2a05:d025:1000::/48",
+      "region": "il-central-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "il-central-1"
     },
     {
       "ipv6_prefix": "2600:1f2e:14::/48",
