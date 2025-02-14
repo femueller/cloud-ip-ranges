@@ -1,6 +1,6 @@
 {
-  "syncToken": "1739472790",
-  "createDate": "2025-02-13-18-53-10",
+  "syncToken": "1739548997",
+  "createDate": "2025-02-14-16-03-17",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -29455,6 +29455,42 @@
       "region": "cn-northwest-1",
       "service": "ROUTE53_HEALTHCHECKS",
       "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "18.253.167.0/25",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.167.128/25",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.253.168.0/25",
+      "region": "us-gov-east-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "160.1.55.0/25",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "160.1.55.128/25",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-gov-west-1"
+    },
+    {
+      "ip_prefix": "160.1.56.0/25",
+      "region": "us-gov-west-1",
+      "service": "ROUTE53_HEALTHCHECKS",
+      "network_border_group": "us-gov-west-1"
     },
     {
       "ip_prefix": "54.248.220.0/26",
