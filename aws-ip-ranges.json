@@ -1,6 +1,6 @@
 {
-  "syncToken": "1741722799",
-  "createDate": "2025-03-11-19-53-19",
+  "syncToken": "1741782197",
+  "createDate": "2025-03-12-12-23-17",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -64167,6 +64167,12 @@
       "region": "eu-west-2",
       "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "eu-west-2"
+    },
+    {
+      "ipv6_prefix": "2404:c2c0:c400::/40",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
     },
     {
       "ipv6_prefix": "2600:1f25:14::/48",
