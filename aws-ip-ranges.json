@@ -1,6 +1,6 @@
 {
-  "syncToken": "1742575998",
-  "createDate": "2025-03-21-16-53-18",
+  "syncToken": "1742581400",
+  "createDate": "2025-03-21-18-23-20",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -41877,6 +41877,12 @@
       "network_border_group": "eu-west-1"
     },
     {
+      "ip_prefix": "13.134.24.0/23",
+      "region": "eu-west-2",
+      "service": "CLOUDFRONT",
+      "network_border_group": "eu-west-2"
+    },
+    {
       "ip_prefix": "18.175.65.0/24",
       "region": "eu-west-2",
       "service": "CLOUDFRONT",
@@ -41968,6 +41974,18 @@
     },
     {
       "ip_prefix": "54.233.255.128/26",
+      "region": "sa-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "56.125.46.0/24",
+      "region": "sa-east-1",
+      "service": "CLOUDFRONT",
+      "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "56.125.47.0/32",
       "region": "sa-east-1",
       "service": "CLOUDFRONT",
       "network_border_group": "sa-east-1"
