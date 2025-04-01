@@ -1,6 +1,6 @@
 {
-  "syncToken": "1743528197",
-  "createDate": "2025-04-01-17-23-17",
+  "syncToken": "1743538997",
+  "createDate": "2025-04-01-20-23-17",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -16585,6 +16585,12 @@
       "region": "ap-east-1",
       "service": "AMAZON",
       "network_border_group": "ap-east-1"
+    },
+    {
+      "ip_prefix": "15.177.106.0/24",
+      "region": "me-west-1",
+      "service": "AMAZON",
+      "network_border_group": "me-west-1"
     },
     {
       "ip_prefix": "15.230.246.0/24",
@@ -37767,6 +37773,12 @@
       "network_border_group": "ap-south-1"
     },
     {
+      "ip_prefix": "15.177.106.0/24",
+      "region": "me-west-1",
+      "service": "EC2",
+      "network_border_group": "me-west-1"
+    },
+    {
       "ip_prefix": "18.96.224.0/19",
       "region": "ap-south-1",
       "service": "EC2",
@@ -42727,6 +42739,12 @@
       "region": "us-east-1",
       "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "15.177.106.0/24",
+      "region": "me-west-1",
+      "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+      "network_border_group": "me-west-1"
     },
     {
       "ip_prefix": "15.177.72.0/24",
