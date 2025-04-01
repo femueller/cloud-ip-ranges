@@ -1,6 +1,6 @@
 {
-  "syncToken": "1743430998",
-  "createDate": "2025-03-31-14-23-18",
+  "syncToken": "1743484997",
+  "createDate": "2025-04-01-05-23-17",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -5838,7 +5838,7 @@
       "ip_prefix": "16.57.0.0/18",
       "region": "ap-southeast-1",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ip_prefix": "16.146.0.0/16",
@@ -34554,7 +34554,7 @@
       "ip_prefix": "16.57.0.0/18",
       "region": "ap-southeast-1",
       "service": "EC2",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ip_prefix": "18.230.0.0/16",
@@ -58178,7 +58178,7 @@
       "ipv6_prefix": "2406:daff:8800::/40",
       "region": "ap-southeast-1",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ipv6_prefix": "2406:daff:c800::/40",
@@ -59618,7 +59618,7 @@
       "ipv6_prefix": "2406:da18:8000::/36",
       "region": "ap-southeast-1",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ipv6_prefix": "2406:daa0:2800::/40",
@@ -59894,7 +59894,7 @@
       "ipv6_prefix": "2406:da28:8000::/36",
       "region": "ap-southeast-1",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ipv6_prefix": "2600:1ff2:7400::/40",
@@ -69386,7 +69386,7 @@
       "ipv6_prefix": "2406:daff:8800::/40",
       "region": "ap-southeast-1",
       "service": "EC2",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ipv6_prefix": "2406:daff:c800::/40",
@@ -70472,7 +70472,7 @@
       "ipv6_prefix": "2406:da18:8000::/36",
       "region": "ap-southeast-1",
       "service": "EC2",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ipv6_prefix": "2406:daf2:e000::/40",
@@ -70700,7 +70700,7 @@
       "ipv6_prefix": "2406:da28:8000::/36",
       "region": "ap-southeast-1",
       "service": "EC2",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-2"
     },
     {
       "ipv6_prefix": "2600:1ff2:7400::/40",
