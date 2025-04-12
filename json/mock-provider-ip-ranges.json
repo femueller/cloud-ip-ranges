@@ -1,6 +1,6 @@
 {
   "provider": "Mock Provider",
-  "last_updated": "2025-04-12T05:18:35.754592",
+  "last_updated": "2025-04-12T05:21:10.536022",
   "ip_ranges": [
     "{'ips': ['1.1.1.1', '2.2.2.2']}"
   ]
