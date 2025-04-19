@@ -1,6 +1,6 @@
 {
-  "syncToken": "1745006755228",
-  "creationTime": "2025-04-18T13:05:55.22805",
+  "syncToken": "1745028948903",
+  "creationTime": "2025-04-18T19:15:48.903635",
   "prefixes": [{
     "ipv4Prefix": "34.1.208.0/20",
     "service": "Google Cloud",
@@ -1266,6 +1266,14 @@
     "service": "Google Cloud",
     "scope": "europe-west2"
   }, {
+    "ipv4Prefix": "34.183.8.0/23",
+    "service": "Google Cloud",
+    "scope": "europe-west2"
+  }, {
+    "ipv4Prefix": "34.184.8.0/23",
+    "service": "Google Cloud",
+    "scope": "europe-west2"
+  }, {
     "ipv4Prefix": "35.189.64.0/18",
     "service": "Google Cloud",
     "scope": "europe-west2"
@@ -1423,6 +1431,10 @@
     "scope": "europe-west3"
   }, {
     "ipv4Prefix": "34.1.224.0/19",
+    "service": "Google Cloud",
+    "scope": "europe-west4"
+  }, {
+    "ipv4Prefix": "34.3.80.0/20",
     "service": "Google Cloud",
     "scope": "europe-west4"
   }, {
@@ -2230,6 +2242,14 @@
     "service": "Google Cloud",
     "scope": "us-central1"
   }, {
+    "ipv4Prefix": "34.183.16.0/22",
+    "service": "Google Cloud",
+    "scope": "us-central1"
+  }, {
+    "ipv4Prefix": "34.184.16.0/22",
+    "service": "Google Cloud",
+    "scope": "us-central1"
+  }, {
     "ipv4Prefix": "35.184.0.0/16",
     "service": "Google Cloud",
     "scope": "us-central1"
@@ -2671,6 +2691,14 @@
     "scope": "us-east4"
   }, {
     "ipv4Prefix": "34.182.128.0/17",
+    "service": "Google Cloud",
+    "scope": "us-east4"
+  }, {
+    "ipv4Prefix": "34.183.12.0/22",
+    "service": "Google Cloud",
+    "scope": "us-east4"
+  }, {
+    "ipv4Prefix": "34.184.12.0/22",
     "service": "Google Cloud",
     "scope": "us-east4"
   }, {
