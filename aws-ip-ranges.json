@@ -1,6 +1,6 @@
 {
-  "syncToken": "1747707800",
-  "createDate": "2025-05-20-02-23-20",
+  "syncToken": "1747713202",
+  "createDate": "2025-05-20-03-53-22",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -74139,6 +74139,12 @@
       "region": "us-west-2",
       "service": "EC2_INSTANCE_CONNECT",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ipv6_prefix": "2600:1f18:692c:300::/56",
+      "region": "us-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "us-east-1"
     },
     {
       "ipv6_prefix": "2600:1f16:1ccb:8100::/56",
