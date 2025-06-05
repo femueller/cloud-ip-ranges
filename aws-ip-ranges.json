@@ -1,6 +1,6 @@
 {
-  "syncToken": "1749065003",
-  "createDate": "2025-06-04-19-23-23",
+  "syncToken": "1749152603",
+  "createDate": "2025-06-05-19-43-23",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -51597,6 +51597,18 @@
       "network_border_group": "ap-southeast-2"
     },
     {
+      "ip_prefix": "43.216.87.56/31",
+      "region": "ap-southeast-5",
+      "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "ap-southeast-5"
+    },
+    {
+      "ip_prefix": "43.216.87.60/30",
+      "region": "ap-southeast-5",
+      "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "ap-southeast-5"
+    },
+    {
       "ip_prefix": "15.157.167.134/31",
       "region": "ca-central-1",
       "service": "KINESIS_VIDEO_STREAMS",
@@ -51619,6 +51631,18 @@
       "region": "eu-central-1",
       "service": "KINESIS_VIDEO_STREAMS",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "18.101.90.56/31",
+      "region": "eu-south-2",
+      "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "eu-south-2"
+    },
+    {
+      "ip_prefix": "18.101.90.60/30",
+      "region": "eu-south-2",
+      "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "eu-south-2"
     },
     {
       "ip_prefix": "54.247.243.134/31",
@@ -51655,6 +51679,18 @@
       "region": "eu-west-3",
       "service": "KINESIS_VIDEO_STREAMS",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "16.24.91.112/30",
+      "region": "me-south-1",
+      "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "me-south-1"
+    },
+    {
+      "ip_prefix": "16.24.91.70/31",
+      "region": "me-south-1",
+      "service": "KINESIS_VIDEO_STREAMS",
+      "network_border_group": "me-south-1"
     },
     {
       "ip_prefix": "15.229.206.224/31",
