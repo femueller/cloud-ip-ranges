@@ -1,5 +1,5 @@
 {
-  "changeNumber": 358,
+  "changeNumber": 359,
   "cloud": "Public",
   "values": [
     {
@@ -38148,6 +38148,22 @@
       }
     },
     {
+      "name": "ActionGroup.AustriaEast",
+      "id": "ActionGroup.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "ActionGroup",
+        "addressPrefixes": [
+          "68.210.152.24/30",
+          "2603:1020:104:800::40/125"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "ActionGroup.BrazilSouth",
       "id": "ActionGroup.BrazilSouth",
       "properties": {
@@ -39368,6 +39384,27 @@
           "20.92.3.250/31",
           "2603:1010:101:402::140/124",
           "2603:1010:207::3c0/124"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "ApiManagement.AustriaEast",
+      "id": "ApiManagement.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureApiManagement",
+        "addressPrefixes": [
+          "68.210.163.176/28",
+          "2603:1020:104:4::400/124"
         ],
         "networkFeatures": [
           "API",
@@ -40969,6 +41006,27 @@
           "191.239.188.11/32",
           "2603:1010:101:3::/117",
           "2603:1010:101:402::a0/123"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AppService.AustriaEast",
+      "id": "AppService.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureAppService",
+        "addressPrefixes": [
+          "68.210.171.0/24",
+          "2603:1020:104:5::500/120"
         ],
         "networkFeatures": [
           "API",
@@ -43425,6 +43483,24 @@
       }
     },
     {
+      "name": "AppServiceManagement.AustriaEast",
+      "id": "AppServiceManagement.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureAppServiceManagement",
+        "addressPrefixes": [
+          "68.210.172.192/26",
+          "2603:1020:104:6::c0/122"
+        ],
+        "networkFeatures": [
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "AppServiceManagement.BrazilSouth",
       "id": "AppServiceManagement.BrazilSouth",
       "properties": {
@@ -44880,6 +44956,23 @@
       }
     },
     {
+      "name": "AzureArcInfrastructure.AustriaEast",
+      "id": "AzureArcInfrastructure.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureArcInfrastructure",
+        "addressPrefixes": [
+          "68.210.152.56/32",
+          "68.210.172.144/30",
+          "2603:1020:104:6::80/124"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureArcInfrastructure.BrazilSouth",
       "id": "AzureArcInfrastructure.BrazilSouth",
       "properties": {
@@ -46169,6 +46262,22 @@
       }
     },
     {
+      "name": "AzureAttestation.AustriaEast",
+      "id": "AzureAttestation.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureAttestation",
+        "addressPrefixes": [
+          "68.210.160.20/30",
+          "2603:1020:104:4::420/124"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureAttestation.BrazilSouth",
       "id": "AzureAttestation.BrazilSouth",
       "properties": {
@@ -47247,6 +47356,23 @@
           "104.46.183.64/26",
           "2603:1010:101:7::680/121",
           "2603:1010:101:402::200/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureBackup.AustriaEast",
+      "id": "AzureBackup.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureBackup",
+        "addressPrefixes": [
+          "68.210.164.0/26",
+          "68.210.179.48/28",
+          "2603:1020:104:4::480/121"
         ],
         "networkFeatures": null
       }
@@ -48617,6 +48743,22 @@
       }
     },
     {
+      "name": "AzureBotService.AustriaEast",
+      "id": "AzureBotService.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureBotService",
+        "addressPrefixes": [
+          "68.210.160.16/30",
+          "2603:1020:104:3::6c0/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureBotService.BrazilSouth",
       "id": "AzureBotService.BrazilSouth",
       "properties": {
@@ -49693,6 +49835,22 @@
         "addressPrefixes": [
           "20.42.225.192/26",
           "2603:1010:101::180/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureCognitiveSearch.AustriaEast",
+      "id": "AzureCognitiveSearch.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureCognitiveSearch",
+        "addressPrefixes": [
+          "68.210.160.192/26",
+          "2603:1020:104:3::780/121"
         ],
         "networkFeatures": null
       }
@@ -50877,6 +51035,27 @@
           "52.255.48.202/32",
           "2603:1010:101:402::180/122",
           "2603:1010:207::6c0/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AzureConnectors.AustriaEast",
+      "id": "AzureConnectors.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureConnectors",
+        "addressPrefixes": [
+          "68.210.170.192/26",
+          "2603:1020:104:5::640/122"
         ],
         "networkFeatures": [
           "API",
@@ -52705,6 +52884,39 @@
           "2603:1010:101:800::8/125",
           "2603:1010:207:400::8/125",
           "2603:1010:207:400::80/121"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "AzureContainerRegistry.AustriaEast",
+      "id": "AzureContainerRegistry.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureContainerRegistry",
+        "addressPrefixes": [
+          "68.210.152.64/26",
+          "68.210.154.0/25",
+          "68.210.163.64/26",
+          "68.210.192.64/26",
+          "68.210.194.0/25",
+          "68.210.208.64/26",
+          "68.210.210.0/25",
+          "2603:1020:104:3::368/125",
+          "2603:1020:104:403::8/125",
+          "2603:1020:104:403::80/121",
+          "2603:1020:104:800::8/125",
+          "2603:1020:104:800::80/121",
+          "2603:1020:104:c00::8/125",
+          "2603:1020:104:c00::80/121"
         ],
         "networkFeatures": [
           "API",
@@ -54974,6 +55186,28 @@
       }
     },
     {
+      "name": "AzureCosmosDB.AustriaEast",
+      "id": "AzureCosmosDB.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureCosmosDB",
+        "addressPrefixes": [
+          "68.210.163.0/26",
+          "68.210.179.0/27",
+          "2603:1020:104:4::300/123"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "AzureCosmosDB.BrazilSouth",
       "id": "AzureCosmosDB.BrazilSouth",
       "properties": {
@@ -56909,6 +57143,22 @@
       }
     },
     {
+      "name": "AzureDataExplorerManagement.AustriaEast",
+      "id": "AzureDataExplorerManagement.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureDataExplorerManagement",
+        "addressPrefixes": [
+          "68.210.166.128/28",
+          "2603:1020:104:5::20/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureDataExplorerManagement.BrazilSouth",
       "id": "AzureDataExplorerManagement.BrazilSouth",
       "properties": {
@@ -58833,6 +59083,23 @@
       }
     },
     {
+      "name": "AzureDigitalTwins.AustriaEast",
+      "id": "AzureDigitalTwins.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureDigitalTwins",
+        "addressPrefixes": [
+          "68.210.163.192/27",
+          "68.210.179.32/29",
+          "2603:1020:104:4::380/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureDigitalTwins.BrazilSouth",
       "id": "AzureDigitalTwins.BrazilSouth",
       "properties": {
@@ -60060,6 +60327,22 @@
       }
     },
     {
+      "name": "AzureEventGrid.AustriaEast",
+      "id": "AzureEventGrid.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureEventGrid",
+        "addressPrefixes": [
+          "68.210.161.128/25",
+          "2603:1020:104:4::100/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureEventGrid.BrazilSouth",
       "id": "AzureEventGrid.BrazilSouth",
       "properties": {
@@ -61252,6 +61535,30 @@
           "2603:1010:101::240/122",
           "2603:1010:101:2::600/119",
           "2603:1010:101:402::1c0/123"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "EventHub.AustriaEast",
+      "id": "EventHub.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureEventHub",
+        "addressPrefixes": [
+          "68.210.152.128/26",
+          "68.210.165.0/24",
+          "68.210.192.128/26",
+          "68.210.208.128/26",
+          "2603:1020:104:4::600/120"
         ],
         "networkFeatures": [
           "API",
@@ -64690,6 +64997,35 @@
       }
     },
     {
+      "name": "AzureKeyVault.AustriaEast",
+      "id": "AzureKeyVault.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureKeyVault",
+        "addressPrefixes": [
+          "68.210.152.60/30",
+          "68.210.166.216/30",
+          "68.210.175.184/29",
+          "68.210.195.68/30",
+          "68.210.211.4/30",
+          "2603:1020:104:5::e0/125",
+          "2603:1020:104:7::/123",
+          "2603:1020:104:403::18/125",
+          "2603:1020:104:800::48/125",
+          "2603:1020:104:c00::18/125"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "AzureKeyVault.BrazilSouth",
       "id": "AzureKeyVault.BrazilSouth",
       "properties": {
@@ -66510,6 +66846,22 @@
       }
     },
     {
+      "name": "AzureMachineLearning.AustriaEast",
+      "id": "AzureMachineLearning.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureMachineLearning",
+        "addressPrefixes": [
+          "68.210.161.0/27",
+          "2603:1020:104:4::40/122"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureMachineLearning.BrazilSouth",
       "id": "AzureMachineLearning.BrazilSouth",
       "properties": {
@@ -67825,6 +68177,39 @@
           "2603:1010:101:6::/122",
           "2603:1010:101:402::500/121",
           "2603:1010:207:1::180/121"
+        ],
+        "networkFeatures": [
+          "NSG"
+        ]
+      }
+    },
+    {
+      "name": "AzureMonitor.AustriaEast",
+      "id": "AzureMonitor.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureMonitor",
+        "addressPrefixes": [
+          "68.210.154.184/29",
+          "68.210.156.48/28",
+          "68.210.172.150/31",
+          "68.210.172.188/30",
+          "68.210.173.168/29",
+          "68.210.174.192/26",
+          "68.210.179.92/30",
+          "68.210.194.136/29",
+          "68.210.194.240/28",
+          "68.210.210.136/29",
+          "68.210.210.240/28",
+          "2603:1020:100:11::e/127",
+          "2603:1020:104:3::1a0/123",
+          "2603:1020:104:3::300/122",
+          "2603:1020:104:3::340/123",
+          "2603:1020:104:3::380/121",
+          "2603:1020:104:3::400/121"
         ],
         "networkFeatures": [
           "NSG"
@@ -71747,6 +72132,23 @@
       }
     },
     {
+      "name": "AzurePortal.AustriaEast",
+      "id": "AzurePortal.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzurePortal",
+        "addressPrefixes": [
+          "68.210.173.224/27",
+          "68.210.179.88/30",
+          "2603:1020:104:3::280/121"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzurePortal.BrazilSouth",
       "id": "AzurePortal.BrazilSouth",
       "properties": {
@@ -73009,6 +73411,22 @@
           "2603:1010:101::6c0/122",
           "2603:1010:101:402::280/122",
           "2603:1010:207::500/120"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "AzureResourceManager.AustriaEast",
+      "id": "AzureResourceManager.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureResourceManager",
+        "addressPrefixes": [
+          "68.210.168.0/23",
+          "2603:1020:104:5::200/120"
         ],
         "networkFeatures": null
       }
@@ -74321,6 +74739,36 @@
           "2603:1010:101:1::200/121",
           "2603:1010:101:2::400/121",
           "2603:1010:101:400::/123"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "Sql.AustriaEast",
+      "id": "Sql.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureSQL",
+        "addressPrefixes": [
+          "68.210.154.128/27",
+          "68.210.154.160/29",
+          "68.210.175.32/27",
+          "68.210.175.64/26",
+          "68.210.179.128/27",
+          "68.210.192.48/29",
+          "68.210.192.224/27",
+          "68.210.208.48/29",
+          "68.210.208.224/27",
+          "2603:1020:104:3::4a0/123",
+          "2603:1020:104:3::500/121"
         ],
         "networkFeatures": [
           "API",
@@ -77907,6 +78355,31 @@
       }
     },
     {
+      "name": "ServiceBus.AustriaEast",
+      "id": "ServiceBus.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureServiceBus",
+        "addressPrefixes": [
+          "68.210.152.16/29",
+          "68.210.152.32/28",
+          "68.210.166.0/25",
+          "68.210.192.16/29",
+          "68.210.192.32/28",
+          "68.210.208.16/29",
+          "68.210.208.32/28",
+          "2603:1020:104:4::580/121"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "ServiceBus.BrazilSouth",
       "id": "ServiceBus.BrazilSouth",
       "properties": {
@@ -79778,6 +80251,22 @@
       }
     },
     {
+      "name": "AzureSignalR.AustriaEast",
+      "id": "AzureSignalR.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureSignalR",
+        "addressPrefixes": [
+          "68.210.182.64/26",
+          "2603:1020:104:7::40/122"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "AzureSignalR.BrazilSouth",
       "id": "AzureSignalR.BrazilSouth",
       "properties": {
@@ -80852,6 +81341,30 @@
           "135.130.40.0/24",
           "191.239.192.0/26",
           "2603:1010:206::/48"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "Storage.AustriaEast",
+      "id": "Storage.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "AzureStorage",
+        "addressPrefixes": [
+          "20.33.239.0/24",
+          "20.33.245.0/24",
+          "57.150.117.0/24",
+          "57.150.120.0/22",
+          "2603:1020:101::/48"
         ],
         "networkFeatures": [
           "API",
@@ -84148,6 +84661,25 @@
       }
     },
     {
+      "name": "BatchNodeManagement.AustriaEast",
+      "id": "BatchNodeManagement.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "BatchNodeManagement",
+        "addressPrefixes": [
+          "68.210.161.64/27",
+          "2603:1020:104:4::c0/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "BatchNodeManagement.BrazilSouth",
       "id": "BatchNodeManagement.BrazilSouth",
       "properties": {
@@ -85685,6 +86217,31 @@
           "2603:1010:101:402::330/124",
           "2603:1010:101:800::50/124",
           "2603:1010:207:400::50/124"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
+      "name": "DataFactory.AustriaEast",
+      "id": "DataFactory.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "DataFactory",
+        "addressPrefixes": [
+          "68.210.154.208/28",
+          "68.210.176.0/23",
+          "68.210.194.224/28",
+          "68.210.210.224/28",
+          "2603:1020:104:3::80/121",
+          "2603:1020:104:403::50/124",
+          "2603:1020:104:800::320/124",
+          "2603:1020:104:c00::50/124"
         ],
         "networkFeatures": [
           "API",
@@ -87881,6 +88438,24 @@
       }
     },
     {
+      "name": "GatewayManager.AustriaEast",
+      "id": "GatewayManager.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "GatewayManager",
+        "addressPrefixes": [
+          "68.210.160.64/26",
+          "2603:1020:104:3::680/122"
+        ],
+        "networkFeatures": [
+          "NSG"
+        ]
+      }
+    },
+    {
       "name": "GatewayManager.BrazilSouth",
       "id": "GatewayManager.BrazilSouth",
       "properties": {
@@ -89200,6 +89775,27 @@
           "104.46.176.168/29",
           "2603:1010:101:402::320/124",
           "2603:1010:207::4a0/124"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "HDInsight.AustriaEast",
+      "id": "HDInsight.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "HDInsight",
+        "addressPrefixes": [
+          "68.210.166.208/29",
+          "2603:1020:104:5::d0/124"
         ],
         "networkFeatures": [
           "API",
@@ -90738,6 +91334,28 @@
           "2603:1010:101:402::3e0/123",
           "2603:1010:207:1::230/124",
           "2603:1010:207:1::2e0/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "LogicApps.AustriaEast",
+      "id": "LogicApps.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "LogicApps",
+        "addressPrefixes": [
+          "68.210.156.32/28",
+          "68.210.156.64/27",
+          "68.210.183.160/28",
+          "68.210.183.192/27",
+          "2603:1020:104:6::300/122",
+          "2603:1020:104:7::1c0/122",
+          "2603:1020:104:800::330/124",
+          "2603:1020:104:800::340/123"
         ],
         "networkFeatures": null
       }
@@ -94534,6 +95152,31 @@
       }
     },
     {
+      "name": "MicrosoftContainerRegistry.AustriaEast",
+      "id": "MicrosoftContainerRegistry.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "MicrosoftContainerRegistry",
+        "addressPrefixes": [
+          "68.210.152.0/29",
+          "68.210.192.0/29",
+          "68.210.208.0/29",
+          "2603:1020:104:403::/125",
+          "2603:1020:104:800::/125",
+          "2603:1020:104:c00::/125"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
       "name": "MicrosoftContainerRegistry.BrazilSouth",
       "id": "MicrosoftContainerRegistry.BrazilSouth",
       "properties": {
@@ -96088,6 +96731,32 @@
           "20.211.229.128/26",
           "2603:1010:101::620/123",
           "2603:1010:101::640/122"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG",
+          "UDR",
+          "FW"
+        ]
+      }
+    },
+    {
+      "name": "PowerBI.AustriaEast",
+      "id": "PowerBI.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "PowerBI",
+        "addressPrefixes": [
+          "68.210.172.148/31",
+          "68.210.172.184/30",
+          "68.210.173.160/29",
+          "68.210.182.48/28",
+          "68.210.182.192/28",
+          "2603:1020:104:3::140/122",
+          "2603:1020:104:3::180/123"
         ],
         "networkFeatures": [
           "API",
@@ -101372,6 +102041,22 @@
       }
     },
     {
+      "name": "PowerQueryOnline.AustriaEast",
+      "id": "PowerQueryOnline.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "PowerQueryOnline",
+        "addressPrefixes": [
+          "68.210.160.40/29",
+          "2603:1020:104:4::20/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "PowerQueryOnline.BrazilSouth",
       "id": "PowerQueryOnline.BrazilSouth",
       "properties": {
@@ -103654,6 +104339,26 @@
       }
     },
     {
+      "name": "ServiceFabric.AustriaEast",
+      "id": "ServiceFabric.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "ServiceFabric",
+        "addressPrefixes": [
+          "68.210.152.12/30",
+          "68.210.192.8/30",
+          "68.210.208.8/30",
+          "2603:1020:104:403::10/125",
+          "2603:1020:104:800::18/125",
+          "2603:1020:104:c00::10/125"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "ServiceFabric.BrazilSouth",
       "id": "ServiceFabric.BrazilSouth",
       "properties": {
@@ -104956,6 +105661,22 @@
       }
     },
     {
+      "name": "StorageSyncService.AustriaEast",
+      "id": "StorageSyncService.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "StorageSyncService",
+        "addressPrefixes": [
+          "68.210.152.48/29",
+          "2603:1020:104:800::120/123"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
       "name": "StorageSyncService.BrazilSouth",
       "id": "StorageSyncService.BrazilSouth",
       "properties": {
@@ -106036,6 +106757,21 @@
         "addressPrefixes": [
           "40.64.146.64/28",
           "2603:1061:2010:1::/117"
+        ],
+        "networkFeatures": null
+      }
+    },
+    {
+      "name": "WindowsVirtualDesktop.AustriaEast",
+      "id": "WindowsVirtualDesktop.AustriaEast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "WindowsVirtualDesktop",
+        "addressPrefixes": [
+          "2603:1061:2010:3d::/117"
         ],
         "networkFeatures": null
       }
@@ -111529,6 +112265,92 @@
           "2a01:111:f403:d40e::/64",
           "2a01:111:f403:dc0e::/64",
           "2a01:111:f403:e40e::/64"
+        ],
+        "networkFeatures": [
+          "API",
+          "NSG"
+        ]
+      }
+    },
+    {
+      "name": "AzureCloud.austriaeast",
+      "id": "AzureCloud.austriaeast",
+      "properties": {
+        "changeNumber": 1,
+        "region": "austriaeast",
+        "regionId": 95,
+        "platform": "Azure",
+        "systemService": "",
+        "addressPrefixes": [
+          "20.20.53.224/27",
+          "20.20.54.0/26",
+          "20.20.54.64/27",
+          "20.33.239.0/24",
+          "20.33.245.0/24",
+          "20.152.50.0/23",
+          "20.152.52.0/22",
+          "20.157.197.0/24",
+          "20.201.172.0/23",
+          "20.202.60.0/24",
+          "20.202.64.0/24",
+          "20.231.150.96/27",
+          "20.231.150.128/26",
+          "20.231.150.192/27",
+          "40.64.190.128/25",
+          "40.78.213.0/24",
+          "40.80.28.0/22",
+          "40.93.89.0/24",
+          "40.100.4.128/25",
+          "40.100.5.0/26",
+          "40.101.116.0/25",
+          "40.101.116.128/26",
+          "40.107.176.0/22",
+          "40.107.180.0/24",
+          "52.102.186.0/24",
+          "52.103.58.0/24",
+          "52.103.186.0/24",
+          "52.106.184.0/27",
+          "52.108.115.0/24",
+          "52.108.155.0/24",
+          "52.253.203.0/24",
+          "57.150.117.0/24",
+          "57.150.120.0/22",
+          "68.210.0.0/17",
+          "68.210.128.0/18",
+          "68.210.192.0/20",
+          "68.210.208.0/21",
+          "70.152.214.0/23",
+          "70.152.216.0/22",
+          "70.152.220.0/23",
+          "209.199.22.176/28",
+          "209.199.24.64/26",
+          "209.199.24.128/26",
+          "209.199.24.192/27",
+          "209.199.25.0/24",
+          "2603:1020:100::/47",
+          "2603:1020:103::/48",
+          "2603:1020:104::/48",
+          "2603:1026:900:20::/64",
+          "2603:1026:2410::/48",
+          "2603:1026:3000:1e0::/59",
+          "2603:1027:1:1e0::/59",
+          "2603:1046:a00::/63",
+          "2603:1046:a00:2::/64",
+          "2603:1061:1003::/48",
+          "2603:1061:1311::/54",
+          "2603:1061:173d::/48",
+          "2603:1061:2010:3d::/64",
+          "2603:1061:2011:3d::/64",
+          "2603:1063:13a::/56",
+          "2603:1063:633::/56",
+          "2603:1063:2206:50::/64",
+          "2a01:111:f403:c216::/64",
+          "2a01:111:f403:ca6e::/63",
+          "2a01:111:f403:ca73::/64",
+          "2a01:111:f403:ca74::/63",
+          "2a01:111:f403:d216::/64",
+          "2a01:111:f403:da16::/64",
+          "2a01:111:f403:e216::/64"
         ],
         "networkFeatures": [
           "API",
