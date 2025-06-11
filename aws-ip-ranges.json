@@ -1,6 +1,6 @@
 {
-  "syncToken": "1749593602",
-  "createDate": "2025-06-10-22-13-22",
+  "syncToken": "1749599010",
+  "createDate": "2025-06-10-23-43-30",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -77984,6 +77984,12 @@
       "ipv6_prefix": "2600:f0f0:4100::/40",
       "region": "GLOBAL",
       "service": "CHIME_MEETINGS",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:5200::/40",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
     },
     {
