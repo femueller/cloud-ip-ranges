@@ -1,6 +1,6 @@
 {
-  "syncToken": "1750132403",
-  "createDate": "2025-06-17-03-53-23",
+  "syncToken": "1750137800",
+  "createDate": "2025-06-17-05-23-20",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -10008,7 +10008,7 @@
       "ip_prefix": "96.0.180.0/22",
       "region": "ap-southeast-1",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-1b"
     },
     {
       "ip_prefix": "99.151.112.0/21",
@@ -26202,7 +26202,7 @@
       "ip_prefix": "96.0.176.0/22",
       "region": "ap-southeast-1",
       "service": "AMAZON",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-1a"
     },
     {
       "ip_prefix": "99.83.72.0/22",
@@ -37248,7 +37248,7 @@
       "ip_prefix": "96.0.180.0/22",
       "region": "ap-southeast-1",
       "service": "EC2",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-1b"
     },
     {
       "ip_prefix": "99.77.55.25/32",
@@ -42108,7 +42108,7 @@
       "ip_prefix": "96.0.176.0/22",
       "region": "ap-southeast-1",
       "service": "EC2",
-      "network_border_group": "ap-southeast-1"
+      "network_border_group": "ap-southeast-1-sggov-sin-1a"
     },
     {
       "ip_prefix": "142.4.180.0/24",
