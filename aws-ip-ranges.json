@@ -1,6 +1,6 @@
 {
-  "syncToken": "1750982597",
-  "createDate": "2025-06-27-00-03-17",
+  "syncToken": "1751047399",
+  "createDate": "2025-06-27-18-03-19",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -79323,6 +79323,12 @@
       "region": "ap-northeast-1",
       "service": "AURORA_DSQL",
       "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ipv6_prefix": "2406:da12:8f1:3d00::/56",
+      "region": "ap-northeast-2",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-northeast-2"
     },
     {
       "ipv6_prefix": "2406:da16:c46:6600::/56",
