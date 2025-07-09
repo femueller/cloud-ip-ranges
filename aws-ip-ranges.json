@@ -1,6 +1,6 @@
 {
-  "syncToken": "1752027197",
-  "createDate": "2025-07-09-02-13-17",
+  "syncToken": "1752031410",
+  "createDate": "2025-07-09-03-23-30",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -79289,13 +79289,37 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:1400::/39",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:1800::/39",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:5200::/40",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:1a00::/39",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1000::/39",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:1600::/39",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
