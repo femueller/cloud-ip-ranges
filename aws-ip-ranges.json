@@ -1,6 +1,6 @@
 {
-  "syncToken": "1752011602",
-  "createDate": "2025-07-08-21-53-22",
+  "syncToken": "1752017611",
+  "createDate": "2025-07-08-23-33-31",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -79307,6 +79307,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11b8::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:10e5::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -79356,6 +79362,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:10a4::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11b7::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -79517,6 +79529,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11b1::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:107c::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -79530,6 +79548,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1150::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11be::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -79715,6 +79739,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11ab::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1009::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -79758,6 +79788,18 @@
     },
     {
       "ipv6_prefix": "2600:9000:10f0::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c0:3::/64",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11cc::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -79865,6 +79907,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11b9:1::/64",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:10e8::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -79908,6 +79956,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:100c::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11cf:2::/63",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -79997,6 +80051,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11cf:5::/64",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1019::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -80004,6 +80064,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1175::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c0:4::/64",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80057,7 +80123,19 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11c3::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1013::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11cb::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80112,6 +80190,24 @@
     },
     {
       "ipv6_prefix": "2600:9000:114b::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11bb::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11bc::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c9::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80237,6 +80333,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11ce::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1044::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -80262,6 +80364,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1153::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11ad::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80573,6 +80681,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11c8::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:100f::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -80627,6 +80741,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11ba::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1141::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -80640,6 +80760,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1180::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11b2::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80741,6 +80867,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11c7::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:112f::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -80748,6 +80880,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1018::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c0:2::/64",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80772,6 +80910,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1100::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11b9::/64",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -80951,6 +81095,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11cf:6::/63",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1082::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -80970,6 +81120,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:10f3::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11b0::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81035,7 +81191,31 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11cf::/64",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11b5::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11d1::/63",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:10d7::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11ac::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81048,6 +81228,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1168::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11cf:4::/64",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81089,6 +81275,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11b3::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:101d::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81114,6 +81306,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1147::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c6::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81155,6 +81353,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11d1:4::/63",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1020::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81168,6 +81372,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:10de::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11bf::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81371,6 +81581,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11af::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1152::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81425,6 +81641,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11c4::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1054::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81461,6 +81683,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11cd::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:102e::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81468,12 +81696,6 @@
     },
     {
       "ipv6_prefix": "2600:9000:1053::/48",
-      "region": "GLOBAL",
-      "service": "CLOUDFRONT_ORIGIN_FACING",
-      "network_border_group": "GLOBAL"
-    },
-    {
-      "ipv6_prefix": "2600:9000:11ab:6::/63",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81533,6 +81755,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11b4::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1056::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81564,6 +81792,24 @@
     },
     {
       "ipv6_prefix": "2600:9000:10c8::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11ae::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c2::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11c5::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81629,6 +81875,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11c1::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:112c::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81641,12 +81893,6 @@
       "network_border_group": "GLOBAL"
     },
     {
-      "ipv6_prefix": "2600:9000:11ab:8::/63",
-      "region": "GLOBAL",
-      "service": "CLOUDFRONT_ORIGIN_FACING",
-      "network_border_group": "GLOBAL"
-    },
-    {
       "ipv6_prefix": "2600:9000:1160::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81654,6 +81900,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:1047::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11d0::/63",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
@@ -81761,6 +82013,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11d2::/63",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:1072::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81785,6 +82043,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11bd::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:10c3::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81797,6 +82061,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ipv6_prefix": "2600:9000:11ca::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ipv6_prefix": "2600:9000:101b::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -81804,6 +82074,12 @@
     },
     {
       "ipv6_prefix": "2600:9000:10da::/48",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ipv6_prefix": "2600:9000:11b6::/48",
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
