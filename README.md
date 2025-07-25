@@ -13,6 +13,7 @@ which shows their assigned IP ranges.
 * Google Cloud (GCloud) - https://www.gstatic.com/ipranges/cloud.json
 * Oracle Cloud - https://docs.oracle.com/iaas/tools/public_ip_ranges.json
 * Linode - https://geoip.linode.com/
+* Vultr - https://docs.vultr.com/vultr-ip-space
 
 ### Missing data (to add)
 
